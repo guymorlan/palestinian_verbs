@@ -47,7 +47,8 @@
                 "Past": "كانو"
             }
         ],
-        "text": "<strong>كان</strong></span> <br>form 1<br>to be</i>"
+        "text": "<strong>كان</strong></span> <br>form 1<br>to be</i>",
+        "id": 0
     },
     {
         "verb": "بَكى",
@@ -97,7 +98,8 @@
                 "Past": "بَكو"
             }
         ],
-        "text": "<strong>بَكى</strong></span> <br>form 1<br>to be</i>"
+        "text": "<strong>بَكى</strong></span> <br>form 1<br>to be</i>",
+        "id": 1
     },
     {
         "verb": "بٍقي",
@@ -147,7 +149,8 @@
                 "Past": "بٍقو"
             }
         ],
-        "text": "<strong>بٍقي</strong></span> <br>form 1<br>to remain</i>"
+        "text": "<strong>بٍقي</strong></span> <br>form 1<br>to remain</i>",
+        "id": 2
     },
     {
         "verb": "وِجِد",
@@ -197,7 +200,8 @@
                 "Past": "وِجدو"
             }
         ],
-        "text": "<strong>وِجِد</strong></span> <br>form 1<br>to exist</i>"
+        "text": "<strong>وِجِد</strong></span> <br>form 1<br>to exist</i>",
+        "id": 3
     },
     {
         "verb": "سَوّى",
@@ -247,7 +251,8 @@
                 "Past": "سَوّو"
             }
         ],
-        "text": "<strong>سَوّى</strong></span> <br>form 2<br>to do</i>"
+        "text": "<strong>سَوّى</strong></span> <br>form 2<br>to do</i>",
+        "id": 4
     },
     {
         "verb": "عامَل",
@@ -297,7 +302,8 @@
                 "Past": "عامَلو"
             }
         ],
-        "text": "<strong>عامَل</strong></span> <br>form 3<br>to treat</i>"
+        "text": "<strong>عامَل</strong></span> <br>form 3<br>to treat</i>",
+        "id": 5
     },
     {
         "verb": "تعامَل",
@@ -347,7 +353,8 @@
                 "Past": "تعامَلو"
             }
         ],
-        "text": "<strong>تعامَل</strong></span> <br>form 6<br>to interact</i>"
+        "text": "<strong>تعامَل</strong></span> <br>form 6<br>to interact</i>",
+        "id": 6
     },
     {
         "verb": "استَعمَل",
@@ -397,7 +404,8 @@
                 "Past": "استَعمَلو"
             }
         ],
-        "text": "<strong>استَعمَل</strong></span> <br>form 10<br>to use</i>"
+        "text": "<strong>استَعمَل</strong></span> <br>form 10<br>to use</i>",
+        "id": 7
     },
     {
         "verb": "استَخدَم",
@@ -447,7 +455,8 @@
                 "Past": "استَخدَمو"
             }
         ],
-        "text": "<strong>استَخدَم</strong></span> <br>form 10<br>to use</i>"
+        "text": "<strong>استَخدَم</strong></span> <br>form 10<br>to use</i>",
+        "id": 8
     },
     {
         "verb": "مارَس",
@@ -497,7 +506,8 @@
                 "Past": "مارَسو"
             }
         ],
-        "text": "<strong>مارَس</strong></span> <br>form 3<br>to practice</i>"
+        "text": "<strong>مارَس</strong></span> <br>form 3<br>to practice</i>",
+        "id": 9
     },
     {
         "verb": "نِجِح",
@@ -547,7 +557,8 @@
                 "Past": "نِجحو"
             }
         ],
-        "text": "<strong>نِجِح</strong></span> <br>form 1<br>to succeed</i>"
+        "text": "<strong>نِجِح</strong></span> <br>form 1<br>to succeed</i>",
+        "id": 10
     },
     {
         "verb": "قِدِر",
@@ -597,7 +608,8 @@
                 "Past": "قِدرو"
             }
         ],
-        "text": "<strong>قِدِر</strong></span> <br>form 1<br>to be able</i>"
+        "text": "<strong>قِدِر</strong></span> <br>form 1<br>to be able</i>",
+        "id": 11
     },
     {
         "verb": "قَدَّر",
@@ -647,7 +659,8 @@
                 "Past": "قَدَّرو"
             }
         ],
-        "text": "<strong>قَدَّر</strong></span> <br>form 2<br>to appreciate</i>"
+        "text": "<strong>قَدَّر</strong></span> <br>form 2<br>to appreciate</i>",
+        "id": 12
     },
     {
         "verb": "اضطَرّ",
@@ -697,7 +710,8 @@
                 "Past": "اضطَرّو"
             }
         ],
-        "text": "<strong>اضطَرّ</strong></span> <br>form 8<br>to be obligated</i>"
+        "text": "<strong>اضطَرّ</strong></span> <br>form 8<br>to be obligated</i>",
+        "id": 13
     },
     {
         "verb": "لِزِم",
@@ -747,7 +761,8 @@
                 "Past": "لِزمو"
             }
         ],
-        "text": "<strong>لِزِم</strong></span> <br>form 1<br>to be necessary</i>"
+        "text": "<strong>لِزِم</strong></span> <br>form 1<br>to be necessary</i>",
+        "id": 14
     },
     {
         "verb": "التَزَم",
@@ -797,7 +812,8 @@
                 "Past": "التَزَمو"
             }
         ],
-        "text": "<strong>التَزَم</strong></span> <br>form 8<br>to commit</i>"
+        "text": "<strong>التَزَم</strong></span> <br>form 8<br>to commit</i>",
+        "id": 15
     },
     {
         "verb": "اغتَصَب",
@@ -847,7 +863,8 @@
                 "Past": "اغتَصَبو"
             }
         ],
-        "text": "<strong>اغتَصَب</strong></span> <br>form 8<br>to violate</i>"
+        "text": "<strong>اغتَصَب</strong></span> <br>form 8<br>to violate</i>",
+        "id": 16
     },
     {
         "verb": "غَصَب",
@@ -897,7 +914,8 @@
                 "Past": "غَصَبو"
             }
         ],
-        "text": "<strong>غَصَب</strong></span> <br>form 1<br>to force</i>"
+        "text": "<strong>غَصَب</strong></span> <br>form 1<br>to force</i>",
+        "id": 17
     },
     {
         "verb": "جَبَر",
@@ -947,7 +965,8 @@
                 "Past": "جَبَرو"
             }
         ],
-        "text": "<strong>جَبَر</strong></span> <br>form 1<br>to force</i>"
+        "text": "<strong>جَبَر</strong></span> <br>form 1<br>to force</i>",
+        "id": 18
     },
     {
         "verb": "تخَلّى",
@@ -997,7 +1016,8 @@
                 "Past": "تخَلّو"
             }
         ],
-        "text": "<strong>تخَلّى</strong></span> <br>form 5<br>to let go</i>"
+        "text": "<strong>تخَلّى</strong></span> <br>form 5<br>to let go</i>",
+        "id": 19
     },
     {
         "verb": "خَلّى",
@@ -1047,7 +1067,8 @@
                 "Past": "خَلّو"
             }
         ],
-        "text": "<strong>خَلّى</strong></span> <br>form 2<br>to allow</i>"
+        "text": "<strong>خَلّى</strong></span> <br>form 2<br>to allow</i>",
+        "id": 20
     },
     {
         "verb": "سَمَح",
@@ -1097,7 +1118,8 @@
                 "Past": "سَمَحو"
             }
         ],
-        "text": "<strong>سَمَح</strong></span> <br>form 1<br>to allow</i>"
+        "text": "<strong>سَمَح</strong></span> <br>form 1<br>to allow</i>",
+        "id": 21
     },
     {
         "verb": "سامَح",
@@ -1147,7 +1169,8 @@
                 "Past": "سامَحو"
             }
         ],
-        "text": "<strong>سامَح</strong></span> <br>form 3<br>to forgive</i>"
+        "text": "<strong>سامَح</strong></span> <br>form 3<br>to forgive</i>",
+        "id": 22
     },
     {
         "verb": "استَرخى",
@@ -1197,7 +1220,8 @@
                 "Past": "استَرخو"
             }
         ],
-        "text": "<strong>استَرخى</strong></span> <br>form 10<br>to relax</i>"
+        "text": "<strong>استَرخى</strong></span> <br>form 10<br>to relax</i>",
+        "id": 23
     },
     {
         "verb": "استَراح",
@@ -1247,7 +1271,8 @@
                 "Past": "استَراحو"
             }
         ],
-        "text": "<strong>استَراح</strong></span> <br>form 10<br>to relax</i>"
+        "text": "<strong>استَراح</strong></span> <br>form 10<br>to relax</i>",
+        "id": 24
     },
     {
         "verb": "ارتاح",
@@ -1297,7 +1322,8 @@
                 "Past": "ارتاحو"
             }
         ],
-        "text": "<strong>ارتاح</strong></span> <br>form 8<br>to relax</i>"
+        "text": "<strong>ارتاح</strong></span> <br>form 8<br>to relax</i>",
+        "id": 25
     },
     {
         "verb": "راح",
@@ -1347,7 +1373,8 @@
                 "Past": "راحو"
             }
         ],
-        "text": "<strong>راح</strong></span> <br>form 1<br>to go</i>"
+        "text": "<strong>راح</strong></span> <br>form 1<br>to go</i>",
+        "id": 26
     },
     {
         "verb": "رَوَّح",
@@ -1397,7 +1424,8 @@
                 "Past": "رَوَّحو"
             }
         ],
-        "text": "<strong>رَوَّح</strong></span> <br>form 2<br>to return</i>"
+        "text": "<strong>رَوَّح</strong></span> <br>form 2<br>to return</i>",
+        "id": 27
     },
     {
         "verb": "رِجِع",
@@ -1447,7 +1475,8 @@
                 "Past": "رِجعو"
             }
         ],
-        "text": "<strong>رِجِع</strong></span> <br>form 1<br>to return</i>"
+        "text": "<strong>رِجِع</strong></span> <br>form 1<br>to return</i>",
+        "id": 28
     },
     {
         "verb": "رَجَّع",
@@ -1497,7 +1526,8 @@
                 "Past": "رَجَّعو"
             }
         ],
-        "text": "<strong>رَجَّع</strong></span> <br>form 2<br>to return</i>"
+        "text": "<strong>رَجَّع</strong></span> <br>form 2<br>to return</i>",
+        "id": 29
     },
     {
         "verb": "عاد",
@@ -1547,7 +1577,8 @@
                 "Past": "عادو"
             }
         ],
-        "text": "<strong>عاد</strong></span> <br>form 1<br>to return</i>"
+        "text": "<strong>عاد</strong></span> <br>form 1<br>to return</i>",
+        "id": 30
     },
     {
         "verb": "تعَوَّد",
@@ -1597,7 +1628,8 @@
                 "Past": "تعَوَّدو"
             }
         ],
-        "text": "<strong>تعَوَّد</strong></span> <br>form 5<br>to get used to</i>"
+        "text": "<strong>تعَوَّد</strong></span> <br>form 5<br>to get used to</i>",
+        "id": 31
     },
     {
         "verb": "تابَع",
@@ -1647,7 +1679,8 @@
                 "Past": "تابَعو"
             }
         ],
-        "text": "<strong>تابَع</strong></span> <br>form 3<br>to follow</i>"
+        "text": "<strong>تابَع</strong></span> <br>form 3<br>to follow</i>",
+        "id": 32
     },
     {
         "verb": "لِحِق",
@@ -1697,7 +1730,8 @@
                 "Past": "لِحقو"
             }
         ],
-        "text": "<strong>لِحِق</strong></span> <br>form 1<br>to follow</i>"
+        "text": "<strong>لِحِق</strong></span> <br>form 1<br>to follow</i>",
+        "id": 33
     },
     {
         "verb": "فات",
@@ -1747,7 +1781,8 @@
                 "Past": "فاتو"
             }
         ],
-        "text": "<strong>فات</strong></span> <br>form 1<br>to enter</i>"
+        "text": "<strong>فات</strong></span> <br>form 1<br>to enter</i>",
+        "id": 34
     },
     {
         "verb": "فَوَّت",
@@ -1797,7 +1832,8 @@
                 "Past": "فَوَّتو"
             }
         ],
-        "text": "<strong>فَوَّت</strong></span> <br>form 2<br>to put in</i>"
+        "text": "<strong>فَوَّت</strong></span> <br>form 2<br>to put in</i>",
+        "id": 35
     },
     {
         "verb": "خَشّ",
@@ -1847,7 +1883,8 @@
                 "Past": "خَشّو"
             }
         ],
-        "text": "<strong>خَشّ</strong></span> <br>form 1<br>to enter</i>"
+        "text": "<strong>خَشّ</strong></span> <br>form 1<br>to enter</i>",
+        "id": 36
     },
     {
         "verb": "دَخَل",
@@ -1897,7 +1934,8 @@
                 "Past": "دَخَلو"
             }
         ],
-        "text": "<strong>دَخَل</strong></span> <br>form 1<br>to enter</i>"
+        "text": "<strong>دَخَل</strong></span> <br>form 1<br>to enter</i>",
+        "id": 37
     },
     {
         "verb": "دَخَّل",
@@ -1947,7 +1985,8 @@
                 "Past": "دَخَّلو"
             }
         ],
-        "text": "<strong>دَخَّل</strong></span> <br>form 2<br>to put in</i>"
+        "text": "<strong>دَخَّل</strong></span> <br>form 2<br>to put in</i>",
+        "id": 38
     },
     {
         "verb": "تدَخَّل",
@@ -1997,7 +2036,8 @@
                 "Past": "تدَخَّلو"
             }
         ],
-        "text": "<strong>تدَخَّل</strong></span> <br>form 5<br>to intervene</i>"
+        "text": "<strong>تدَخَّل</strong></span> <br>form 5<br>to intervene</i>",
+        "id": 39
     },
     {
         "verb": "ساب",
@@ -2047,7 +2087,8 @@
                 "Past": "سابو"
             }
         ],
-        "text": "<strong>ساب</strong></span> <br>form 1<br>to leave</i>"
+        "text": "<strong>ساب</strong></span> <br>form 1<br>to leave</i>",
+        "id": 40
     },
     {
         "verb": "خَرَج",
@@ -2097,7 +2138,8 @@
                 "Past": "خَرَجو"
             }
         ],
-        "text": "<strong>خَرَج</strong></span> <br>form 1<br>to exit</i>"
+        "text": "<strong>خَرَج</strong></span> <br>form 1<br>to exit</i>",
+        "id": 41
     },
     {
         "verb": "تخَرَّج",
@@ -2147,7 +2189,8 @@
                 "Past": "تخَرَّجو"
             }
         ],
-        "text": "<strong>تخَرَّج</strong></span> <br>form 5<br>to graduate</i>"
+        "text": "<strong>تخَرَّج</strong></span> <br>form 5<br>to graduate</i>",
+        "id": 42
     },
     {
         "verb": "طاح",
@@ -2197,7 +2240,8 @@
                 "Past": "طاحو"
             }
         ],
-        "text": "<strong>طاح</strong></span> <br>form 1<br>to go down</i>"
+        "text": "<strong>طاح</strong></span> <br>form 1<br>to go down</i>",
+        "id": 43
     },
     {
         "verb": "نِزِل",
@@ -2247,7 +2291,8 @@
                 "Past": "نِزلو"
             }
         ],
-        "text": "<strong>نِزِل</strong></span> <br>form 1<br>to go down</i>"
+        "text": "<strong>نِزِل</strong></span> <br>form 1<br>to go down</i>",
+        "id": 44
     },
     {
         "verb": "نَزَّل",
@@ -2297,7 +2342,8 @@
                 "Past": "نَزَّلو"
             }
         ],
-        "text": "<strong>نَزَّل</strong></span> <br>form 2<br>to lower</i>"
+        "text": "<strong>نَزَّل</strong></span> <br>form 2<br>to lower</i>",
+        "id": 45
     },
     {
         "verb": "تنازَل",
@@ -2347,7 +2393,8 @@
                 "Past": "تنازَلو"
             }
         ],
-        "text": "<strong>تنازَل</strong></span> <br>form 6<br>to step down</i>"
+        "text": "<strong>تنازَل</strong></span> <br>form 6<br>to step down</i>",
+        "id": 46
     },
     {
         "verb": "طِلِع",
@@ -2397,7 +2444,8 @@
                 "Past": "طِلعو"
             }
         ],
-        "text": "<strong>طِلِع</strong></span> <br>form 1<br>to go up</i>"
+        "text": "<strong>طِلِع</strong></span> <br>form 1<br>to go up</i>",
+        "id": 47
     },
     {
         "verb": "تطَلَّع",
@@ -2447,7 +2495,8 @@
                 "Past": "تطَلَّعو"
             }
         ],
-        "text": "<strong>تطَلَّع</strong></span> <br>form 5<br>to look</i>"
+        "text": "<strong>تطَلَّع</strong></span> <br>form 5<br>to look</i>",
+        "id": 48
     },
     {
         "verb": "تفَرَّج",
@@ -2497,7 +2546,8 @@
                 "Past": "تفَرَّجو"
             }
         ],
-        "text": "<strong>تفَرَّج</strong></span> <br>form 5<br>to look</i>"
+        "text": "<strong>تفَرَّج</strong></span> <br>form 5<br>to look</i>",
+        "id": 49
     },
     {
         "verb": "عَرَض",
@@ -2547,7 +2597,8 @@
                 "Past": "عَرَضو"
             }
         ],
-        "text": "<strong>عَرَض</strong></span> <br>form 1<br>to show</i>"
+        "text": "<strong>عَرَض</strong></span> <br>form 1<br>to show</i>",
+        "id": 50
     },
     {
         "verb": "اعتَرَض",
@@ -2597,7 +2648,8 @@
                 "Past": "اعتَرَضو"
             }
         ],
-        "text": "<strong>اعتَرَض</strong></span> <br>form 8<br>to oppose</i>"
+        "text": "<strong>اعتَرَض</strong></span> <br>form 8<br>to oppose</i>",
+        "id": 51
     },
     {
         "verb": "وِصِل",
@@ -2647,7 +2699,8 @@
                 "Past": "وِصلو"
             }
         ],
-        "text": "<strong>وِصِل</strong></span> <br>form 1<br>to arrive</i>"
+        "text": "<strong>وِصِل</strong></span> <br>form 1<br>to arrive</i>",
+        "id": 52
     },
     {
         "verb": "وَصَّل",
@@ -2697,7 +2750,8 @@
                 "Past": "وَصَّلو"
             }
         ],
-        "text": "<strong>وَصَّل</strong></span> <br>form 2<br>to deliver</i>"
+        "text": "<strong>وَصَّل</strong></span> <br>form 2<br>to deliver</i>",
+        "id": 53
     },
     {
         "verb": "تواصَل",
@@ -2747,7 +2801,8 @@
                 "Past": "تواصَلو"
             }
         ],
-        "text": "<strong>تواصَل</strong></span> <br>form 6<br>to communicate</i>"
+        "text": "<strong>تواصَل</strong></span> <br>form 6<br>to communicate</i>",
+        "id": 54
     },
     {
         "verb": "اتَّصَل",
@@ -2797,7 +2852,8 @@
                 "Past": "اتَّصَلو"
             }
         ],
-        "text": "<strong>اتَّصَل</strong></span> <br>form 8<br>to contact</i>"
+        "text": "<strong>اتَّصَل</strong></span> <br>form 8<br>to contact</i>",
+        "id": 55
     },
     {
         "verb": "زار",
@@ -2847,7 +2903,8 @@
                 "Past": "زارو"
             }
         ],
-        "text": "<strong>زار</strong></span> <br>form 1<br>to visit</i>"
+        "text": "<strong>زار</strong></span> <br>form 1<br>to visit</i>",
+        "id": 56
     },
     {
         "verb": "سافَر",
@@ -2897,7 +2954,8 @@
                 "Past": "سافَرو"
             }
         ],
-        "text": "<strong>سافَر</strong></span> <br>form 3<br>to travel</i>"
+        "text": "<strong>سافَر</strong></span> <br>form 3<br>to travel</i>",
+        "id": 57
     },
     {
         "verb": "هَرَب",
@@ -2947,7 +3005,8 @@
                 "Past": "هَرَبو"
             }
         ],
-        "text": "<strong>هَرَب</strong></span> <br>form 1<br>to escape</i>"
+        "text": "<strong>هَرَب</strong></span> <br>form 1<br>to escape</i>",
+        "id": 58
     },
     {
         "verb": "تهَرَّب",
@@ -2997,7 +3056,8 @@
                 "Past": "تهَرَّبو"
             }
         ],
-        "text": "<strong>تهَرَّب</strong></span> <br>form 5<br>to avoid</i>"
+        "text": "<strong>تهَرَّب</strong></span> <br>form 5<br>to avoid</i>",
+        "id": 59
     },
     {
         "verb": "مَشى",
@@ -3047,7 +3107,8 @@
                 "Past": "مَشو"
             }
         ],
-        "text": "<strong>مَشى</strong></span> <br>form 1<br>to walk</i>"
+        "text": "<strong>مَشى</strong></span> <br>form 1<br>to walk</i>",
+        "id": 60
     },
     {
         "verb": "تمَشّى",
@@ -3097,7 +3158,8 @@
                 "Past": "تمَشّو"
             }
         ],
-        "text": "<strong>تمَشّى</strong></span> <br>form 5<br>to take a walk</i>"
+        "text": "<strong>تمَشّى</strong></span> <br>form 5<br>to take a walk</i>",
+        "id": 61
     },
     {
         "verb": "رَكَض",
@@ -3147,7 +3209,8 @@
                 "Past": "رَكَضو"
             }
         ],
-        "text": "<strong>رَكَض</strong></span> <br>form 1<br>to run</i>"
+        "text": "<strong>رَكَض</strong></span> <br>form 1<br>to run</i>",
+        "id": 62
     },
     {
         "verb": "سَبَق",
@@ -3197,7 +3260,8 @@
                 "Past": "سَبَقو"
             }
         ],
-        "text": "<strong>سَبَق</strong></span> <br>form 1<br>to overtake</i>"
+        "text": "<strong>سَبَق</strong></span> <br>form 1<br>to overtake</i>",
+        "id": 63
     },
     {
         "verb": "سابَق",
@@ -3247,7 +3311,8 @@
                 "Past": "سابَقو"
             }
         ],
-        "text": "<strong>سابَق</strong></span> <br>form 3<br>to race</i>"
+        "text": "<strong>سابَق</strong></span> <br>form 3<br>to race</i>",
+        "id": 64
     },
     {
         "verb": "ساق",
@@ -3297,7 +3362,8 @@
                 "Past": "ساقو"
             }
         ],
-        "text": "<strong>ساق</strong></span> <br>form 1<br>to drive</i>"
+        "text": "<strong>ساق</strong></span> <br>form 1<br>to drive</i>",
+        "id": 65
     },
     {
         "verb": "سَوَّق",
@@ -3347,7 +3413,8 @@
                 "Past": "سَوَّقو"
             }
         ],
-        "text": "<strong>سَوَّق</strong></span> <br>form 2<br>to market</i>"
+        "text": "<strong>سَوَّق</strong></span> <br>form 2<br>to market</i>",
+        "id": 66
     },
     {
         "verb": "رِكِب",
@@ -3397,7 +3464,8 @@
                 "Past": "رِكبو"
             }
         ],
-        "text": "<strong>رِكِب</strong></span> <br>form 1<br>to ride</i>"
+        "text": "<strong>رِكِب</strong></span> <br>form 1<br>to ride</i>",
+        "id": 67
     },
     {
         "verb": "رَكَّب",
@@ -3447,7 +3515,8 @@
                 "Past": "رَكَّبو"
             }
         ],
-        "text": "<strong>رَكَّب</strong></span> <br>form 2<br>to assemble</i>"
+        "text": "<strong>رَكَّب</strong></span> <br>form 2<br>to assemble</i>",
+        "id": 68
     },
     {
         "verb": "صَفّ",
@@ -3497,7 +3566,8 @@
                 "Past": "صَفّو"
             }
         ],
-        "text": "<strong>صَفّ</strong></span> <br>form 1<br>to park</i>"
+        "text": "<strong>صَفّ</strong></span> <br>form 1<br>to park</i>",
+        "id": 69
     },
     {
         "verb": "نَطّ",
@@ -3547,7 +3617,8 @@
                 "Past": "نَطّو"
             }
         ],
-        "text": "<strong>نَطّ</strong></span> <br>form 1<br>to jump</i>"
+        "text": "<strong>نَطّ</strong></span> <br>form 1<br>to jump</i>",
+        "id": 70
     },
     {
         "verb": "طار",
@@ -3597,7 +3668,8 @@
                 "Past": "طارو"
             }
         ],
-        "text": "<strong>طار</strong></span> <br>form 1<br>to fly</i>"
+        "text": "<strong>طار</strong></span> <br>form 1<br>to fly</i>",
+        "id": 71
     },
     {
         "verb": "سَبَح",
@@ -3647,7 +3719,8 @@
                 "Past": "سَبَحو"
             }
         ],
-        "text": "<strong>سَبَح</strong></span> <br>form 1<br>to swim</i>"
+        "text": "<strong>سَبَح</strong></span> <br>form 1<br>to swim</i>",
+        "id": 72
     },
     {
         "verb": "بَدا",
@@ -3697,7 +3770,8 @@
                 "Past": "بَدو"
             }
         ],
-        "text": "<strong>بَدا</strong></span> <br>form 1<br>to begin</i>"
+        "text": "<strong>بَدا</strong></span> <br>form 1<br>to begin</i>",
+        "id": 73
     },
     {
         "verb": "بَلَّش",
@@ -3747,7 +3821,8 @@
                 "Past": "بَلَّشو"
             }
         ],
-        "text": "<strong>بَلَّش</strong></span> <br>form 2<br>to begin</i>"
+        "text": "<strong>بَلَّش</strong></span> <br>form 2<br>to begin</i>",
+        "id": 74
     },
     {
         "verb": "صار",
@@ -3797,7 +3872,8 @@
                 "Past": "صارو"
             }
         ],
-        "text": "<strong>صار</strong></span> <br>form 1<br>to happen</i>"
+        "text": "<strong>صار</strong></span> <br>form 1<br>to happen</i>",
+        "id": 75
     },
     {
         "verb": "خَلَص",
@@ -3847,7 +3923,8 @@
                 "Past": "خَلَصو"
             }
         ],
-        "text": "<strong>خَلَص</strong></span> <br>form 1<br>to end</i>"
+        "text": "<strong>خَلَص</strong></span> <br>form 1<br>to end</i>",
+        "id": 76
     },
     {
         "verb": "خَلَّص",
@@ -3897,7 +3974,8 @@
                 "Past": "خَلَّصو"
             }
         ],
-        "text": "<strong>خَلَّص</strong></span> <br>form 2<br>to end</i>"
+        "text": "<strong>خَلَّص</strong></span> <br>form 2<br>to end</i>",
+        "id": 77
     },
     {
         "verb": "بَطَّل",
@@ -3947,7 +4025,8 @@
                 "Past": "بَطَّلو"
             }
         ],
-        "text": "<strong>بَطَّل</strong></span> <br>form 2<br>to quit</i>"
+        "text": "<strong>بَطَّل</strong></span> <br>form 2<br>to quit</i>",
+        "id": 78
     },
     {
         "verb": "ضَلّ",
@@ -3997,7 +4076,8 @@
                 "Past": "ضَلّو"
             }
         ],
-        "text": "<strong>ضَلّ</strong></span> <br>form 1<br>to stay</i>"
+        "text": "<strong>ضَلّ</strong></span> <br>form 1<br>to stay</i>",
+        "id": 79
     },
     {
         "verb": "قَعَد",
@@ -4047,7 +4127,8 @@
                 "Past": "قَعَدو"
             }
         ],
-        "text": "<strong>قَعَد</strong></span> <br>form 1<br>to sit</i>"
+        "text": "<strong>قَعَد</strong></span> <br>form 1<br>to sit</i>",
+        "id": 80
     },
     {
         "verb": "تقاعَد",
@@ -4097,7 +4178,8 @@
                 "Past": "تقاعَدو"
             }
         ],
-        "text": "<strong>تقاعَد</strong></span> <br>form 6<br>to retire</i>"
+        "text": "<strong>تقاعَد</strong></span> <br>form 6<br>to retire</i>",
+        "id": 81
     },
     {
         "verb": "اعتَزَل",
@@ -4147,7 +4229,8 @@
                 "Past": "اعتَزَلو"
             }
         ],
-        "text": "<strong>اعتَزَل</strong></span> <br>form 8<br>to retire</i>"
+        "text": "<strong>اعتَزَل</strong></span> <br>form 8<br>to retire</i>",
+        "id": 82
     },
     {
         "verb": "استَقال",
@@ -4197,7 +4280,8 @@
                 "Past": "استَقالو"
             }
         ],
-        "text": "<strong>استَقال</strong></span> <br>form 10<br>to resign</i>"
+        "text": "<strong>استَقال</strong></span> <br>form 10<br>to resign</i>",
+        "id": 83
     },
     {
         "verb": "كَمَّل",
@@ -4247,7 +4331,8 @@
                 "Past": "كَمَّلو"
             }
         ],
-        "text": "<strong>كَمَّل</strong></span> <br>form 2<br>to continue</i>"
+        "text": "<strong>كَمَّل</strong></span> <br>form 2<br>to continue</i>",
+        "id": 84
     },
     {
         "verb": "مَرّ",
@@ -4297,7 +4382,8 @@
                 "Past": "مَرّو"
             }
         ],
-        "text": "<strong>مَرّ</strong></span> <br>form 1<br>to pass</i>"
+        "text": "<strong>مَرّ</strong></span> <br>form 1<br>to pass</i>",
+        "id": 85
     },
     {
         "verb": "تعَدّى",
@@ -4347,7 +4433,8 @@
                 "Past": "تعَدّو"
             }
         ],
-        "text": "<strong>تعَدّى</strong></span> <br>form 5<br>to overstep</i>"
+        "text": "<strong>تعَدّى</strong></span> <br>form 5<br>to overstep</i>",
+        "id": 86
     },
     {
         "verb": "كَرَّر",
@@ -4397,7 +4484,8 @@
                 "Past": "كَرَّرو"
             }
         ],
-        "text": "<strong>كَرَّر</strong></span> <br>form 2<br>to repeat</i>"
+        "text": "<strong>كَرَّر</strong></span> <br>form 2<br>to repeat</i>",
+        "id": 87
     },
     {
         "verb": "وِقِف",
@@ -4447,7 +4535,8 @@
                 "Past": "وِقفو"
             }
         ],
-        "text": "<strong>وِقِف</strong></span> <br>form 1<br>to stop</i>"
+        "text": "<strong>وِقِف</strong></span> <br>form 1<br>to stop</i>",
+        "id": 88
     },
     {
         "verb": "وَقَّف",
@@ -4497,7 +4586,8 @@
                 "Past": "وَقَّفو"
             }
         ],
-        "text": "<strong>وَقَّف</strong></span> <br>form 2<br>to stop</i>"
+        "text": "<strong>وَقَّف</strong></span> <br>form 2<br>to stop</i>",
+        "id": 89
     },
     {
         "verb": "توَقَّف",
@@ -4547,7 +4637,8 @@
                 "Past": "توَقَّفو"
             }
         ],
-        "text": "<strong>توَقَّف</strong></span> <br>form 5<br>to depend</i>"
+        "text": "<strong>توَقَّف</strong></span> <br>form 5<br>to depend</i>",
+        "id": 90
     },
     {
         "verb": "اعتَمَد",
@@ -4597,7 +4688,8 @@
                 "Past": "اعتَمَدو"
             }
         ],
-        "text": "<strong>اعتَمَد</strong></span> <br>form 8<br>to depend</i>"
+        "text": "<strong>اعتَمَد</strong></span> <br>form 8<br>to depend</i>",
+        "id": 91
     },
     {
         "verb": "تَعَلَّق",
@@ -4647,7 +4739,8 @@
                 "Past": "تَعَلعَو"
             }
         ],
-        "text": "<strong>تَعَلَّق</strong></span> <br>form 5<br>to depend</i>"
+        "text": "<strong>تَعَلَّق</strong></span> <br>form 5<br>to depend</i>",
+        "id": 92
     },
     {
         "verb": "عَلَّق",
@@ -4697,7 +4790,8 @@
                 "Past": "عَلَّقو"
             }
         ],
-        "text": "<strong>عَلَّق</strong></span> <br>form 2<br>to hang</i>"
+        "text": "<strong>عَلَّق</strong></span> <br>form 2<br>to hang</i>",
+        "id": 93
     },
     {
         "verb": "قَدَّم",
@@ -4747,7 +4841,8 @@
                 "Past": "قَدَّمو"
             }
         ],
-        "text": "<strong>قَدَّم</strong></span> <br>form 2<br>to present</i>"
+        "text": "<strong>قَدَّم</strong></span> <br>form 2<br>to present</i>",
+        "id": 94
     },
     {
         "verb": "تقَدَّم",
@@ -4797,7 +4892,8 @@
                 "Past": "تقَدَّمو"
             }
         ],
-        "text": "<strong>تقَدَّم</strong></span> <br>form 5<br>to progress</i>"
+        "text": "<strong>تقَدَّم</strong></span> <br>form 5<br>to progress</i>",
+        "id": 95
     },
     {
         "verb": "طَوَّر",
@@ -4847,7 +4943,8 @@
                 "Past": "طَوَّرو"
             }
         ],
-        "text": "<strong>طَوَّر</strong></span> <br>form 2<br>to develop</i>"
+        "text": "<strong>طَوَّر</strong></span> <br>form 2<br>to develop</i>",
+        "id": 96
     },
     {
         "verb": "لَغى",
@@ -4897,7 +4994,8 @@
                 "Past": "لَغو"
             }
         ],
-        "text": "<strong>لَغى</strong></span> <br>form 1<br>to cancel</i>"
+        "text": "<strong>لَغى</strong></span> <br>form 1<br>to cancel</i>",
+        "id": 97
     },
     {
         "verb": "بَكَّر",
@@ -4947,7 +5045,8 @@
                 "Past": "بَكَّرو"
             }
         ],
-        "text": "<strong>بَكَّر</strong></span> <br>form 2<br>to be early</i>"
+        "text": "<strong>بَكَّر</strong></span> <br>form 2<br>to be early</i>",
+        "id": 98
     },
     {
         "verb": "طَوَّل",
@@ -4997,7 +5096,8 @@
                 "Past": "طَوَّلو"
             }
         ],
-        "text": "<strong>طَوَّل</strong></span> <br>form 2<br>to tarry</i>"
+        "text": "<strong>طَوَّل</strong></span> <br>form 2<br>to tarry</i>",
+        "id": 99
     },
     {
         "verb": "استَعجَل",
@@ -5047,7 +5147,8 @@
                 "Past": "استَعجَلو"
             }
         ],
-        "text": "<strong>استَعجَل</strong></span> <br>form 10<br>to hurry</i>"
+        "text": "<strong>استَعجَل</strong></span> <br>form 10<br>to hurry</i>",
+        "id": 100
     },
     {
         "verb": "نَظَر",
@@ -5097,7 +5198,8 @@
                 "Past": "نَظَرو"
             }
         ],
-        "text": "<strong>نَظَر</strong></span> <br>form 1<br>to look</i>"
+        "text": "<strong>نَظَر</strong></span> <br>form 1<br>to look</i>",
+        "id": 101
     },
     {
         "verb": "صَبَر",
@@ -5147,7 +5249,8 @@
                 "Past": "صَبَرو"
             }
         ],
-        "text": "<strong>صَبَر</strong></span> <br>form 1<br>to be patient</i>"
+        "text": "<strong>صَبَر</strong></span> <br>form 1<br>to be patient</i>",
+        "id": 102
     },
     {
         "verb": "فَكَّر",
@@ -5197,7 +5300,8 @@
                 "Past": "فَكَّرو"
             }
         ],
-        "text": "<strong>فَكَّر</strong></span> <br>form 2<br>to think</i>"
+        "text": "<strong>فَكَّر</strong></span> <br>form 2<br>to think</i>",
+        "id": 103
     },
     {
         "verb": "عَرَّف",
@@ -5247,7 +5351,8 @@
                 "Past": "عَرَّفو"
             }
         ],
-        "text": "<strong>عَرَّف</strong></span> <br>form 2<br>to introduce</i>"
+        "text": "<strong>عَرَّف</strong></span> <br>form 2<br>to introduce</i>",
+        "id": 104
     },
     {
         "verb": "اعتَرَف",
@@ -5297,7 +5402,8 @@
                 "Past": "اعتَرَفو"
             }
         ],
-        "text": "<strong>اعتَرَف</strong></span> <br>form 8<br>to recognize</i>"
+        "text": "<strong>اعتَرَف</strong></span> <br>form 8<br>to recognize</i>",
+        "id": 105
     },
     {
         "verb": "اكتَشَف",
@@ -5347,7 +5453,8 @@
                 "Past": "اكتَشَفو"
             }
         ],
-        "text": "<strong>اكتَشَف</strong></span> <br>form 8<br>to discover</i>"
+        "text": "<strong>اكتَشَف</strong></span> <br>form 8<br>to discover</i>",
+        "id": 106
     },
     {
         "verb": "استَكشَف",
@@ -5397,7 +5504,8 @@
                 "Past": "استَكشَفو"
             }
         ],
-        "text": "<strong>استَكشَف</strong></span> <br>form 10<br>to explore</i>"
+        "text": "<strong>استَكشَف</strong></span> <br>form 10<br>to explore</i>",
+        "id": 107
     },
     {
         "verb": "حَقَّق",
@@ -5447,7 +5555,8 @@
                 "Past": "حَقَّقو"
             }
         ],
-        "text": "<strong>حَقَّق</strong></span> <br>form 2<br>to investigate</i>"
+        "text": "<strong>حَقَّق</strong></span> <br>form 2<br>to investigate</i>",
+        "id": 108
     },
     {
         "verb": "ذَكَر",
@@ -5497,7 +5606,8 @@
                 "Past": "ذَكَرو"
             }
         ],
-        "text": "<strong>ذَكَر</strong></span> <br>form 1<br>to mention</i>"
+        "text": "<strong>ذَكَر</strong></span> <br>form 1<br>to mention</i>",
+        "id": 109
     },
     {
         "verb": "ذَكَّر",
@@ -5547,7 +5657,8 @@
                 "Past": "ذَكَّرو"
             }
         ],
-        "text": "<strong>ذَكَّر</strong></span> <br>form 2<br>to remind</i>"
+        "text": "<strong>ذَكَّر</strong></span> <br>form 2<br>to remind</i>",
+        "id": 110
     },
     {
         "verb": "عَلَّم",
@@ -5597,7 +5708,8 @@
                 "Past": "عَلَّمو"
             }
         ],
-        "text": "<strong>عَلَّم</strong></span> <br>form 2<br>to teach</i>"
+        "text": "<strong>عَلَّم</strong></span> <br>form 2<br>to teach</i>",
+        "id": 111
     },
     {
         "verb": "دَرَس",
@@ -5647,7 +5759,8 @@
                 "Past": "دَرَسو"
             }
         ],
-        "text": "<strong>دَرَس</strong></span> <br>form 1<br>to study</i>"
+        "text": "<strong>دَرَس</strong></span> <br>form 1<br>to study</i>",
+        "id": 112
     },
     {
         "verb": "فِهِم",
@@ -5697,7 +5810,8 @@
                 "Past": "فِهمو"
             }
         ],
-        "text": "<strong>فِهِم</strong></span> <br>form 1<br>to understand</i>"
+        "text": "<strong>فِهِم</strong></span> <br>form 1<br>to understand</i>",
+        "id": 113
     },
     {
         "verb": "فَهَّم",
@@ -5747,7 +5861,8 @@
                 "Past": "فَهَّمو"
             }
         ],
-        "text": "<strong>فَهَّم</strong></span> <br>form 2<br>to explain</i>"
+        "text": "<strong>فَهَّم</strong></span> <br>form 2<br>to explain</i>",
+        "id": 114
     },
     {
         "verb": "شَرَح",
@@ -5797,7 +5912,8 @@
                 "Past": "شَرَحو"
             }
         ],
-        "text": "<strong>شَرَح</strong></span> <br>form 1<br>to explain</i>"
+        "text": "<strong>شَرَح</strong></span> <br>form 1<br>to explain</i>",
+        "id": 115
     },
     {
         "verb": "وَصَف",
@@ -5847,7 +5963,8 @@
                 "Past": "وَصَفو"
             }
         ],
-        "text": "<strong>وَصَف</strong></span> <br>form 1<br>to describe</i>"
+        "text": "<strong>وَصَف</strong></span> <br>form 1<br>to describe</i>",
+        "id": 116
     },
     {
         "verb": "اختَصَر",
@@ -5897,7 +6014,8 @@
                 "Past": "اختَصَرو"
             }
         ],
-        "text": "<strong>اختَصَر</strong></span> <br>form 8<br>to summarize</i>"
+        "text": "<strong>اختَصَر</strong></span> <br>form 8<br>to summarize</i>",
+        "id": 117
     },
     {
         "verb": "عَنى",
@@ -5947,7 +6065,8 @@
                 "Past": "عَنو"
             }
         ],
-        "text": "<strong>عَنى</strong></span> <br>form 1<br>to mean</i>"
+        "text": "<strong>عَنى</strong></span> <br>form 1<br>to mean</i>",
+        "id": 118
     },
     {
         "verb": "عَبَّر",
@@ -5997,7 +6116,8 @@
                 "Past": "عَبَّرو"
             }
         ],
-        "text": "<strong>عَبَّر</strong></span> <br>form 2<br>to express</i>"
+        "text": "<strong>عَبَّر</strong></span> <br>form 2<br>to express</i>",
+        "id": 119
     },
     {
         "verb": "اعتَبَر",
@@ -6047,7 +6167,8 @@
                 "Past": "اعتَبَرو"
             }
         ],
-        "text": "<strong>اعتَبَر</strong></span> <br>form 8<br>to deem</i>"
+        "text": "<strong>اعتَبَر</strong></span> <br>form 8<br>to deem</i>",
+        "id": 120
     },
     {
         "verb": "فَلسَف",
@@ -6097,7 +6218,8 @@
                 "Past": "فَلسَفو"
             }
         ],
-        "text": "<strong>فَلسَف</strong></span> <br>form 12<br>to philosophize</i>"
+        "text": "<strong>فَلسَف</strong></span> <br>form 12<br>to philosophize</i>",
+        "id": 121
     },
     {
         "verb": "اعتَقَد",
@@ -6147,7 +6269,8 @@
                 "Past": "اعتَقَدو"
             }
         ],
-        "text": "<strong>اعتَقَد</strong></span> <br>form 8<br>to believe</i>"
+        "text": "<strong>اعتَقَد</strong></span> <br>form 8<br>to believe</i>",
+        "id": 122
     },
     {
         "verb": "صَدَّق",
@@ -6197,7 +6320,8 @@
                 "Past": "صَدَّقو"
             }
         ],
-        "text": "<strong>صَدَّق</strong></span> <br>form 2<br>to believe</i>"
+        "text": "<strong>صَدَّق</strong></span> <br>form 2<br>to believe</i>",
+        "id": 123
     },
     {
         "verb": "اقنَع",
@@ -6247,7 +6371,8 @@
                 "Past": "اقنَعو"
             }
         ],
-        "text": "<strong>اقنَع</strong></span> <br>form 4<br>to convince</i>"
+        "text": "<strong>اقنَع</strong></span> <br>form 4<br>to convince</i>",
+        "id": 124
     },
     {
         "verb": "بَرَّر",
@@ -6297,7 +6422,8 @@
                 "Past": "بَرَّرو"
             }
         ],
-        "text": "<strong>بَرَّر</strong></span> <br>form 2<br>to justify</i>"
+        "text": "<strong>بَرَّر</strong></span> <br>form 2<br>to justify</i>",
+        "id": 125
     },
     {
         "verb": "خَصَّص",
@@ -6347,7 +6473,8 @@
                 "Past": "خَصَّصو"
             }
         ],
-        "text": "<strong>خَصَّص</strong></span> <br>form 2<br>to designate</i>"
+        "text": "<strong>خَصَّص</strong></span> <br>form 2<br>to designate</i>",
+        "id": 126
     },
     {
         "verb": "تخَصَّص",
@@ -6397,7 +6524,8 @@
                 "Past": "تخَصَّصو"
             }
         ],
-        "text": "<strong>تخَصَّص</strong></span> <br>form 5<br>to specialize</i>"
+        "text": "<strong>تخَصَّص</strong></span> <br>form 5<br>to specialize</i>",
+        "id": 127
     },
     {
         "verb": "وِقِع",
@@ -6447,7 +6575,8 @@
                 "Past": "وِقعو"
             }
         ],
-        "text": "<strong>وِقِع</strong></span> <br>form 1<br>to fall</i>"
+        "text": "<strong>وِقِع</strong></span> <br>form 1<br>to fall</i>",
+        "id": 128
     },
     {
         "verb": "وَقَّع",
@@ -6497,7 +6626,8 @@
                 "Past": "وَقَّعو"
             }
         ],
-        "text": "<strong>وَقَّع</strong></span> <br>form 2<br>to sign</i>"
+        "text": "<strong>وَقَّع</strong></span> <br>form 2<br>to sign</i>",
+        "id": 129
     },
     {
         "verb": "توَقَّع",
@@ -6547,7 +6677,8 @@
                 "Past": "توَقَّعو"
             }
         ],
-        "text": "<strong>توَقَّع</strong></span> <br>form 5<br>to expect</i>"
+        "text": "<strong>توَقَّع</strong></span> <br>form 5<br>to expect</i>",
+        "id": 130
     },
     {
         "verb": "ارتَقَب",
@@ -6597,7 +6728,8 @@
                 "Past": "ارتَقَبو"
             }
         ],
-        "text": "<strong>ارتَقَب</strong></span> <br>form 8<br>to expect</i>"
+        "text": "<strong>ارتَقَب</strong></span> <br>form 8<br>to expect</i>",
+        "id": 131
     },
     {
         "verb": "تمَنّى",
@@ -6647,7 +6779,8 @@
                 "Past": "تمَنّو"
             }
         ],
-        "text": "<strong>تمَنّى</strong></span> <br>form 5<br>to hope</i>"
+        "text": "<strong>تمَنّى</strong></span> <br>form 5<br>to hope</i>",
+        "id": 132
     },
     {
         "verb": "نِدِم",
@@ -6697,7 +6830,8 @@
                 "Past": "نِدمو"
             }
         ],
-        "text": "<strong>نِدِم</strong></span> <br>form 1<br>to regret</i>"
+        "text": "<strong>نِدِم</strong></span> <br>form 1<br>to regret</i>",
+        "id": 133
     },
     {
         "verb": "ظَنّ",
@@ -6747,7 +6881,8 @@
                 "Past": "ظَنّو"
             }
         ],
-        "text": "<strong>ظَنّ</strong></span> <br>form 1<br>to suppose</i>"
+        "text": "<strong>ظَنّ</strong></span> <br>form 1<br>to suppose</i>",
+        "id": 134
     },
     {
         "verb": "فَرَض",
@@ -6797,7 +6932,8 @@
                 "Past": "فَرَضو"
             }
         ],
-        "text": "<strong>فَرَض</strong></span> <br>form 1<br>to suppose</i>"
+        "text": "<strong>فَرَض</strong></span> <br>form 1<br>to suppose</i>",
+        "id": 135
     },
     {
         "verb": "افتَرَض",
@@ -6847,7 +6983,8 @@
                 "Past": "افتَرَضو"
             }
         ],
-        "text": "<strong>افتَرَض</strong></span> <br>form 8<br>to assume</i>"
+        "text": "<strong>افتَرَض</strong></span> <br>form 8<br>to assume</i>",
+        "id": 136
     },
     {
         "verb": "نِسي",
@@ -6897,7 +7034,8 @@
                 "Past": "نِسو"
             }
         ],
-        "text": "<strong>نِسي</strong></span> <br>form 1<br>to forget</i>"
+        "text": "<strong>نِسي</strong></span> <br>form 1<br>to forget</i>",
+        "id": 137
     },
     {
         "verb": "حِفِظ",
@@ -6947,7 +7085,8 @@
                 "Past": "حِفظو"
             }
         ],
-        "text": "<strong>حِفِظ</strong></span> <br>form 1<br>to memorize</i>"
+        "text": "<strong>حِفِظ</strong></span> <br>form 1<br>to memorize</i>",
+        "id": 138
     },
     {
         "verb": "حافَظ",
@@ -6997,7 +7136,8 @@
                 "Past": "حافَظو"
             }
         ],
-        "text": "<strong>حافَظ</strong></span> <br>form 3<br>to maintain</i>"
+        "text": "<strong>حافَظ</strong></span> <br>form 3<br>to maintain</i>",
+        "id": 139
     },
     {
         "verb": "لاحَظ",
@@ -7047,7 +7187,8 @@
                 "Past": "لاحَظو"
             }
         ],
-        "text": "<strong>لاحَظ</strong></span> <br>form 3<br>to notice</i>"
+        "text": "<strong>لاحَظ</strong></span> <br>form 3<br>to notice</i>",
+        "id": 140
     },
     {
         "verb": "قَرَّر",
@@ -7097,7 +7238,8 @@
                 "Past": "قَرَّرو"
             }
         ],
-        "text": "<strong>قَرَّر</strong></span> <br>form 2<br>to decide</i>"
+        "text": "<strong>قَرَّر</strong></span> <br>form 2<br>to decide</i>",
+        "id": 141
     },
     {
         "verb": "سَمّى",
@@ -7147,7 +7289,8 @@
                 "Past": "سَمّو"
             }
         ],
-        "text": "<strong>سَمّى</strong></span> <br>form 2<br>to name</i>"
+        "text": "<strong>سَمّى</strong></span> <br>form 2<br>to name</i>",
+        "id": 142
     },
     {
         "verb": "هَدَف",
@@ -7197,7 +7340,8 @@
                 "Past": "هَدَفو"
             }
         ],
-        "text": "<strong>هَدَف</strong></span> <br>form 1<br>to aim</i>"
+        "text": "<strong>هَدَف</strong></span> <br>form 1<br>to aim</i>",
+        "id": 143
     },
     {
         "verb": "احتاج",
@@ -7247,7 +7391,8 @@
                 "Past": "احتاجو"
             }
         ],
-        "text": "<strong>احتاج</strong></span> <br>form 8<br>to need</i>"
+        "text": "<strong>احتاج</strong></span> <br>form 8<br>to need</i>",
+        "id": 144
     },
     {
         "verb": "تجاهَل",
@@ -7297,7 +7442,8 @@
                 "Past": "تجاهَلو"
             }
         ],
-        "text": "<strong>تجاهَل</strong></span> <br>form 6<br>to ignore</i>"
+        "text": "<strong>تجاهَل</strong></span> <br>form 6<br>to ignore</i>",
+        "id": 145
     },
     {
         "verb": "انتَبَه",
@@ -7347,7 +7493,8 @@
                 "Past": "انتَبَهو"
             }
         ],
-        "text": "<strong>انتَبَه</strong></span> <br>form 8<br>to pay attention</i>"
+        "text": "<strong>انتَبَه</strong></span> <br>form 8<br>to pay attention</i>",
+        "id": 146
     },
     {
         "verb": "شَتَّت",
@@ -7397,7 +7544,8 @@
                 "Past": "شَتَّتو"
             }
         ],
-        "text": "<strong>شَتَّت</strong></span> <br>form 2<br>to distract</i>"
+        "text": "<strong>شَتَّت</strong></span> <br>form 2<br>to distract</i>",
+        "id": 147
     },
     {
         "verb": "رَكَّز",
@@ -7447,7 +7595,8 @@
                 "Past": "رَكَّزو"
             }
         ],
-        "text": "<strong>رَكَّز</strong></span> <br>form 2<br>to concentrate</i>"
+        "text": "<strong>رَكَّز</strong></span> <br>form 2<br>to concentrate</i>",
+        "id": 148
     },
     {
         "verb": "اهتَمّ",
@@ -7497,7 +7646,8 @@
                 "Past": "اهتَمّو"
             }
         ],
-        "text": "<strong>اهتَمّ</strong></span> <br>form 8<br>to be interested</i>"
+        "text": "<strong>اهتَمّ</strong></span> <br>form 8<br>to be interested</i>",
+        "id": 149
     },
     {
         "verb": "طَمَّن",
@@ -7547,7 +7697,8 @@
                 "Past": "طَمَّنو"
             }
         ],
-        "text": "<strong>طَمَّن</strong></span> <br>form 2<br>to assure</i>"
+        "text": "<strong>طَمَّن</strong></span> <br>form 2<br>to assure</i>",
+        "id": 150
     },
     {
         "verb": "شَكَّل",
@@ -7597,7 +7748,8 @@
                 "Past": "شَكَّلو"
             }
         ],
-        "text": "<strong>شَكَّل</strong></span> <br>form 2<br>to form</i>"
+        "text": "<strong>شَكَّل</strong></span> <br>form 2<br>to form</i>",
+        "id": 151
     },
     {
         "verb": "حَدّ",
@@ -7647,7 +7799,8 @@
                 "Past": "حَدّو"
             }
         ],
-        "text": "<strong>حَدّ</strong></span> <br>form 1<br>to delimit</i>"
+        "text": "<strong>حَدّ</strong></span> <br>form 1<br>to delimit</i>",
+        "id": 152
     },
     {
         "verb": "حَدَّد",
@@ -7697,7 +7850,8 @@
                 "Past": "حَدَّدو"
             }
         ],
-        "text": "<strong>حَدَّد</strong></span> <br>form 2<br>to specify</i>"
+        "text": "<strong>حَدَّد</strong></span> <br>form 2<br>to specify</i>",
+        "id": 153
     },
     {
         "verb": "انتَمى",
@@ -7747,7 +7901,8 @@
                 "Past": "انتَمو"
             }
         ],
-        "text": "<strong>انتَمى</strong></span> <br>form 8<br>to belong</i>"
+        "text": "<strong>انتَمى</strong></span> <br>form 8<br>to belong</i>",
+        "id": 154
     },
     {
         "verb": "شَمَل",
@@ -7797,7 +7952,8 @@
                 "Past": "شَمَلو"
             }
         ],
-        "text": "<strong>شَمَل</strong></span> <br>form 1<br>to include</i>"
+        "text": "<strong>شَمَل</strong></span> <br>form 1<br>to include</i>",
+        "id": 155
     },
     {
         "verb": "ناسَب",
@@ -7847,7 +8003,8 @@
                 "Past": "ناسَبو"
             }
         ],
-        "text": "<strong>ناسَب</strong></span> <br>form 3<br>to suit</i>"
+        "text": "<strong>ناسَب</strong></span> <br>form 3<br>to suit</i>",
+        "id": 156
     },
     {
         "verb": "قارَن",
@@ -7897,7 +8054,8 @@
                 "Past": "قارَنو"
             }
         ],
-        "text": "<strong>قارَن</strong></span> <br>form 3<br>to compare</i>"
+        "text": "<strong>قارَن</strong></span> <br>form 3<br>to compare</i>",
+        "id": 157
     },
     {
         "verb": "شَبَه",
@@ -7947,7 +8105,8 @@
                 "Past": "شَبَهو"
             }
         ],
-        "text": "<strong>شَبَه</strong></span> <br>form 1<br>to resemble</i>"
+        "text": "<strong>شَبَه</strong></span> <br>form 1<br>to resemble</i>",
+        "id": 158
     },
     {
         "verb": "مَيَّز",
@@ -7997,7 +8156,8 @@
                 "Past": "مَيَّزو"
             }
         ],
-        "text": "<strong>مَيَّز</strong></span> <br>form 2<br>to distinguish</i>"
+        "text": "<strong>مَيَّز</strong></span> <br>form 2<br>to distinguish</i>",
+        "id": 159
     },
     {
         "verb": "نَفى",
@@ -8047,7 +8207,8 @@
                 "Past": "نَفو"
             }
         ],
-        "text": "<strong>نَفى</strong></span> <br>form 1<br>to deny</i>"
+        "text": "<strong>نَفى</strong></span> <br>form 1<br>to deny</i>",
+        "id": 160
     },
     {
         "verb": "شَيَّك",
@@ -8097,7 +8258,8 @@
                 "Past": "شَيَّكو"
             }
         ],
-        "text": "<strong>شَيَّك</strong></span> <br>form 2<br>to check</i>"
+        "text": "<strong>شَيَّك</strong></span> <br>form 2<br>to check</i>",
+        "id": 161
     },
     {
         "verb": "رَنّ",
@@ -8147,7 +8309,8 @@
                 "Past": "رَنّو"
             }
         ],
-        "text": "<strong>رَنّ</strong></span> <br>form 1<br>to call</i>"
+        "text": "<strong>رَنّ</strong></span> <br>form 1<br>to call</i>",
+        "id": 162
     },
     {
         "verb": "كَلَّم",
@@ -8197,7 +8360,8 @@
                 "Past": "كَلَّمو"
             }
         ],
-        "text": "<strong>كَلَّم</strong></span> <br>form 2<br>to call</i>"
+        "text": "<strong>كَلَّم</strong></span> <br>form 2<br>to call</i>",
+        "id": 163
     },
     {
         "verb": "تَكَلَّم",
@@ -8247,7 +8411,8 @@
                 "Past": "تَكَلكَو"
             }
         ],
-        "text": "<strong>تَكَلَّم</strong></span> <br>form 5<br>to speak</i>"
+        "text": "<strong>تَكَلَّم</strong></span> <br>form 5<br>to speak</i>",
+        "id": 164
     },
     {
         "verb": "تَحَدَّث",
@@ -8297,7 +8462,8 @@
                 "Past": "تَحَدحَو"
             }
         ],
-        "text": "<strong>تَحَدَّث</strong></span> <br>form 5<br>to speak</i>"
+        "text": "<strong>تَحَدَّث</strong></span> <br>form 5<br>to speak</i>",
+        "id": 165
     },
     {
         "verb": "حَدَث",
@@ -8347,7 +8513,8 @@
                 "Past": "حَدَثو"
             }
         ],
-        "text": "<strong>حَدَث</strong></span> <br>form 1<br>to happen</i>"
+        "text": "<strong>حَدَث</strong></span> <br>form 1<br>to happen</i>",
+        "id": 166
     },
     {
         "verb": "حَكى",
@@ -8397,7 +8564,8 @@
                 "Past": "حَكو"
             }
         ],
-        "text": "<strong>حَكى</strong></span> <br>form 1<br>to speak</i>"
+        "text": "<strong>حَكى</strong></span> <br>form 1<br>to speak</i>",
+        "id": 167
     },
     {
         "verb": "قال",
@@ -8447,7 +8615,8 @@
                 "Past": "قالو"
             }
         ],
-        "text": "<strong>قال</strong></span> <br>form 1<br>to say</i>"
+        "text": "<strong>قال</strong></span> <br>form 1<br>to say</i>",
+        "id": 168
     },
     {
         "verb": "صَرَخ",
@@ -8497,7 +8666,8 @@
                 "Past": "صَرَخو"
             }
         ],
-        "text": "<strong>صَرَخ</strong></span> <br>form 1<br>to shout</i>"
+        "text": "<strong>صَرَخ</strong></span> <br>form 1<br>to shout</i>",
+        "id": 169
     },
     {
         "verb": "صاح",
@@ -8547,7 +8717,8 @@
                 "Past": "صاحو"
             }
         ],
-        "text": "<strong>صاح</strong></span> <br>form 1<br>to shout</i>"
+        "text": "<strong>صاح</strong></span> <br>form 1<br>to shout</i>",
+        "id": 170
     },
     {
         "verb": "لَفَظ",
@@ -8597,7 +8768,8 @@
                 "Past": "لَفَظو"
             }
         ],
-        "text": "<strong>لَفَظ</strong></span> <br>form 1<br>to pronounce</i>"
+        "text": "<strong>لَفَظ</strong></span> <br>form 1<br>to pronounce</i>",
+        "id": 171
     },
     {
         "verb": "دَردَش",
@@ -8647,7 +8819,8 @@
                 "Past": "دَردَشو"
             }
         ],
-        "text": "<strong>دَردَش</strong></span> <br>form 12<br>to chat</i>"
+        "text": "<strong>دَردَش</strong></span> <br>form 12<br>to chat</i>",
+        "id": 172
     },
     {
         "verb": "خَرَّف",
@@ -8697,7 +8870,8 @@
                 "Past": "خَرَّفو"
             }
         ],
-        "text": "<strong>خَرَّف</strong></span> <br>form 2<br>to rant</i>"
+        "text": "<strong>خَرَّف</strong></span> <br>form 2<br>to rant</i>",
+        "id": 173
     },
     {
         "verb": "اعتَذَر",
@@ -8747,7 +8921,8 @@
                 "Past": "اعتَذَرو"
             }
         ],
-        "text": "<strong>اعتَذَر</strong></span> <br>form 8<br>to apologize</i>"
+        "text": "<strong>اعتَذَر</strong></span> <br>form 8<br>to apologize</i>",
+        "id": 174
     },
     {
         "verb": "استَغفَر",
@@ -8797,7 +8972,8 @@
                 "Past": "استَغفَرو"
             }
         ],
-        "text": "<strong>استَغفَر</strong></span> <br>form 10<br>to ask forgiven.</i>"
+        "text": "<strong>استَغفَر</strong></span> <br>form 10<br>to ask forgiven.</i>",
+        "id": 175
     },
     {
         "verb": "مَنَع",
@@ -8847,7 +9023,8 @@
                 "Past": "مَنَعو"
             }
         ],
-        "text": "<strong>مَنَع</strong></span> <br>form 1<br>to prohibit</i>"
+        "text": "<strong>مَنَع</strong></span> <br>form 1<br>to prohibit</i>",
+        "id": 176
     },
     {
         "verb": "حَرَّم",
@@ -8897,7 +9074,8 @@
                 "Past": "حَرَّمو"
             }
         ],
-        "text": "<strong>حَرَّم</strong></span> <br>form 2<br>to prohibit</i>"
+        "text": "<strong>حَرَّم</strong></span> <br>form 2<br>to prohibit</i>",
+        "id": 177
     },
     {
         "verb": "سَلَّم",
@@ -8947,7 +9125,8 @@
                 "Past": "سَلَّمو"
             }
         ],
-        "text": "<strong>سَلَّم</strong></span> <br>form 2<br>to greet</i>"
+        "text": "<strong>سَلَّم</strong></span> <br>form 2<br>to greet</i>",
+        "id": 178
     },
     {
         "verb": "استَسلَم",
@@ -8997,7 +9176,8 @@
                 "Past": "استَسلَمو"
             }
         ],
-        "text": "<strong>استَسلَم</strong></span> <br>form 10<br>to give up</i>"
+        "text": "<strong>استَسلَم</strong></span> <br>form 10<br>to give up</i>",
+        "id": 179
     },
     {
         "verb": "وَدَّع",
@@ -9047,7 +9227,8 @@
                 "Past": "وَدَّعو"
             }
         ],
-        "text": "<strong>وَدَّع</strong></span> <br>form 2<br>to say goodbye</i>"
+        "text": "<strong>وَدَّع</strong></span> <br>form 2<br>to say goodbye</i>",
+        "id": 180
     },
     {
         "verb": "صاحَب",
@@ -9097,7 +9278,8 @@
                 "Past": "صاحَبو"
             }
         ],
-        "text": "<strong>صاحَب</strong></span> <br>form 3<br>to befriend</i>"
+        "text": "<strong>صاحَب</strong></span> <br>form 3<br>to befriend</i>",
+        "id": 181
     },
     {
         "verb": "بارَك",
@@ -9147,7 +9329,8 @@
                 "Past": "بارَكو"
             }
         ],
-        "text": "<strong>بارَك</strong></span> <br>form 3<br>to congratulate</i>"
+        "text": "<strong>بارَك</strong></span> <br>form 3<br>to congratulate</i>",
+        "id": 182
     },
     {
         "verb": "شَكَر",
@@ -9197,7 +9380,8 @@
                 "Past": "شَكَرو"
             }
         ],
-        "text": "<strong>شَكَر</strong></span> <br>form 1<br>to thank</i>"
+        "text": "<strong>شَكَر</strong></span> <br>form 1<br>to thank</i>",
+        "id": 183
     },
     {
         "verb": "احتَرَم",
@@ -9247,7 +9431,8 @@
                 "Past": "احتَرَمو"
             }
         ],
-        "text": "<strong>احتَرَم</strong></span> <br>form 8<br>to respect</i>"
+        "text": "<strong>احتَرَم</strong></span> <br>form 8<br>to respect</i>",
+        "id": 184
     },
     {
         "verb": "جادَل",
@@ -9297,7 +9482,8 @@
                 "Past": "جادَلو"
             }
         ],
-        "text": "<strong>جادَل</strong></span> <br>form 3<br>to argue</i>"
+        "text": "<strong>جادَل</strong></span> <br>form 3<br>to argue</i>",
+        "id": 185
     },
     {
         "verb": "ناقَش",
@@ -9347,7 +9533,8 @@
                 "Past": "ناقَشو"
             }
         ],
-        "text": "<strong>ناقَش</strong></span> <br>form 3<br>to discuss</i>"
+        "text": "<strong>ناقَش</strong></span> <br>form 3<br>to discuss</i>",
+        "id": 186
     },
     {
         "verb": "تحَدّى",
@@ -9397,7 +9584,8 @@
                 "Past": "تحَدّو"
             }
         ],
-        "text": "<strong>تحَدّى</strong></span> <br>form 5<br>to challenge</i>"
+        "text": "<strong>تحَدّى</strong></span> <br>form 5<br>to challenge</i>",
+        "id": 187
     },
     {
         "verb": "تحَرَّش",
@@ -9447,7 +9635,8 @@
                 "Past": "تحَرَّشو"
             }
         ],
-        "text": "<strong>تحَرَّش</strong></span> <br>form 5<br>to harrass</i>"
+        "text": "<strong>تحَرَّش</strong></span> <br>form 5<br>to harrass</i>",
+        "id": 188
     },
     {
         "verb": "هَدَّد",
@@ -9497,7 +9686,8 @@
                 "Past": "هَدَّدو"
             }
         ],
-        "text": "<strong>هَدَّد</strong></span> <br>form 2<br>to threaten</i>"
+        "text": "<strong>هَدَّد</strong></span> <br>form 2<br>to threaten</i>",
+        "id": 189
     },
     {
         "verb": "هان",
@@ -9547,7 +9737,8 @@
                 "Past": "هانو"
             }
         ],
-        "text": "<strong>هان</strong></span> <br>form 1<br>to offend</i>"
+        "text": "<strong>هان</strong></span> <br>form 1<br>to offend</i>",
+        "id": 190
     },
     {
         "verb": "غِلِط",
@@ -9597,7 +9788,8 @@
                 "Past": "غِلطو"
             }
         ],
-        "text": "<strong>غِلِط</strong></span> <br>form 1<br>to offend</i>"
+        "text": "<strong>غِلِط</strong></span> <br>form 1<br>to offend</i>",
+        "id": 191
     },
     {
         "verb": "استَفَزّ",
@@ -9647,7 +9839,8 @@
                 "Past": "استَفَزّو"
             }
         ],
-        "text": "<strong>استَفَزّ</strong></span> <br>form 10<br>to provoke</i>"
+        "text": "<strong>استَفَزّ</strong></span> <br>form 10<br>to provoke</i>",
+        "id": 192
     },
     {
         "verb": "سَبّ",
@@ -9697,7 +9890,8 @@
                 "Past": "سَبّو"
             }
         ],
-        "text": "<strong>سَبّ</strong></span> <br>form 1<br>to curse</i>"
+        "text": "<strong>سَبّ</strong></span> <br>form 1<br>to curse</i>",
+        "id": 193
     },
     {
         "verb": "سَبسَب",
@@ -9747,7 +9941,8 @@
                 "Past": "سَبسَبو"
             }
         ],
-        "text": "<strong>سَبسَب</strong></span> <br>form 12<br>to curse</i>"
+        "text": "<strong>سَبسَب</strong></span> <br>form 12<br>to curse</i>",
+        "id": 194
     },
     {
         "verb": "وَعّى",
@@ -9797,7 +9992,8 @@
                 "Past": "وَعّو"
             }
         ],
-        "text": "<strong>وَعّى</strong></span> <br>form 2<br>to make aware</i>"
+        "text": "<strong>وَعّى</strong></span> <br>form 2<br>to make aware</i>",
+        "id": 195
     },
     {
         "verb": "حَذَّر",
@@ -9847,7 +10043,8 @@
                 "Past": "حَذَّرو"
             }
         ],
-        "text": "<strong>حَذَّر</strong></span> <br>form 2<br>to warn</i>"
+        "text": "<strong>حَذَّر</strong></span> <br>form 2<br>to warn</i>",
+        "id": 196
     },
     {
         "verb": "عَوَّض",
@@ -9897,7 +10094,8 @@
                 "Past": "عَوَّضو"
             }
         ],
-        "text": "<strong>عَوَّض</strong></span> <br>form 2<br>to compensate</i>"
+        "text": "<strong>عَوَّض</strong></span> <br>form 2<br>to compensate</i>",
+        "id": 197
     },
     {
         "verb": "وافَق",
@@ -9947,7 +10145,8 @@
                 "Past": "وافَقو"
             }
         ],
-        "text": "<strong>وافَق</strong></span> <br>form 3<br>to agree</i>"
+        "text": "<strong>وافَق</strong></span> <br>form 3<br>to agree</i>",
+        "id": 198
     },
     {
         "verb": "اتَّفَق",
@@ -9997,7 +10196,8 @@
                 "Past": "اتَّفَقو"
             }
         ],
-        "text": "<strong>اتَّفَق</strong></span> <br>form 8<br>to agree</i>"
+        "text": "<strong>اتَّفَق</strong></span> <br>form 8<br>to agree</i>",
+        "id": 199
     },
     {
         "verb": "قِبِل",
@@ -10047,7 +10247,8 @@
                 "Past": "قِبلو"
             }
         ],
-        "text": "<strong>قِبِل</strong></span> <br>form 1<br>to accept</i>"
+        "text": "<strong>قِبِل</strong></span> <br>form 1<br>to accept</i>",
+        "id": 200
     },
     {
         "verb": "قابَل",
@@ -10097,7 +10298,8 @@
                 "Past": "قابَلو"
             }
         ],
-        "text": "<strong>قابَل</strong></span> <br>form 3<br>to meet</i>"
+        "text": "<strong>قابَل</strong></span> <br>form 3<br>to meet</i>",
+        "id": 201
     },
     {
         "verb": "تقَبَّل",
@@ -10147,7 +10349,8 @@
                 "Past": "تقَبَّلو"
             }
         ],
-        "text": "<strong>تقَبَّل</strong></span> <br>form 5<br>to accept</i>"
+        "text": "<strong>تقَبَّل</strong></span> <br>form 5<br>to accept</i>",
+        "id": 202
     },
     {
         "verb": "استَقبَل",
@@ -10197,7 +10400,8 @@
                 "Past": "استَقبَلو"
             }
         ],
-        "text": "<strong>استَقبَل</strong></span> <br>form 10<br>to receive</i>"
+        "text": "<strong>استَقبَل</strong></span> <br>form 10<br>to receive</i>",
+        "id": 203
     },
     {
         "verb": "رَفَض",
@@ -10247,7 +10451,8 @@
                 "Past": "رَفَضو"
             }
         ],
-        "text": "<strong>رَفَض</strong></span> <br>form 1<br>to refuse</i>"
+        "text": "<strong>رَفَض</strong></span> <br>form 1<br>to refuse</i>",
+        "id": 204
     },
     {
         "verb": "خَبَّر",
@@ -10297,7 +10502,8 @@
                 "Past": "خَبَّرو"
             }
         ],
-        "text": "<strong>خَبَّر</strong></span> <br>form 2<br>to inform</i>"
+        "text": "<strong>خَبَّر</strong></span> <br>form 2<br>to inform</i>",
+        "id": 205
     },
     {
         "verb": "أعلَن",
@@ -10347,7 +10553,8 @@
                 "Past": "أعلَنو"
             }
         ],
-        "text": "<strong>أعلَن</strong></span> <br>form 4<br>to announce</i>"
+        "text": "<strong>أعلَن</strong></span> <br>form 4<br>to announce</i>",
+        "id": 206
     },
     {
         "verb": "دَلّ",
@@ -10397,7 +10604,8 @@
                 "Past": "دَلّو"
             }
         ],
-        "text": "<strong>دَلّ</strong></span> <br>form 1<br>to indicate</i>"
+        "text": "<strong>دَلّ</strong></span> <br>form 1<br>to indicate</i>",
+        "id": 207
     },
     {
         "verb": "رَوَّج",
@@ -10447,7 +10655,8 @@
                 "Past": "رَوَّجو"
             }
         ],
-        "text": "<strong>رَوَّج</strong></span> <br>form 2<br>to promote</i>"
+        "text": "<strong>رَوَّج</strong></span> <br>form 2<br>to promote</i>",
+        "id": 208
     },
     {
         "verb": "استَشَر",
@@ -10497,7 +10706,8 @@
                 "Past": "استَشَرو"
             }
         ],
-        "text": "<strong>استَشَر</strong></span> <br>form 8<br>to consult</i>"
+        "text": "<strong>استَشَر</strong></span> <br>form 8<br>to consult</i>",
+        "id": 209
     },
     {
         "verb": "اقتَرَح",
@@ -10547,7 +10757,8 @@
                 "Past": "اقتَرَحو"
             }
         ],
-        "text": "<strong>اقتَرَح</strong></span> <br>form 8<br>to suggest</i>"
+        "text": "<strong>اقتَرَح</strong></span> <br>form 8<br>to suggest</i>",
+        "id": 210
     },
     {
         "verb": "دَعى",
@@ -10597,7 +10808,8 @@
                 "Past": "دَعو"
             }
         ],
-        "text": "<strong>دَعى</strong></span> <br>form 1<br>to call</i>"
+        "text": "<strong>دَعى</strong></span> <br>form 1<br>to call</i>",
+        "id": 211
     },
     {
         "verb": "شَجَّع",
@@ -10647,7 +10859,8 @@
                 "Past": "شَجَّعو"
             }
         ],
-        "text": "<strong>شَجَّع</strong></span> <br>form 2<br>to encourage</i>"
+        "text": "<strong>شَجَّع</strong></span> <br>form 2<br>to encourage</i>",
+        "id": 212
     },
     {
         "verb": "جاهَد",
@@ -10697,7 +10910,8 @@
                 "Past": "جاهَدو"
             }
         ],
-        "text": "<strong>جاهَد</strong></span> <br>form 3<br>to struggle</i>"
+        "text": "<strong>جاهَد</strong></span> <br>form 3<br>to struggle</i>",
+        "id": 213
     },
     {
         "verb": "دَعَم",
@@ -10747,7 +10961,8 @@
                 "Past": "دَعَمو"
             }
         ],
-        "text": "<strong>دَعَم</strong></span> <br>form 1<br>to support</i>"
+        "text": "<strong>دَعَم</strong></span> <br>form 1<br>to support</i>",
+        "id": 214
     },
     {
         "verb": "مَدَح",
@@ -10797,7 +11012,8 @@
                 "Past": "مَدَحو"
             }
         ],
-        "text": "<strong>مَدَح</strong></span> <br>form 1<br>to praise</i>"
+        "text": "<strong>مَدَح</strong></span> <br>form 1<br>to praise</i>",
+        "id": 215
     },
     {
         "verb": "لام",
@@ -10847,7 +11063,8 @@
                 "Past": "لامو"
             }
         ],
-        "text": "<strong>لام</strong></span> <br>form 1<br>to blame</i>"
+        "text": "<strong>لام</strong></span> <br>form 1<br>to blame</i>",
+        "id": 216
     },
     {
         "verb": "بَهدَل",
@@ -10897,7 +11114,8 @@
                 "Past": "بَهدَلو"
             }
         ],
-        "text": "<strong>بَهدَل</strong></span> <br>form 12<br>to scold</i>"
+        "text": "<strong>بَهدَل</strong></span> <br>form 12<br>to scold</i>",
+        "id": 217
     },
     {
         "verb": "شَكى",
@@ -10947,7 +11165,8 @@
                 "Past": "شَكو"
             }
         ],
-        "text": "<strong>شَكى</strong></span> <br>form 1<br>to complain</i>"
+        "text": "<strong>شَكى</strong></span> <br>form 1<br>to complain</i>",
+        "id": 218
     },
     {
         "verb": "اتَّهَم",
@@ -10997,7 +11216,8 @@
                 "Past": "اتَّهَمو"
             }
         ],
-        "text": "<strong>اتَّهَم</strong></span> <br>form 8<br>to accuse</i>"
+        "text": "<strong>اتَّهَم</strong></span> <br>form 8<br>to accuse</i>",
+        "id": 219
     },
     {
         "verb": "شَكّ",
@@ -11047,7 +11267,8 @@
                 "Past": "شَكّو"
             }
         ],
-        "text": "<strong>شَكّ</strong></span> <br>form 1<br>to doubt</i>"
+        "text": "<strong>شَكّ</strong></span> <br>form 1<br>to doubt</i>",
+        "id": 220
     },
     {
         "verb": "غَشّ",
@@ -11097,7 +11318,8 @@
                 "Past": "غَشّو"
             }
         ],
-        "text": "<strong>غَشّ</strong></span> <br>form 1<br>to cheat</i>"
+        "text": "<strong>غَشّ</strong></span> <br>form 1<br>to cheat</i>",
+        "id": 221
     },
     {
         "verb": "وَعَد",
@@ -11147,7 +11369,8 @@
                 "Past": "وَعَدو"
             }
         ],
-        "text": "<strong>وَعَد</strong></span> <br>form 1<br>to promise</i>"
+        "text": "<strong>وَعَد</strong></span> <br>form 1<br>to promise</i>",
+        "id": 222
     },
     {
         "verb": "اتَّكَل",
@@ -11197,7 +11420,8 @@
                 "Past": "اتَّكَلو"
             }
         ],
-        "text": "<strong>اتَّكَل</strong></span> <br>form 8<br>to trust</i>"
+        "text": "<strong>اتَّكَل</strong></span> <br>form 8<br>to trust</i>",
+        "id": 223
     },
     {
         "verb": "وِثِق",
@@ -11247,7 +11471,8 @@
                 "Past": "وِثقو"
             }
         ],
-        "text": "<strong>وِثِق</strong></span> <br>form 1<br>to trust</i>"
+        "text": "<strong>وِثِق</strong></span> <br>form 1<br>to trust</i>",
+        "id": 224
     },
     {
         "verb": "وَثَّق",
@@ -11297,7 +11522,8 @@
                 "Past": "وَثَّقو"
             }
         ],
-        "text": "<strong>وَثَّق</strong></span> <br>form 2<br>to document</i>"
+        "text": "<strong>وَثَّق</strong></span> <br>form 2<br>to document</i>",
+        "id": 225
     },
     {
         "verb": "كَذَّب",
@@ -11347,7 +11573,8 @@
                 "Past": "كَذَّبو"
             }
         ],
-        "text": "<strong>كَذَّب</strong></span> <br>form 2<br>to lie</i>"
+        "text": "<strong>كَذَّب</strong></span> <br>form 2<br>to lie</i>",
+        "id": 226
     },
     {
         "verb": "بَلَّغ",
@@ -11397,7 +11624,8 @@
                 "Past": "بَلَّغو"
             }
         ],
-        "text": "<strong>بَلَّغ</strong></span> <br>form 2<br>to report</i>"
+        "text": "<strong>بَلَّغ</strong></span> <br>form 2<br>to report</i>",
+        "id": 227
     },
     {
         "verb": "بالَغ",
@@ -11447,7 +11675,8 @@
                 "Past": "بالَغو"
             }
         ],
-        "text": "<strong>بالَغ</strong></span> <br>form 3<br>to exaggerate</i>"
+        "text": "<strong>بالَغ</strong></span> <br>form 3<br>to exaggerate</i>",
+        "id": 228
     },
     {
         "verb": "تساءَل",
@@ -11497,7 +11726,8 @@
                 "Past": "تساءَلو"
             }
         ],
-        "text": "<strong>تساءَل</strong></span> <br>form 6<br>to wonder</i>"
+        "text": "<strong>تساءَل</strong></span> <br>form 6<br>to wonder</i>",
+        "id": 229
     },
     {
         "verb": "استَغرَب",
@@ -11547,7 +11777,8 @@
                 "Past": "استَغرَبو"
             }
         ],
-        "text": "<strong>استَغرَب</strong></span> <br>form 10<br>to wonder</i>"
+        "text": "<strong>استَغرَب</strong></span> <br>form 10<br>to wonder</i>",
+        "id": 230
     },
     {
         "verb": "جاوَب",
@@ -11597,7 +11828,8 @@
                 "Past": "جاوَبو"
             }
         ],
-        "text": "<strong>جاوَب</strong></span> <br>form 3<br>to answer</i>"
+        "text": "<strong>جاوَب</strong></span> <br>form 3<br>to answer</i>",
+        "id": 231
     },
     {
         "verb": "رَدّ",
@@ -11647,7 +11879,8 @@
                 "Past": "رَدّو"
             }
         ],
-        "text": "<strong>رَدّ</strong></span> <br>form 1<br>to reply</i>"
+        "text": "<strong>رَدّ</strong></span> <br>form 1<br>to reply</i>",
+        "id": 232
     },
     {
         "verb": "لَبّى",
@@ -11697,7 +11930,8 @@
                 "Past": "لَبّو"
             }
         ],
-        "text": "<strong>لَبّى</strong></span> <br>form 2<br>to grant</i>"
+        "text": "<strong>لَبّى</strong></span> <br>form 2<br>to grant</i>",
+        "id": 233
     },
     {
         "verb": "تَرجَم",
@@ -11747,7 +11981,8 @@
                 "Past": "تَرجَمو"
             }
         ],
-        "text": "<strong>تَرجَم</strong></span> <br>form 12<br>to translate</i>"
+        "text": "<strong>تَرجَم</strong></span> <br>form 12<br>to translate</i>",
+        "id": 234
     },
     {
         "verb": "نادى",
@@ -11797,7 +12032,8 @@
                 "Past": "نادو"
             }
         ],
-        "text": "<strong>نادى</strong></span> <br>form 3<br>to summon</i>"
+        "text": "<strong>نادى</strong></span> <br>form 3<br>to summon</i>",
+        "id": 235
     },
     {
         "verb": "مَزَح",
@@ -11847,7 +12083,8 @@
                 "Past": "مَزَحو"
             }
         ],
-        "text": "<strong>مَزَح</strong></span> <br>form 1<br>to joke</i>"
+        "text": "<strong>مَزَح</strong></span> <br>form 1<br>to joke</i>",
+        "id": 236
     },
     {
         "verb": "نَكَّت",
@@ -11897,7 +12134,8 @@
                 "Past": "نَكَّتو"
             }
         ],
-        "text": "<strong>نَكَّت</strong></span> <br>form 2<br>to joke</i>"
+        "text": "<strong>نَكَّت</strong></span> <br>form 2<br>to joke</i>",
+        "id": 237
     },
     {
         "verb": "سِمِع",
@@ -11947,7 +12185,8 @@
                 "Past": "سِمعو"
             }
         ],
-        "text": "<strong>سِمِع</strong></span> <br>form 1<br>to hear</i>"
+        "text": "<strong>سِمِع</strong></span> <br>form 1<br>to hear</i>",
+        "id": 238
     },
     {
         "verb": "تنَصَّت",
@@ -11997,7 +12236,8 @@
                 "Past": "تنَصَّتو"
             }
         ],
-        "text": "<strong>تنَصَّت</strong></span> <br>form 5<br>to eavesdrop</i>"
+        "text": "<strong>تنَصَّت</strong></span> <br>form 5<br>to eavesdrop</i>",
+        "id": 239
     },
     {
         "verb": "بَثّ",
@@ -12047,7 +12287,8 @@
                 "Past": "بَثّو"
             }
         ],
-        "text": "<strong>بَثّ</strong></span> <br>form 1<br>to broadcast</i>"
+        "text": "<strong>بَثّ</strong></span> <br>form 1<br>to broadcast</i>",
+        "id": 240
     },
     {
         "verb": "سَجَّل",
@@ -12097,7 +12338,8 @@
                 "Past": "سَجَّلو"
             }
         ],
-        "text": "<strong>سَجَّل</strong></span> <br>form 2<br>to record</i>"
+        "text": "<strong>سَجَّل</strong></span> <br>form 2<br>to record</i>",
+        "id": 241
     },
     {
         "verb": "اعطى",
@@ -12147,7 +12389,8 @@
                 "Past": "اعطو"
             }
         ],
-        "text": "<strong>اعطى</strong></span> <br>form 4<br>to give</i>"
+        "text": "<strong>اعطى</strong></span> <br>form 4<br>to give</i>",
+        "id": 242
     },
     {
         "verb": "بَعَت",
@@ -12197,7 +12440,8 @@
                 "Past": "بَعَتو"
             }
         ],
-        "text": "<strong>بَعَت</strong></span> <br>form 1<br>to send</i>"
+        "text": "<strong>بَعَت</strong></span> <br>form 1<br>to send</i>",
+        "id": 243
     },
     {
         "verb": "جاب",
@@ -12247,7 +12491,8 @@
                 "Past": "جابو"
             }
         ],
-        "text": "<strong>جاب</strong></span> <br>form 1<br>to bring</i>"
+        "text": "<strong>جاب</strong></span> <br>form 1<br>to bring</i>",
+        "id": 244
     },
     {
         "verb": "زاح",
@@ -12297,7 +12542,8 @@
                 "Past": "زاحو"
             }
         ],
-        "text": "<strong>زاح</strong></span> <br>form 1<br>to move</i>"
+        "text": "<strong>زاح</strong></span> <br>form 1<br>to move</i>",
+        "id": 245
     },
     {
         "verb": "نَقَل",
@@ -12347,7 +12593,8 @@
                 "Past": "نَقَلو"
             }
         ],
-        "text": "<strong>نَقَل</strong></span> <br>form 1<br>to move</i>"
+        "text": "<strong>نَقَل</strong></span> <br>form 1<br>to move</i>",
+        "id": 246
     },
     {
         "verb": "حَرَّك",
@@ -12397,7 +12644,8 @@
                 "Past": "حَرَّكو"
             }
         ],
-        "text": "<strong>حَرَّك</strong></span> <br>form 2<br>to move</i>"
+        "text": "<strong>حَرَّك</strong></span> <br>form 2<br>to move</i>",
+        "id": 247
     },
     {
         "verb": "رَحَل",
@@ -12447,7 +12695,8 @@
                 "Past": "رَحَلو"
             }
         ],
-        "text": "<strong>رَحَل</strong></span> <br>form 1<br>to move</i>"
+        "text": "<strong>رَحَل</strong></span> <br>form 1<br>to move</i>",
+        "id": 248
     },
     {
         "verb": "بَدَّل",
@@ -12497,7 +12746,8 @@
                 "Past": "بَدَّلو"
             }
         ],
-        "text": "<strong>بَدَّل</strong></span> <br>form 2<br>to exchange</i>"
+        "text": "<strong>بَدَّل</strong></span> <br>form 2<br>to exchange</i>",
+        "id": 249
     },
     {
         "verb": "تبادَل",
@@ -12547,7 +12797,8 @@
                 "Past": "تبادَلو"
             }
         ],
-        "text": "<strong>تبادَل</strong></span> <br>form 6<br>to exchange</i>"
+        "text": "<strong>تبادَل</strong></span> <br>form 6<br>to exchange</i>",
+        "id": 250
     },
     {
         "verb": "نَشَر",
@@ -12597,7 +12848,8 @@
                 "Past": "نَشَرو"
             }
         ],
-        "text": "<strong>نَشَر</strong></span> <br>form 1<br>to post</i>"
+        "text": "<strong>نَشَر</strong></span> <br>form 1<br>to post</i>",
+        "id": 251
     },
     {
         "verb": "انتَشَر",
@@ -12647,7 +12899,8 @@
                 "Past": "انتَشَرو"
             }
         ],
-        "text": "<strong>انتَشَر</strong></span> <br>form 8<br>to spread</i>"
+        "text": "<strong>انتَشَر</strong></span> <br>form 8<br>to spread</i>",
+        "id": 252
     },
     {
         "verb": "صَدَّر",
@@ -12697,7 +12950,8 @@
                 "Past": "صَدََو"
             }
         ],
-        "text": "<strong>صَدَّر</strong></span> <br>form 1<br>to issue</i>"
+        "text": "<strong>صَدَّر</strong></span> <br>form 1<br>to issue</i>",
+        "id": 253
     },
     {
         "verb": "صَدَّر",
@@ -12747,7 +13001,8 @@
                 "Past": "صَدَّرو"
             }
         ],
-        "text": "<strong>صَدَّر</strong></span> <br>form 2<br>to issue</i>"
+        "text": "<strong>صَدَّر</strong></span> <br>form 2<br>to issue</i>",
+        "id": 254
     },
     {
         "verb": "استَورَد",
@@ -12797,7 +13052,8 @@
                 "Past": "استَورَدو"
             }
         ],
-        "text": "<strong>استَورَد</strong></span> <br>form 10<br>to import</i>"
+        "text": "<strong>استَورَد</strong></span> <br>form 10<br>to import</i>",
+        "id": 255
     },
     {
         "verb": "وَزَّع",
@@ -12847,7 +13103,8 @@
                 "Past": "وَزَّعو"
             }
         ],
-        "text": "<strong>وَزَّع</strong></span> <br>form 2<br>to distribute</i>"
+        "text": "<strong>وَزَّع</strong></span> <br>form 2<br>to distribute</i>",
+        "id": 256
     },
     {
         "verb": "شارَك",
@@ -12897,7 +13154,8 @@
                 "Past": "شارَكو"
             }
         ],
-        "text": "<strong>شارَك</strong></span> <br>form 3<br>to participate</i>"
+        "text": "<strong>شارَك</strong></span> <br>form 3<br>to participate</i>",
+        "id": 257
     },
     {
         "verb": "اشتَرَك",
@@ -12947,7 +13205,8 @@
                 "Past": "اشتَرَكو"
             }
         ],
-        "text": "<strong>اشتَرَك</strong></span> <br>form 8<br>to participate</i>"
+        "text": "<strong>اشتَرَك</strong></span> <br>form 8<br>to participate</i>",
+        "id": 258
     },
     {
         "verb": "تعاوَن",
@@ -12997,7 +13256,8 @@
                 "Past": "تعاوَنو"
             }
         ],
-        "text": "<strong>تعاوَن</strong></span> <br>form 6<br>to cooperate</i>"
+        "text": "<strong>تعاوَن</strong></span> <br>form 6<br>to cooperate</i>",
+        "id": 259
     },
     {
         "verb": "استَغَلّ",
@@ -13047,7 +13307,8 @@
                 "Past": "استَغَلّو"
             }
         ],
-        "text": "<strong>استَغَلّ</strong></span> <br>form 10<br>to take advant.</i>"
+        "text": "<strong>استَغَلّ</strong></span> <br>form 10<br>to take advant.</i>",
+        "id": 260
     },
     {
         "verb": "استَفاد",
@@ -13097,7 +13358,8 @@
                 "Past": "استَفادو"
             }
         ],
-        "text": "<strong>استَفاد</strong></span> <br>form 10<br>to benefit</i>"
+        "text": "<strong>استَفاد</strong></span> <br>form 10<br>to benefit</i>",
+        "id": 261
     },
     {
         "verb": "هَجَر",
@@ -13147,7 +13409,8 @@
                 "Past": "هَجَرو"
             }
         ],
-        "text": "<strong>هَجَر</strong></span> <br>form 1<br>to abandon</i>"
+        "text": "<strong>هَجَر</strong></span> <br>form 1<br>to abandon</i>",
+        "id": 262
     },
     {
         "verb": "هاجَر",
@@ -13197,7 +13460,8 @@
                 "Past": "هاجَرو"
             }
         ],
-        "text": "<strong>هاجَر</strong></span> <br>form 3<br>to migrate</i>"
+        "text": "<strong>هاجَر</strong></span> <br>form 3<br>to migrate</i>",
+        "id": 263
     },
     {
         "verb": "قَرَّب",
@@ -13247,7 +13511,8 @@
                 "Past": "قَرَّبو"
             }
         ],
-        "text": "<strong>قَرَّب</strong></span> <br>form 2<br>to make close</i>"
+        "text": "<strong>قَرَّب</strong></span> <br>form 2<br>to make close</i>",
+        "id": 264
     },
     {
         "verb": "تقارَب",
@@ -13297,7 +13562,8 @@
                 "Past": "تقارَبو"
             }
         ],
-        "text": "<strong>تقارَب</strong></span> <br>form 6<br>to approach</i>"
+        "text": "<strong>تقارَب</strong></span> <br>form 6<br>to approach</i>",
+        "id": 265
     },
     {
         "verb": "اقتَرَب",
@@ -13347,7 +13613,8 @@
                 "Past": "اقتَرَبو"
             }
         ],
-        "text": "<strong>اقتَرَب</strong></span> <br>form 8<br>to approach</i>"
+        "text": "<strong>اقتَرَب</strong></span> <br>form 8<br>to approach</i>",
+        "id": 266
     },
     {
         "verb": "بَعَد",
@@ -13397,7 +13664,8 @@
                 "Past": "بَعَدو"
             }
         ],
-        "text": "<strong>بَعَد</strong></span> <br>form 1<br>to make far</i>"
+        "text": "<strong>بَعَد</strong></span> <br>form 1<br>to make far</i>",
+        "id": 267
     },
     {
         "verb": "غَطّ",
@@ -13447,7 +13715,8 @@
                 "Past": "غَطّو"
             }
         ],
-        "text": "<strong>غَطّ</strong></span> <br>form 1<br>to dip</i>"
+        "text": "<strong>غَطّ</strong></span> <br>form 1<br>to dip</i>",
+        "id": 268
     },
     {
         "verb": "حَطّ",
@@ -13497,7 +13766,8 @@
                 "Past": "حَطّو"
             }
         ],
-        "text": "<strong>حَطّ</strong></span> <br>form 1<br>to put</i>"
+        "text": "<strong>حَطّ</strong></span> <br>form 1<br>to put</i>",
+        "id": 269
     },
     {
         "verb": "حَمَّل",
@@ -13547,7 +13817,8 @@
                 "Past": "حَمَّلو"
             }
         ],
-        "text": "<strong>حَمَّل</strong></span> <br>form 2<br>to load</i>"
+        "text": "<strong>حَمَّل</strong></span> <br>form 2<br>to load</i>",
+        "id": 270
     },
     {
         "verb": "تحَمَّل",
@@ -13597,7 +13868,8 @@
                 "Past": "تحَمَّلو"
             }
         ],
-        "text": "<strong>تحَمَّل</strong></span> <br>form 5<br>to endure</i>"
+        "text": "<strong>تحَمَّل</strong></span> <br>form 5<br>to endure</i>",
+        "id": 271
     },
     {
         "verb": "طاق",
@@ -13647,7 +13919,8 @@
                 "Past": "طاقو"
             }
         ],
-        "text": "<strong>طاق</strong></span> <br>form 1<br>to endure</i>"
+        "text": "<strong>طاق</strong></span> <br>form 1<br>to endure</i>",
+        "id": 272
     },
     {
         "verb": "رَفَع",
@@ -13697,7 +13970,8 @@
                 "Past": "رَفَعو"
             }
         ],
-        "text": "<strong>رَفَع</strong></span> <br>form 1<br>to lift</i>"
+        "text": "<strong>رَفَع</strong></span> <br>form 1<br>to lift</i>",
+        "id": 273
     },
     {
         "verb": "ارتَفَع",
@@ -13747,7 +14021,8 @@
                 "Past": "ارتَفَعو"
             }
         ],
-        "text": "<strong>ارتَفَع</strong></span> <br>form 8<br>to rise</i>"
+        "text": "<strong>ارتَفَع</strong></span> <br>form 8<br>to rise</i>",
+        "id": 274
     },
     {
         "verb": "قام",
@@ -13797,7 +14072,8 @@
                 "Past": "قامو"
             }
         ],
-        "text": "<strong>قام</strong></span> <br>form 1<br>to get up</i>"
+        "text": "<strong>قام</strong></span> <br>form 1<br>to get up</i>",
+        "id": 275
     },
     {
         "verb": "قاوَم",
@@ -13847,7 +14123,8 @@
                 "Past": "قاوَمو"
             }
         ],
-        "text": "<strong>قاوَم</strong></span> <br>form 3<br>to resist</i>"
+        "text": "<strong>قاوَم</strong></span> <br>form 3<br>to resist</i>",
+        "id": 276
     },
     {
         "verb": "سَحَب",
@@ -13897,7 +14174,8 @@
                 "Past": "سَحَبو"
             }
         ],
-        "text": "<strong>سَحَب</strong></span> <br>form 1<br>to pull</i>"
+        "text": "<strong>سَحَب</strong></span> <br>form 1<br>to pull</i>",
+        "id": 277
     },
     {
         "verb": "اختار",
@@ -13947,7 +14225,8 @@
                 "Past": "اختارو"
             }
         ],
-        "text": "<strong>اختار</strong></span> <br>form 8<br>to choose</i>"
+        "text": "<strong>اختار</strong></span> <br>form 8<br>to choose</i>",
+        "id": 278
     },
     {
         "verb": "نَقّى",
@@ -13997,7 +14276,8 @@
                 "Past": "نَقّو"
             }
         ],
-        "text": "<strong>نَقّى</strong></span> <br>form 2<br>to pick</i>"
+        "text": "<strong>نَقّى</strong></span> <br>form 2<br>to pick</i>",
+        "id": 279
     },
     {
         "verb": "لَقَط",
@@ -14047,7 +14327,8 @@
                 "Past": "لَقَطو"
             }
         ],
-        "text": "<strong>لَقَط</strong></span> <br>form 1<br>to pick up</i>"
+        "text": "<strong>لَقَط</strong></span> <br>form 1<br>to pick up</i>",
+        "id": 280
     },
     {
         "verb": "دَقّ",
@@ -14097,7 +14378,8 @@
                 "Past": "دَقّو"
             }
         ],
-        "text": "<strong>دَقّ</strong></span> <br>form 1<br>to knock</i>"
+        "text": "<strong>دَقّ</strong></span> <br>form 1<br>to knock</i>",
+        "id": 281
     },
     {
         "verb": "حَكّ",
@@ -14147,7 +14429,8 @@
                 "Past": "حَكّو"
             }
         ],
-        "text": "<strong>حَكّ</strong></span> <br>form 1<br>to scratch</i>"
+        "text": "<strong>حَكّ</strong></span> <br>form 1<br>to scratch</i>",
+        "id": 282
     },
     {
         "verb": "ضَغَط",
@@ -14197,7 +14480,8 @@
                 "Past": "ضَغَطو"
             }
         ],
-        "text": "<strong>ضَغَط</strong></span> <br>form 1<br>to press</i>"
+        "text": "<strong>ضَغَط</strong></span> <br>form 1<br>to press</i>",
+        "id": 283
     },
     {
         "verb": "غَطّى",
@@ -14247,7 +14531,8 @@
                 "Past": "غَطّو"
             }
         ],
-        "text": "<strong>غَطّى</strong></span> <br>form 2<br>to cover</i>"
+        "text": "<strong>غَطّى</strong></span> <br>form 2<br>to cover</i>",
+        "id": 284
     },
     {
         "verb": "خَبَط",
@@ -14297,7 +14582,8 @@
                 "Past": "خَبَطو"
             }
         ],
-        "text": "<strong>خَبَط</strong></span> <br>form 1<br>to hit</i>"
+        "text": "<strong>خَبَط</strong></span> <br>form 1<br>to hit</i>",
+        "id": 285
     },
     {
         "verb": "ضَرَب",
@@ -14347,7 +14633,8 @@
                 "Past": "ضَرَبو"
             }
         ],
-        "text": "<strong>ضَرَب</strong></span> <br>form 1<br>to hit</i>"
+        "text": "<strong>ضَرَب</strong></span> <br>form 1<br>to hit</i>",
+        "id": 286
     },
     {
         "verb": "اضرَب",
@@ -14397,7 +14684,8 @@
                 "Past": "اضرَبو"
             }
         ],
-        "text": "<strong>اضرَب</strong></span> <br>form 4<br>to go on strike</i>"
+        "text": "<strong>اضرَب</strong></span> <br>form 4<br>to go on strike</i>",
+        "id": 287
     },
     {
         "verb": "رَمى",
@@ -14447,7 +14735,8 @@
                 "Past": "رَمو"
             }
         ],
-        "text": "<strong>رَمى</strong></span> <br>form 1<br>to throw</i>"
+        "text": "<strong>رَمى</strong></span> <br>form 1<br>to throw</i>",
+        "id": 288
     },
     {
         "verb": "صَبّ",
@@ -14497,7 +14786,8 @@
                 "Past": "صَبّو"
             }
         ],
-        "text": "<strong>صَبّ</strong></span> <br>form 1<br>to pour</i>"
+        "text": "<strong>صَبّ</strong></span> <br>form 1<br>to pour</i>",
+        "id": 289
     },
     {
         "verb": "كَبّ",
@@ -14547,7 +14837,8 @@
                 "Past": "كَبّو"
             }
         ],
-        "text": "<strong>كَبّ</strong></span> <br>form 1<br>to spill</i>"
+        "text": "<strong>كَبّ</strong></span> <br>form 1<br>to spill</i>",
+        "id": 290
     },
     {
         "verb": "تسَرَّب",
@@ -14597,7 +14888,8 @@
                 "Past": "تسَرَّبو"
             }
         ],
-        "text": "<strong>تسَرَّب</strong></span> <br>form 5<br>to leak</i>"
+        "text": "<strong>تسَرَّب</strong></span> <br>form 5<br>to leak</i>",
+        "id": 291
     },
     {
         "verb": "رَشّ",
@@ -14647,7 +14939,8 @@
                 "Past": "رَشّو"
             }
         ],
-        "text": "<strong>رَشّ</strong></span> <br>form 1<br>to spray</i>"
+        "text": "<strong>رَشّ</strong></span> <br>form 1<br>to spray</i>",
+        "id": 292
     },
     {
         "verb": "غار",
@@ -14697,7 +14990,8 @@
                 "Past": "غارو"
             }
         ],
-        "text": "<strong>غار</strong></span> <br>form 1<br>to be jealous</i>"
+        "text": "<strong>غار</strong></span> <br>form 1<br>to be jealous</i>",
+        "id": 293
     },
     {
         "verb": "غَيَّر",
@@ -14747,7 +15041,8 @@
                 "Past": "غَيَّرو"
             }
         ],
-        "text": "<strong>غَيَّر</strong></span> <br>form 2<br>to change</i>"
+        "text": "<strong>غَيَّر</strong></span> <br>form 2<br>to change</i>",
+        "id": 294
     },
     {
         "verb": "حَوَّل",
@@ -14797,7 +15092,8 @@
                 "Past": "حَوَّلو"
             }
         ],
-        "text": "<strong>حَوَّل</strong></span> <br>form 2<br>to transform</i>"
+        "text": "<strong>حَوَّل</strong></span> <br>form 2<br>to transform</i>",
+        "id": 295
     },
     {
         "verb": "حاوَل",
@@ -14847,7 +15143,8 @@
                 "Past": "حاوَلو"
             }
         ],
-        "text": "<strong>حاوَل</strong></span> <br>form 3<br>to attempt</i>"
+        "text": "<strong>حاوَل</strong></span> <br>form 3<br>to attempt</i>",
+        "id": 296
     },
     {
         "verb": "جَرَّب",
@@ -14897,7 +15194,8 @@
                 "Past": "جَرَّبو"
             }
         ],
-        "text": "<strong>جَرَّب</strong></span> <br>form 2<br>to attempt</i>"
+        "text": "<strong>جَرَّب</strong></span> <br>form 2<br>to attempt</i>",
+        "id": 297
     },
     {
         "verb": "خَلَط",
@@ -14947,7 +15245,8 @@
                 "Past": "خَلَطو"
             }
         ],
-        "text": "<strong>خَلَط</strong></span> <br>form 1<br>to mix</i>"
+        "text": "<strong>خَلَط</strong></span> <br>form 1<br>to mix</i>",
+        "id": 298
     },
     {
         "verb": "خَلَّط",
@@ -14997,7 +15296,8 @@
                 "Past": "خَلَّطو"
             }
         ],
-        "text": "<strong>خَلَّط</strong></span> <br>form 2<br>to mix</i>"
+        "text": "<strong>خَلَّط</strong></span> <br>form 2<br>to mix</i>",
+        "id": 299
     },
     {
         "verb": "خَربَش",
@@ -15047,7 +15347,8 @@
                 "Past": "خَربَشو"
             }
         ],
-        "text": "<strong>خَربَش</strong></span> <br>form 12<br>to mess up</i>"
+        "text": "<strong>خَربَش</strong></span> <br>form 12<br>to mess up</i>",
+        "id": 300
     },
     {
         "verb": "لَفّ",
@@ -15097,7 +15398,8 @@
                 "Past": "لَفّو"
             }
         ],
-        "text": "<strong>لَفّ</strong></span> <br>form 1<br>to turn</i>"
+        "text": "<strong>لَفّ</strong></span> <br>form 1<br>to turn</i>",
+        "id": 301
     },
     {
         "verb": "ثَنى",
@@ -15147,7 +15449,8 @@
                 "Past": "ثَنو"
             }
         ],
-        "text": "<strong>ثَنى</strong></span> <br>form 1<br>to fold</i>"
+        "text": "<strong>ثَنى</strong></span> <br>form 1<br>to fold</i>",
+        "id": 302
     },
     {
         "verb": "مَدّ",
@@ -15197,7 +15500,8 @@
                 "Past": "مَدّو"
             }
         ],
-        "text": "<strong>مَدّ</strong></span> <br>form 1<br>to stretch</i>"
+        "text": "<strong>مَدّ</strong></span> <br>form 1<br>to stretch</i>",
+        "id": 303
     },
     {
         "verb": "تمَدَّد",
@@ -15247,7 +15551,8 @@
                 "Past": "تمَدَّدو"
             }
         ],
-        "text": "<strong>تمَدَّد</strong></span> <br>form 5<br>to lie down</i>"
+        "text": "<strong>تمَدَّد</strong></span> <br>form 5<br>to lie down</i>",
+        "id": 304
     },
     {
         "verb": "وَحَّد",
@@ -15297,7 +15602,8 @@
                 "Past": "وَحَّدو"
             }
         ],
-        "text": "<strong>وَحَّد</strong></span> <br>form 2<br>to unify</i>"
+        "text": "<strong>وَحَّد</strong></span> <br>form 2<br>to unify</i>",
+        "id": 305
     },
     {
         "verb": "ضاف",
@@ -15347,7 +15653,8 @@
                 "Past": "ضافو"
             }
         ],
-        "text": "<strong>ضاف</strong></span> <br>form 1<br>to add</i>"
+        "text": "<strong>ضاف</strong></span> <br>form 1<br>to add</i>",
+        "id": 306
     },
     {
         "verb": "زاد",
@@ -15397,7 +15704,8 @@
                 "Past": "زادو"
             }
         ],
-        "text": "<strong>زاد</strong></span> <br>form 1<br>to increase</i>"
+        "text": "<strong>زاد</strong></span> <br>form 1<br>to increase</i>",
+        "id": 307
     },
     {
         "verb": "جَمَع",
@@ -15447,7 +15755,8 @@
                 "Past": "جَمَعو"
             }
         ],
-        "text": "<strong>جَمَع</strong></span> <br>form 1<br>to gather</i>"
+        "text": "<strong>جَمَع</strong></span> <br>form 1<br>to gather</i>",
+        "id": 308
     },
     {
         "verb": "تجَمَّع",
@@ -15497,7 +15806,8 @@
                 "Past": "تجَمَّعو"
             }
         ],
-        "text": "<strong>تجَمَّع</strong></span> <br>form 5<br>to congregate</i>"
+        "text": "<strong>تجَمَّع</strong></span> <br>form 5<br>to congregate</i>",
+        "id": 309
     },
     {
         "verb": "اجتَمَع",
@@ -15547,7 +15857,8 @@
                 "Past": "اجتَمَعو"
             }
         ],
-        "text": "<strong>اجتَمَع</strong></span> <br>form 8<br>to meet</i>"
+        "text": "<strong>اجتَمَع</strong></span> <br>form 8<br>to meet</i>",
+        "id": 310
     },
     {
         "verb": "شال",
@@ -15597,7 +15908,8 @@
                 "Past": "شالو"
             }
         ],
-        "text": "<strong>شال</strong></span> <br>form 1<br>to remove</i>"
+        "text": "<strong>شال</strong></span> <br>form 1<br>to remove</i>",
+        "id": 311
     },
     {
         "verb": "نَقَّص",
@@ -15647,7 +15959,8 @@
                 "Past": "نَقَّصو"
             }
         ],
-        "text": "<strong>نَقَّص</strong></span> <br>form 2<br>to reduce</i>"
+        "text": "<strong>نَقَّص</strong></span> <br>form 2<br>to reduce</i>",
+        "id": 312
     },
     {
         "verb": "مَحى",
@@ -15697,7 +16010,8 @@
                 "Past": "مَحو"
             }
         ],
-        "text": "<strong>مَحى</strong></span> <br>form 1<br>to delete</i>"
+        "text": "<strong>مَحى</strong></span> <br>form 1<br>to delete</i>",
+        "id": 313
     },
     {
         "verb": "عَبّى",
@@ -15747,7 +16061,8 @@
                 "Past": "عَبّو"
             }
         ],
-        "text": "<strong>عَبّى</strong></span> <br>form 2<br>to fill</i>"
+        "text": "<strong>عَبّى</strong></span> <br>form 2<br>to fill</i>",
+        "id": 314
     },
     {
         "verb": "فَضّى",
@@ -15797,7 +16112,8 @@
                 "Past": "فَضّو"
             }
         ],
-        "text": "<strong>فَضّى</strong></span> <br>form 2<br>to empty</i>"
+        "text": "<strong>فَضّى</strong></span> <br>form 2<br>to empty</i>",
+        "id": 315
     },
     {
         "verb": "وِسِع",
@@ -15847,7 +16163,8 @@
                 "Past": "وِسعو"
             }
         ],
-        "text": "<strong>وِسِع</strong></span> <br>form 1<br>to fit</i>"
+        "text": "<strong>وِسِع</strong></span> <br>form 1<br>to fit</i>",
+        "id": 316
     },
     {
         "verb": "وَسَّع",
@@ -15897,7 +16214,8 @@
                 "Past": "وَسَّعو"
             }
         ],
-        "text": "<strong>وَسَّع</strong></span> <br>form 2<br>to expand</i>"
+        "text": "<strong>وَسَّع</strong></span> <br>form 2<br>to expand</i>",
+        "id": 317
     },
     {
         "verb": "قَسَّم",
@@ -15947,7 +16265,8 @@
                 "Past": "قَسَّمو"
             }
         ],
-        "text": "<strong>قَسَّم</strong></span> <br>form 2<br>to divide</i>"
+        "text": "<strong>قَسَّم</strong></span> <br>form 2<br>to divide</i>",
+        "id": 318
     },
     {
         "verb": "تقاسَم",
@@ -15997,7 +16316,8 @@
                 "Past": "تقاسَمو"
             }
         ],
-        "text": "<strong>تقاسَم</strong></span> <br>form 6<br>to share</i>"
+        "text": "<strong>تقاسَم</strong></span> <br>form 6<br>to share</i>",
+        "id": 319
     },
     {
         "verb": "قَصّ",
@@ -16047,7 +16367,8 @@
                 "Past": "قَصّو"
             }
         ],
-        "text": "<strong>قَصّ</strong></span> <br>form 1<br>to cut</i>"
+        "text": "<strong>قَصّ</strong></span> <br>form 1<br>to cut</i>",
+        "id": 320
     },
     {
         "verb": "قَطَع",
@@ -16097,7 +16418,8 @@
                 "Past": "قَطَعو"
             }
         ],
-        "text": "<strong>قَطَع</strong></span> <br>form 1<br>to cut</i>"
+        "text": "<strong>قَطَع</strong></span> <br>form 1<br>to cut</i>",
+        "id": 321
     },
     {
         "verb": "قاطَع",
@@ -16147,7 +16469,8 @@
                 "Past": "قاطَعو"
             }
         ],
-        "text": "<strong>قاطَع</strong></span> <br>form 3<br>to boycott</i>"
+        "text": "<strong>قاطَع</strong></span> <br>form 3<br>to boycott</i>",
+        "id": 322
     },
     {
         "verb": "وَظَّف",
@@ -16197,7 +16520,8 @@
                 "Past": "وَظَّفو"
             }
         ],
-        "text": "<strong>وَظَّف</strong></span> <br>form 2<br>to hire</i>"
+        "text": "<strong>وَظَّف</strong></span> <br>form 2<br>to hire</i>",
+        "id": 323
     },
     {
         "verb": "شَغَّل",
@@ -16247,7 +16571,8 @@
                 "Past": "شَغَّلو"
             }
         ],
-        "text": "<strong>شَغَّل</strong></span> <br>form 2<br>to employ</i>"
+        "text": "<strong>شَغَّل</strong></span> <br>form 2<br>to employ</i>",
+        "id": 324
     },
     {
         "verb": "اشتَغَل",
@@ -16297,7 +16622,8 @@
                 "Past": "اشتَغَلو"
             }
         ],
-        "text": "<strong>اشتَغَل</strong></span> <br>form 8<br>to work</i>"
+        "text": "<strong>اشتَغَل</strong></span> <br>form 8<br>to work</i>",
+        "id": 325
     },
     {
         "verb": "عَيَّن",
@@ -16347,7 +16673,8 @@
                 "Past": "عَيَّنو"
             }
         ],
-        "text": "<strong>عَيَّن</strong></span> <br>form 2<br>to appoint</i>"
+        "text": "<strong>عَيَّن</strong></span> <br>form 2<br>to appoint</i>",
+        "id": 326
     },
     {
         "verb": "طَرَد",
@@ -16397,7 +16724,8 @@
                 "Past": "طَرَدو"
             }
         ],
-        "text": "<strong>طَرَد</strong></span> <br>form 1<br>to kick out</i>"
+        "text": "<strong>طَرَد</strong></span> <br>form 1<br>to kick out</i>",
+        "id": 327
     },
     {
         "verb": "جَدَّد",
@@ -16447,7 +16775,8 @@
                 "Past": "جَدَّدو"
             }
         ],
-        "text": "<strong>جَدَّد</strong></span> <br>form 2<br>to renew</i>"
+        "text": "<strong>جَدَّد</strong></span> <br>form 2<br>to renew</i>",
+        "id": 328
     },
     {
         "verb": "امتَلَك",
@@ -16497,7 +16826,8 @@
                 "Past": "امتَلَكو"
             }
         ],
-        "text": "<strong>امتَلَك</strong></span> <br>form 8<br>to own</i>"
+        "text": "<strong>امتَلَك</strong></span> <br>form 8<br>to own</i>",
+        "id": 329
     },
     {
         "verb": "باع",
@@ -16547,7 +16877,8 @@
                 "Past": "باعو"
             }
         ],
-        "text": "<strong>باع</strong></span> <br>form 1<br>to sell</i>"
+        "text": "<strong>باع</strong></span> <br>form 1<br>to sell</i>",
+        "id": 330
     },
     {
         "verb": "دَفَع",
@@ -16597,7 +16928,8 @@
                 "Past": "دَفَعو"
             }
         ],
-        "text": "<strong>دَفَع</strong></span> <br>form 1<br>to pay</i>"
+        "text": "<strong>دَفَع</strong></span> <br>form 1<br>to pay</i>",
+        "id": 331
     },
     {
         "verb": "دافَع",
@@ -16647,7 +16979,8 @@
                 "Past": "دافَعو"
             }
         ],
-        "text": "<strong>دافَع</strong></span> <br>form 3<br>to defend</i>"
+        "text": "<strong>دافَع</strong></span> <br>form 3<br>to defend</i>",
+        "id": 332
     },
     {
         "verb": "حَمى",
@@ -16697,7 +17030,8 @@
                 "Past": "حَمو"
             }
         ],
-        "text": "<strong>حَمى</strong></span> <br>form 1<br>to protect</i>"
+        "text": "<strong>حَمى</strong></span> <br>form 1<br>to protect</i>",
+        "id": 333
     },
     {
         "verb": "صَرَف",
@@ -16747,7 +17081,8 @@
                 "Past": "صَرَفو"
             }
         ],
-        "text": "<strong>صَرَف</strong></span> <br>form 1<br>to spend</i>"
+        "text": "<strong>صَرَف</strong></span> <br>form 1<br>to spend</i>",
+        "id": 334
     },
     {
         "verb": "وَفَّر",
@@ -16797,7 +17132,8 @@
                 "Past": "وَفَّرو"
             }
         ],
-        "text": "<strong>وَفَّر</strong></span> <br>form 2<br>to save money</i>"
+        "text": "<strong>وَفَّر</strong></span> <br>form 2<br>to save money</i>",
+        "id": 335
     },
     {
         "verb": "مَوَّل",
@@ -16847,7 +17183,8 @@
                 "Past": "مَوَّلو"
             }
         ],
-        "text": "<strong>مَوَّل</strong></span> <br>form 2<br>to fund</i>"
+        "text": "<strong>مَوَّل</strong></span> <br>form 2<br>to fund</i>",
+        "id": 336
     },
     {
         "verb": "استَثمَر",
@@ -16897,7 +17234,8 @@
                 "Past": "استَثمَرو"
             }
         ],
-        "text": "<strong>استَثمَر</strong></span> <br>form 10<br>to invest</i>"
+        "text": "<strong>استَثمَر</strong></span> <br>form 10<br>to invest</i>",
+        "id": 337
     },
     {
         "verb": "تبَرَّع",
@@ -16947,7 +17285,8 @@
                 "Past": "تبَرَّعو"
             }
         ],
-        "text": "<strong>تبَرَّع</strong></span> <br>form 5<br>to donate</i>"
+        "text": "<strong>تبَرَّع</strong></span> <br>form 5<br>to donate</i>",
+        "id": 338
     },
     {
         "verb": "استَحَقّ",
@@ -16997,7 +17336,8 @@
                 "Past": "استَحَقّو"
             }
         ],
-        "text": "<strong>استَحَقّ</strong></span> <br>form 10<br>to deserve</i>"
+        "text": "<strong>استَحَقّ</strong></span> <br>form 10<br>to deserve</i>",
+        "id": 339
     },
     {
         "verb": "كَفّى",
@@ -17047,7 +17387,8 @@
                 "Past": "كَفّو"
             }
         ],
-        "text": "<strong>كَفّى</strong></span> <br>form 2<br>to be enough</i>"
+        "text": "<strong>كَفّى</strong></span> <br>form 2<br>to be enough</i>",
+        "id": 340
     },
     {
         "verb": "كَلَّف",
@@ -17097,7 +17438,8 @@
                 "Past": "كَلَّفو"
             }
         ],
-        "text": "<strong>كَلَّف</strong></span> <br>form 2<br>to cost</i>"
+        "text": "<strong>كَلَّف</strong></span> <br>form 2<br>to cost</i>",
+        "id": 341
     },
     {
         "verb": "عَدّ",
@@ -17147,7 +17489,8 @@
                 "Past": "عَدّو"
             }
         ],
-        "text": "<strong>عَدّ</strong></span> <br>form 1<br>to count</i>"
+        "text": "<strong>عَدّ</strong></span> <br>form 1<br>to count</i>",
+        "id": 342
     },
     {
         "verb": "حَسَب",
@@ -17197,7 +17540,8 @@
                 "Past": "حَسَبو"
             }
         ],
-        "text": "<strong>حَسَب</strong></span> <br>form 1<br>to count</i>"
+        "text": "<strong>حَسَب</strong></span> <br>form 1<br>to count</i>",
+        "id": 343
     },
     {
         "verb": "تدَيَّن",
@@ -17247,7 +17591,8 @@
                 "Past": "تدَيَّنو"
             }
         ],
-        "text": "<strong>تدَيَّن</strong></span> <br>form 5<br>to borrow</i>"
+        "text": "<strong>تدَيَّن</strong></span> <br>form 5<br>to borrow</i>",
+        "id": 344
     },
     {
         "verb": "سَرَق",
@@ -17297,7 +17642,8 @@
                 "Past": "سَرَقو"
             }
         ],
-        "text": "<strong>سَرَق</strong></span> <br>form 1<br>to steal</i>"
+        "text": "<strong>سَرَق</strong></span> <br>form 1<br>to steal</i>",
+        "id": 345
     },
     {
         "verb": "استَأجَر",
@@ -17347,7 +17693,8 @@
                 "Past": "استَأجَرو"
             }
         ],
-        "text": "<strong>استَأجَر</strong></span> <br>form 10<br>to rent</i>"
+        "text": "<strong>استَأجَر</strong></span> <br>form 10<br>to rent</i>",
+        "id": 346
     },
     {
         "verb": "طَلَب",
@@ -17397,7 +17744,8 @@
                 "Past": "طَلَبو"
             }
         ],
-        "text": "<strong>طَلَب</strong></span> <br>form 1<br>to request</i>"
+        "text": "<strong>طَلَب</strong></span> <br>form 1<br>to request</i>",
+        "id": 347
     },
     {
         "verb": "طالَب",
@@ -17447,7 +17795,8 @@
                 "Past": "طالَبو"
             }
         ],
-        "text": "<strong>طالَب</strong></span> <br>form 3<br>to demand</i>"
+        "text": "<strong>طالَب</strong></span> <br>form 3<br>to demand</i>",
+        "id": 348
     },
     {
         "verb": "وَصّى",
@@ -17497,7 +17846,8 @@
                 "Past": "وَصّو"
             }
         ],
-        "text": "<strong>وَصّى</strong></span> <br>form 2<br>to order</i>"
+        "text": "<strong>وَصّى</strong></span> <br>form 2<br>to order</i>",
+        "id": 349
     },
     {
         "verb": "دَبَّر",
@@ -17547,7 +17897,8 @@
                 "Past": "دَبَّرو"
             }
         ],
-        "text": "<strong>دَبَّر</strong></span> <br>form 2<br>to manage</i>"
+        "text": "<strong>دَبَّر</strong></span> <br>form 2<br>to manage</i>",
+        "id": 350
     },
     {
         "verb": "ساعَد",
@@ -17597,7 +17948,8 @@
                 "Past": "ساعَدو"
             }
         ],
-        "text": "<strong>ساعَد</strong></span> <br>form 3<br>to help</i>"
+        "text": "<strong>ساعَد</strong></span> <br>form 3<br>to help</i>",
+        "id": 351
     },
     {
         "verb": "أنقَذ",
@@ -17647,7 +17999,8 @@
                 "Past": "أنقَذو"
             }
         ],
-        "text": "<strong>أنقَذ</strong></span> <br>form 4<br>to save</i>"
+        "text": "<strong>أنقَذ</strong></span> <br>form 4<br>to save</i>",
+        "id": 352
     },
     {
         "verb": "نَفَع",
@@ -17697,7 +18050,8 @@
                 "Past": "نَفَعو"
             }
         ],
-        "text": "<strong>نَفَع</strong></span> <br>form 1<br>to work</i>"
+        "text": "<strong>نَفَع</strong></span> <br>form 1<br>to work</i>",
+        "id": 353
     },
     {
         "verb": "زَبَط",
@@ -17747,7 +18101,8 @@
                 "Past": "زَبَطو"
             }
         ],
-        "text": "<strong>زَبَط</strong></span> <br>form 1<br>to work</i>"
+        "text": "<strong>زَبَط</strong></span> <br>form 1<br>to work</i>",
+        "id": 354
     },
     {
         "verb": "زَبَّط",
@@ -17797,7 +18152,8 @@
                 "Past": "زَبَّطو"
             }
         ],
-        "text": "<strong>زَبَّط</strong></span> <br>form 2<br>to fix</i>"
+        "text": "<strong>زَبَّط</strong></span> <br>form 2<br>to fix</i>",
+        "id": 355
     },
     {
         "verb": "صَلَّح",
@@ -17847,7 +18203,8 @@
                 "Past": "صَلَّحو"
             }
         ],
-        "text": "<strong>صَلَّح</strong></span> <br>form 2<br>to fix</i>"
+        "text": "<strong>صَلَّح</strong></span> <br>form 2<br>to fix</i>",
+        "id": 356
     },
     {
         "verb": "أصلَح",
@@ -17897,7 +18254,8 @@
                 "Past": "أصلَحو"
             }
         ],
-        "text": "<strong>أصلَح</strong></span> <br>form 4<br>to reform</i>"
+        "text": "<strong>أصلَح</strong></span> <br>form 4<br>to reform</i>",
+        "id": 357
     },
     {
         "verb": "تصالَح",
@@ -17947,7 +18305,8 @@
                 "Past": "تصالَحو"
             }
         ],
-        "text": "<strong>تصالَح</strong></span> <br>form 6<br>to reconcile</i>"
+        "text": "<strong>تصالَح</strong></span> <br>form 6<br>to reconcile</i>",
+        "id": 358
     },
     {
         "verb": "عَدَّل",
@@ -17997,7 +18356,8 @@
                 "Past": "عَدَّلو"
             }
         ],
-        "text": "<strong>عَدَّل</strong></span> <br>form 2<br>to modify</i>"
+        "text": "<strong>عَدَّل</strong></span> <br>form 2<br>to modify</i>",
+        "id": 359
     },
     {
         "verb": "فَتَح",
@@ -18047,7 +18407,8 @@
                 "Past": "فَتَحو"
             }
         ],
-        "text": "<strong>فَتَح</strong></span> <br>form 1<br>to open</i>"
+        "text": "<strong>فَتَح</strong></span> <br>form 1<br>to open</i>",
+        "id": 360
     },
     {
         "verb": "سَكَر",
@@ -18097,7 +18458,8 @@
                 "Past": "سَكَرو"
             }
         ],
-        "text": "<strong>سَكَر</strong></span> <br>form 1<br>to get drunk</i>"
+        "text": "<strong>سَكَر</strong></span> <br>form 1<br>to get drunk</i>",
+        "id": 361
     },
     {
         "verb": "سَكَّر",
@@ -18147,7 +18509,8 @@
                 "Past": "سَكَّرو"
             }
         ],
-        "text": "<strong>سَكَّر</strong></span> <br>form 2<br>to close</i>"
+        "text": "<strong>سَكَّر</strong></span> <br>form 2<br>to close</i>",
+        "id": 362
     },
     {
         "verb": "ضَوى",
@@ -18197,7 +18560,8 @@
                 "Past": "ضَوو"
             }
         ],
-        "text": "<strong>ضَوى</strong></span> <br>form 1<br>to turn on</i>"
+        "text": "<strong>ضَوى</strong></span> <br>form 1<br>to turn on</i>",
+        "id": 363
     },
     {
         "verb": "طَفى",
@@ -18247,7 +18611,8 @@
                 "Past": "طَفو"
             }
         ],
-        "text": "<strong>طَفى</strong></span> <br>form 1<br>to turn off</i>"
+        "text": "<strong>طَفى</strong></span> <br>form 1<br>to turn off</i>",
+        "id": 364
     },
     {
         "verb": "عِلي",
@@ -18297,7 +18662,8 @@
                 "Past": "عِلو"
             }
         ],
-        "text": "<strong>عِلي</strong></span> <br>form 1<br>to go up</i>"
+        "text": "<strong>عِلي</strong></span> <br>form 1<br>to go up</i>",
+        "id": 365
     },
     {
         "verb": "وَطّى",
@@ -18347,7 +18713,8 @@
                 "Past": "وَطّو"
             }
         ],
-        "text": "<strong>وَطّى</strong></span> <br>form 2<br>to turn down</i>"
+        "text": "<strong>وَطّى</strong></span> <br>form 2<br>to turn down</i>",
+        "id": 366
     },
     {
         "verb": "خَفَّف",
@@ -18397,7 +18764,8 @@
                 "Past": "خَفَّفو"
             }
         ],
-        "text": "<strong>خَفَّف</strong></span> <br>form 2<br>to lighten</i>"
+        "text": "<strong>خَفَّف</strong></span> <br>form 2<br>to lighten</i>",
+        "id": 367
     },
     {
         "verb": "استَخَفّ",
@@ -18447,7 +18815,8 @@
                 "Past": "استَخَفّو"
             }
         ],
-        "text": "<strong>استَخَفّ</strong></span> <br>form 10<br>to underestim.</i>"
+        "text": "<strong>استَخَفّ</strong></span> <br>form 10<br>to underestim.</i>",
+        "id": 368
     },
     {
         "verb": "سَكَت",
@@ -18497,7 +18866,8 @@
                 "Past": "سَكَتو"
             }
         ],
-        "text": "<strong>سَكَت</strong></span> <br>form 1<br>to be quiet</i>"
+        "text": "<strong>سَكَت</strong></span> <br>form 1<br>to be quiet</i>",
+        "id": 369
     },
     {
         "verb": "خَرَس",
@@ -18547,7 +18917,8 @@
                 "Past": "خَرَسو"
             }
         ],
-        "text": "<strong>خَرَس</strong></span> <br>form 1<br>to be quiet</i>"
+        "text": "<strong>خَرَس</strong></span> <br>form 1<br>to be quiet</i>",
+        "id": 370
     },
     {
         "verb": "هِدي",
@@ -18597,7 +18968,8 @@
                 "Past": "هِدو"
             }
         ],
-        "text": "<strong>هِدي</strong></span> <br>form 1<br>to calm down</i>"
+        "text": "<strong>هِدي</strong></span> <br>form 1<br>to calm down</i>",
+        "id": 371
     },
     {
         "verb": "شَحَن",
@@ -18647,7 +19019,8 @@
                 "Past": "شَحَنو"
             }
         ],
-        "text": "<strong>شَحَن</strong></span> <br>form 1<br>to charge</i>"
+        "text": "<strong>شَحَن</strong></span> <br>form 1<br>to charge</i>",
+        "id": 372
     },
     {
         "verb": "فَكَّك",
@@ -18697,7 +19070,8 @@
                 "Past": "فَكَّكو"
             }
         ],
-        "text": "<strong>فَكَّك</strong></span> <br>form 2<br>to break down</i>"
+        "text": "<strong>فَكَّك</strong></span> <br>form 2<br>to break down</i>",
+        "id": 373
     },
     {
         "verb": "خَرَّب",
@@ -18747,7 +19121,8 @@
                 "Past": "خَرَو"
             }
         ],
-        "text": "<strong>خَرَّب</strong></span> <br>form 1<br>to ruin</i>"
+        "text": "<strong>خَرَّب</strong></span> <br>form 1<br>to ruin</i>",
+        "id": 374
     },
     {
         "verb": "خَرَّب",
@@ -18797,7 +19172,8 @@
                 "Past": "خَرَّبو"
             }
         ],
-        "text": "<strong>خَرَّب</strong></span> <br>form 2<br>to ruin</i>"
+        "text": "<strong>خَرَّب</strong></span> <br>form 2<br>to ruin</i>",
+        "id": 375
     },
     {
         "verb": "دَمَّر",
@@ -18847,7 +19223,8 @@
                 "Past": "دَمَّرو"
             }
         ],
-        "text": "<strong>دَمَّر</strong></span> <br>form 2<br>to destroy</i>"
+        "text": "<strong>دَمَّر</strong></span> <br>form 2<br>to destroy</i>",
+        "id": 376
     },
     {
         "verb": "فَقَّع",
@@ -18897,7 +19274,8 @@
                 "Past": "فَقََو"
             }
         ],
-        "text": "<strong>فَقَّع</strong></span> <br>form 1<br>to burst</i>"
+        "text": "<strong>فَقَّع</strong></span> <br>form 1<br>to burst</i>",
+        "id": 377
     },
     {
         "verb": "فَقَّع",
@@ -18947,7 +19325,8 @@
                 "Past": "فَقَّعو"
             }
         ],
-        "text": "<strong>فَقَّع</strong></span> <br>form 2<br>to burst</i>"
+        "text": "<strong>فَقَّع</strong></span> <br>form 2<br>to burst</i>",
+        "id": 378
     },
     {
         "verb": "تحَسَّن",
@@ -18997,7 +19376,8 @@
                 "Past": "تحَسَّنو"
             }
         ],
-        "text": "<strong>تحَسَّن</strong></span> <br>form 5<br>to improve (int.)</i>"
+        "text": "<strong>تحَسَّن</strong></span> <br>form 5<br>to improve (int.)</i>",
+        "id": 379
     },
     {
         "verb": "بَيَّن",
@@ -19047,7 +19427,8 @@
                 "Past": "بَيَّنو"
             }
         ],
-        "text": "<strong>بَيَّن</strong></span> <br>form 2<br>to seem</i>"
+        "text": "<strong>بَيَّن</strong></span> <br>form 2<br>to seem</i>",
+        "id": 380
     },
     {
         "verb": "تظاهَر",
@@ -19097,7 +19478,8 @@
                 "Past": "تظاهَرو"
             }
         ],
-        "text": "<strong>تظاهَر</strong></span> <br>form 6<br>to manifest</i>"
+        "text": "<strong>تظاهَر</strong></span> <br>form 6<br>to manifest</i>",
+        "id": 381
     },
     {
         "verb": "شاف",
@@ -19147,7 +19529,8 @@
                 "Past": "شافو"
             }
         ],
-        "text": "<strong>شاف</strong></span> <br>form 1<br>to see</i>"
+        "text": "<strong>شاف</strong></span> <br>form 1<br>to see</i>",
+        "id": 382
     },
     {
         "verb": "استَشهَد",
@@ -19197,7 +19580,8 @@
                 "Past": "استَشهَدو"
             }
         ],
-        "text": "<strong>استَشهَد</strong></span> <br>form 10<br>to be martyred</i>"
+        "text": "<strong>استَشهَد</strong></span> <br>form 10<br>to be martyred</i>",
+        "id": 383
     },
     {
         "verb": "غاب",
@@ -19247,7 +19631,8 @@
                 "Past": "غابو"
             }
         ],
-        "text": "<strong>غاب</strong></span> <br>form 1<br>to be absent</i>"
+        "text": "<strong>غاب</strong></span> <br>form 1<br>to be absent</i>",
+        "id": 384
     },
     {
         "verb": "حِضِر",
@@ -19297,7 +19682,8 @@
                 "Past": "حِضرو"
             }
         ],
-        "text": "<strong>حِضِر</strong></span> <br>form 1<br>to be present</i>"
+        "text": "<strong>حِضِر</strong></span> <br>form 1<br>to be present</i>",
+        "id": 385
     },
     {
         "verb": "حَضَّر",
@@ -19347,7 +19733,8 @@
                 "Past": "حَضَّرو"
             }
         ],
-        "text": "<strong>حَضَّر</strong></span> <br>form 2<br>to prepare</i>"
+        "text": "<strong>حَضَّر</strong></span> <br>form 2<br>to prepare</i>",
+        "id": 386
     },
     {
         "verb": "جَهَّز",
@@ -19397,7 +19784,8 @@
                 "Past": "جَهَّزو"
             }
         ],
-        "text": "<strong>جَهَّز</strong></span> <br>form 2<br>to prepare</i>"
+        "text": "<strong>جَهَّز</strong></span> <br>form 2<br>to prepare</i>",
+        "id": 387
     },
     {
         "verb": "خَطَّط",
@@ -19447,7 +19835,8 @@
                 "Past": "خَطَّطو"
             }
         ],
-        "text": "<strong>خَطَّط</strong></span> <br>form 2<br>to plan</i>"
+        "text": "<strong>خَطَّط</strong></span> <br>form 2<br>to plan</i>",
+        "id": 388
     },
     {
         "verb": "وَجَّه",
@@ -19497,7 +19886,8 @@
                 "Past": "وَجَّهو"
             }
         ],
-        "text": "<strong>وَجَّه</strong></span> <br>form 2<br>to aim</i>"
+        "text": "<strong>وَجَّه</strong></span> <br>form 2<br>to aim</i>",
+        "id": 389
     },
     {
         "verb": "واجَه",
@@ -19547,7 +19937,8 @@
                 "Past": "واجَهو"
             }
         ],
-        "text": "<strong>واجَه</strong></span> <br>form 3<br>to confront</i>"
+        "text": "<strong>واجَه</strong></span> <br>form 3<br>to confront</i>",
+        "id": 390
     },
     {
         "verb": "توَجَّه",
@@ -19597,7 +19988,8 @@
                 "Past": "توَجَّهو"
             }
         ],
-        "text": "<strong>توَجَّه</strong></span> <br>form 5<br>to head toward</i>"
+        "text": "<strong>توَجَّه</strong></span> <br>form 5<br>to head toward</i>",
+        "id": 391
     },
     {
         "verb": "اتَّجَه",
@@ -19647,7 +20039,8 @@
                 "Past": "اتَّجَهو"
             }
         ],
-        "text": "<strong>اتَّجَه</strong></span> <br>form 8<br>to head toward</i>"
+        "text": "<strong>اتَّجَه</strong></span> <br>form 8<br>to head toward</i>",
+        "id": 392
     },
     {
         "verb": "فَضَح",
@@ -19697,7 +20090,8 @@
                 "Past": "فَضَحو"
             }
         ],
-        "text": "<strong>فَضَح</strong></span> <br>form 1<br>to expose</i>"
+        "text": "<strong>فَضَح</strong></span> <br>form 1<br>to expose</i>",
+        "id": 393
     },
     {
         "verb": "تخَيَّل",
@@ -19747,7 +20141,8 @@
                 "Past": "تخَيَّلو"
             }
         ],
-        "text": "<strong>تخَيَّل</strong></span> <br>form 5<br>to imagine</i>"
+        "text": "<strong>تخَيَّل</strong></span> <br>form 5<br>to imagine</i>",
+        "id": 394
     },
     {
         "verb": "حِلِم",
@@ -19797,7 +20192,8 @@
                 "Past": "حِلمو"
             }
         ],
-        "text": "<strong>حِلِم</strong></span> <br>form 1<br>to dream</i>"
+        "text": "<strong>حِلِم</strong></span> <br>form 1<br>to dream</i>",
+        "id": 395
     },
     {
         "verb": "مَثَّل",
@@ -19847,7 +20243,8 @@
                 "Past": "مَثَّلو"
             }
         ],
-        "text": "<strong>مَثَّل</strong></span> <br>form 2<br>to act</i>"
+        "text": "<strong>مَثَّل</strong></span> <br>form 2<br>to act</i>",
+        "id": 396
     },
     {
         "verb": "فَحَص",
@@ -19897,7 +20294,8 @@
                 "Past": "فَحَصو"
             }
         ],
-        "text": "<strong>فَحَص</strong></span> <br>form 1<br>to examine</i>"
+        "text": "<strong>فَحَص</strong></span> <br>form 1<br>to examine</i>",
+        "id": 397
     },
     {
         "verb": "قَرا",
@@ -19947,7 +20345,8 @@
                 "Past": "قَرو"
             }
         ],
-        "text": "<strong>قَرا</strong></span> <br>form 1<br>to read</i>"
+        "text": "<strong>قَرا</strong></span> <br>form 1<br>to read</i>",
+        "id": 398
     },
     {
         "verb": "كَتَب",
@@ -19997,7 +20396,8 @@
                 "Past": "كَتَبو"
             }
         ],
-        "text": "<strong>كَتَب</strong></span> <br>form 1<br>to write</i>"
+        "text": "<strong>كَتَب</strong></span> <br>form 1<br>to write</i>",
+        "id": 399
     },
     {
         "verb": "رَسَم",
@@ -20047,7 +20447,8 @@
                 "Past": "رَسَمو"
             }
         ],
-        "text": "<strong>رَسَم</strong></span> <br>form 1<br>to draw</i>"
+        "text": "<strong>رَسَم</strong></span> <br>form 1<br>to draw</i>",
+        "id": 400
     },
     {
         "verb": "صَمَّم",
@@ -20097,7 +20498,8 @@
                 "Past": "صَمَّمو"
             }
         ],
-        "text": "<strong>صَمَّم</strong></span> <br>form 2<br>to design</i>"
+        "text": "<strong>صَمَّم</strong></span> <br>form 2<br>to design</i>",
+        "id": 401
     },
     {
         "verb": "دَوَّر",
@@ -20147,7 +20549,8 @@
                 "Past": "دَوَّرو"
             }
         ],
-        "text": "<strong>دَوَّر</strong></span> <br>form 2<br>to search</i>"
+        "text": "<strong>دَوَّر</strong></span> <br>form 2<br>to search</i>",
+        "id": 402
     },
     {
         "verb": "لَقى",
@@ -20197,7 +20600,8 @@
                 "Past": "لَقو"
             }
         ],
-        "text": "<strong>لَقى</strong></span> <br>form 3<br>to find</i>"
+        "text": "<strong>لَقى</strong></span> <br>form 3<br>to find</i>",
+        "id": 403
     },
     {
         "verb": "ضَيَّع",
@@ -20247,7 +20651,8 @@
                 "Past": "ضَيو"
             }
         ],
-        "text": "<strong>ضَيَّع</strong></span> <br>form 1<br>to lose</i>"
+        "text": "<strong>ضَيَّع</strong></span> <br>form 1<br>to lose</i>",
+        "id": 404
     },
     {
         "verb": "ضَيَّع",
@@ -20297,7 +20702,8 @@
                 "Past": "ضَيَّعو"
             }
         ],
-        "text": "<strong>ضَيَّع</strong></span> <br>form 2<br>to lose</i>"
+        "text": "<strong>ضَيَّع</strong></span> <br>form 2<br>to lose</i>",
+        "id": 405
     },
     {
         "verb": "خَبّى",
@@ -20347,7 +20753,8 @@
                 "Past": "خَبّو"
             }
         ],
-        "text": "<strong>خَبّى</strong></span> <br>form 2<br>to hide</i>"
+        "text": "<strong>خَبّى</strong></span> <br>form 2<br>to hide</i>",
+        "id": 406
     },
     {
         "verb": "اختَفى",
@@ -20397,7 +20804,8 @@
                 "Past": "اختَفو"
             }
         ],
-        "text": "<strong>اختَفى</strong></span> <br>form 8<br>to disappear</i>"
+        "text": "<strong>اختَفى</strong></span> <br>form 8<br>to disappear</i>",
+        "id": 407
     },
     {
         "verb": "خَطَف",
@@ -20447,7 +20855,8 @@
                 "Past": "خَطَفو"
             }
         ],
-        "text": "<strong>خَطَف</strong></span> <br>form 1<br>to kidnap</i>"
+        "text": "<strong>خَطَف</strong></span> <br>form 1<br>to kidnap</i>",
+        "id": 408
     },
     {
         "verb": "عاش",
@@ -20497,7 +20906,8 @@
                 "Past": "عاشو"
             }
         ],
-        "text": "<strong>عاش</strong></span> <br>form 1<br>to live</i>"
+        "text": "<strong>عاش</strong></span> <br>form 1<br>to live</i>",
+        "id": 409
     },
     {
         "verb": "وِلدَت",
@@ -20547,7 +20957,8 @@
                 "Past": "وِلَو"
             }
         ],
-        "text": "<strong>وِلدَت</strong></span> <br>form 1<br>to give birth</i>"
+        "text": "<strong>وِلدَت</strong></span> <br>form 1<br>to give birth</i>",
+        "id": 410
     },
     {
         "verb": "خَلَّفَت",
@@ -20597,7 +21008,8 @@
                 "Past": "خَلَّفو"
             }
         ],
-        "text": "<strong>خَلَّفَت</strong></span> <br>form 2<br>to give birth</i>"
+        "text": "<strong>خَلَّفَت</strong></span> <br>form 2<br>to give birth</i>",
+        "id": 411
     },
     {
         "verb": "خالَف",
@@ -20647,7 +21059,8 @@
                 "Past": "خالَفو"
             }
         ],
-        "text": "<strong>خالَف</strong></span> <br>form 3<br>to disagree</i>"
+        "text": "<strong>خالَف</strong></span> <br>form 3<br>to disagree</i>",
+        "id": 412
     },
     {
         "verb": "تخَلَّف",
@@ -20697,7 +21110,8 @@
                 "Past": "تخَلَّفو"
             }
         ],
-        "text": "<strong>تخَلَّف</strong></span> <br>form 5<br>to stay behind</i>"
+        "text": "<strong>تخَلَّف</strong></span> <br>form 5<br>to stay behind</i>",
+        "id": 413
     },
     {
         "verb": "اختَلَف",
@@ -20747,7 +21161,8 @@
                 "Past": "اختَلَفو"
             }
         ],
-        "text": "<strong>اختَلَف</strong></span> <br>form 8<br>to differ</i>"
+        "text": "<strong>اختَلَف</strong></span> <br>form 8<br>to differ</i>",
+        "id": 414
     },
     {
         "verb": "رَبّى",
@@ -20797,7 +21212,8 @@
                 "Past": "رَبّو"
             }
         ],
-        "text": "<strong>رَبّى</strong></span> <br>form 2<br>to raise</i>"
+        "text": "<strong>رَبّى</strong></span> <br>form 2<br>to raise</i>",
+        "id": 415
     },
     {
         "verb": "كَبَّر",
@@ -20847,7 +21263,8 @@
                 "Past": "كَبَّرو"
             }
         ],
-        "text": "<strong>كَبَّر</strong></span> <br>form 2<br>to enlarge</i>"
+        "text": "<strong>كَبَّر</strong></span> <br>form 2<br>to enlarge</i>",
+        "id": 416
     },
     {
         "verb": "تكَبَّر",
@@ -20897,7 +21314,8 @@
                 "Past": "تكَبَّرو"
             }
         ],
-        "text": "<strong>تكَبَّر</strong></span> <br>form 5<br>to be arrogant</i>"
+        "text": "<strong>تكَبَّر</strong></span> <br>form 5<br>to be arrogant</i>",
+        "id": 417
     },
     {
         "verb": "سَكَن",
@@ -20947,7 +21365,8 @@
                 "Past": "سَكَنو"
             }
         ],
-        "text": "<strong>سَكَن</strong></span> <br>form 1<br>to reside</i>"
+        "text": "<strong>سَكَن</strong></span> <br>form 1<br>to reside</i>",
+        "id": 418
     },
     {
         "verb": "تزَوَّج",
@@ -20997,7 +21416,8 @@
                 "Past": "تزَوَّجو"
             }
         ],
-        "text": "<strong>تزَوَّج</strong></span> <br>form 5<br>to marry</i>"
+        "text": "<strong>تزَوَّج</strong></span> <br>form 5<br>to marry</i>",
+        "id": 419
     },
     {
         "verb": "طَلَّق",
@@ -21047,7 +21467,8 @@
                 "Past": "طَلَّقو"
             }
         ],
-        "text": "<strong>طَلَّق</strong></span> <br>form 2<br>to divorce</i>"
+        "text": "<strong>طَلَّق</strong></span> <br>form 2<br>to divorce</i>",
+        "id": 420
     },
     {
         "verb": "مات",
@@ -21097,7 +21518,8 @@
                 "Past": "ماتو"
             }
         ],
-        "text": "<strong>مات</strong></span> <br>form 1<br>to die</i>"
+        "text": "<strong>مات</strong></span> <br>form 1<br>to die</i>",
+        "id": 421
     },
     {
         "verb": "توَفّى",
@@ -21147,7 +21569,8 @@
                 "Past": "توَفّو"
             }
         ],
-        "text": "<strong>توَفّى</strong></span> <br>form 5<br>to pass away</i>"
+        "text": "<strong>توَفّى</strong></span> <br>form 5<br>to pass away</i>",
+        "id": 422
     },
     {
         "verb": "انتَحَر",
@@ -21197,7 +21620,8 @@
                 "Past": "انتَحَرو"
             }
         ],
-        "text": "<strong>انتَحَر</strong></span> <br>form 8<br>commit suicide</i>"
+        "text": "<strong>انتَحَر</strong></span> <br>form 8<br>commit suicide</i>",
+        "id": 423
     },
     {
         "verb": "دَبَح",
@@ -21247,7 +21671,8 @@
                 "Past": "دَبَحو"
             }
         ],
-        "text": "<strong>دَبَح</strong></span> <br>form 1<br>to slaughter</i>"
+        "text": "<strong>دَبَح</strong></span> <br>form 1<br>to slaughter</i>",
+        "id": 424
     },
     {
         "verb": "نام",
@@ -21297,7 +21722,8 @@
                 "Past": "نامو"
             }
         ],
-        "text": "<strong>نام</strong></span> <br>form 1<br>to sleep</i>"
+        "text": "<strong>نام</strong></span> <br>form 1<br>to sleep</i>",
+        "id": 425
     },
     {
         "verb": "غِفي",
@@ -21347,7 +21773,8 @@
                 "Past": "غِفو"
             }
         ],
-        "text": "<strong>غِفي</strong></span> <br>form 1<br>to fall asleep</i>"
+        "text": "<strong>غِفي</strong></span> <br>form 1<br>to fall asleep</i>",
+        "id": 426
     },
     {
         "verb": "غَمَّض",
@@ -21397,7 +21824,8 @@
                 "Past": "غَمَّضو"
             }
         ],
-        "text": "<strong>غَمَّض</strong></span> <br>form 2<br>to shut (eyes)</i>"
+        "text": "<strong>غَمَّض</strong></span> <br>form 2<br>to shut (eyes)</i>",
+        "id": 427
     },
     {
         "verb": "نِعِس",
@@ -21447,7 +21875,8 @@
                 "Past": "نِعسو"
             }
         ],
-        "text": "<strong>نِعِس</strong></span> <br>form 1<br>to get sleepy</i>"
+        "text": "<strong>نِعِس</strong></span> <br>form 1<br>to get sleepy</i>",
+        "id": 428
     },
     {
         "verb": "كِسِل",
@@ -21497,7 +21926,8 @@
                 "Past": "كِسلو"
             }
         ],
-        "text": "<strong>كِسِل</strong></span> <br>form 1<br>to get lazy</i>"
+        "text": "<strong>كِسِل</strong></span> <br>form 1<br>to get lazy</i>",
+        "id": 429
     },
     {
         "verb": "غِمي",
@@ -21547,7 +21977,8 @@
                 "Past": "غِمو"
             }
         ],
-        "text": "<strong>غِمي</strong></span> <br>form 1<br>to faint</i>"
+        "text": "<strong>غِمي</strong></span> <br>form 1<br>to faint</i>",
+        "id": 430
     },
     {
         "verb": "صَحّى",
@@ -21597,7 +22028,8 @@
                 "Past": "صَحو"
             }
         ],
-        "text": "<strong>صَحّى</strong></span> <br>form 1<br>to wake</i>"
+        "text": "<strong>صَحّى</strong></span> <br>form 1<br>to wake</i>",
+        "id": 431
     },
     {
         "verb": "صَحّى",
@@ -21647,7 +22079,8 @@
                 "Past": "صَحّو"
             }
         ],
-        "text": "<strong>صَحّى</strong></span> <br>form 2<br>to wake</i>"
+        "text": "<strong>صَحّى</strong></span> <br>form 2<br>to wake</i>",
+        "id": 432
     },
     {
         "verb": "فاق",
@@ -21697,7 +22130,8 @@
                 "Past": "فاقو"
             }
         ],
-        "text": "<strong>فاق</strong></span> <br>form 1<br>to wake</i>"
+        "text": "<strong>فاق</strong></span> <br>form 1<br>to wake</i>",
+        "id": 433
     },
     {
         "verb": "سَهَر",
@@ -21747,7 +22181,8 @@
                 "Past": "سَهَرو"
             }
         ],
-        "text": "<strong>سَهَر</strong></span> <br>form 1<br>to stay up</i>"
+        "text": "<strong>سَهَر</strong></span> <br>form 1<br>to stay up</i>",
+        "id": 434
     },
     {
         "verb": "حَمَّم",
@@ -21797,7 +22232,8 @@
                 "Past": "حَمَّمو"
             }
         ],
-        "text": "<strong>حَمَّم</strong></span> <br>form 2<br>to bathe</i>"
+        "text": "<strong>حَمَّم</strong></span> <br>form 2<br>to bathe</i>",
+        "id": 435
     },
     {
         "verb": "شَلَح",
@@ -21847,7 +22283,8 @@
                 "Past": "شَلَحو"
             }
         ],
-        "text": "<strong>شَلَح</strong></span> <br>form 1<br>to take off</i>"
+        "text": "<strong>شَلَح</strong></span> <br>form 1<br>to take off</i>",
+        "id": 436
     },
     {
         "verb": "وَسَّخ",
@@ -21897,7 +22334,8 @@
                 "Past": "وَسَو"
             }
         ],
-        "text": "<strong>وَسَّخ</strong></span> <br>form 1<br>to dirty</i>"
+        "text": "<strong>وَسَّخ</strong></span> <br>form 1<br>to dirty</i>",
+        "id": 437
     },
     {
         "verb": "وَسَّخ",
@@ -21947,7 +22385,8 @@
                 "Past": "وَسَّخو"
             }
         ],
-        "text": "<strong>وَسَّخ</strong></span> <br>form 2<br>to dirty</i>"
+        "text": "<strong>وَسَّخ</strong></span> <br>form 2<br>to dirty</i>",
+        "id": 438
     },
     {
         "verb": "نَضَّف",
@@ -21997,7 +22436,8 @@
                 "Past": "نَضَّفو"
             }
         ],
-        "text": "<strong>نَضَّف</strong></span> <br>form 2<br>to clean</i>"
+        "text": "<strong>نَضَّف</strong></span> <br>form 2<br>to clean</i>",
+        "id": 439
     },
     {
         "verb": "جَمَّل",
@@ -22047,7 +22487,8 @@
                 "Past": "جَمَّلو"
             }
         ],
-        "text": "<strong>جَمَّل</strong></span> <br>form 2<br>to beautify</i>"
+        "text": "<strong>جَمَّل</strong></span> <br>form 2<br>to beautify</i>",
+        "id": 440
     },
     {
         "verb": "غَسَّل",
@@ -22097,7 +22538,8 @@
                 "Past": "غَسَّلو"
             }
         ],
-        "text": "<strong>غَسَّل</strong></span> <br>form 2<br>to wash</i>"
+        "text": "<strong>غَسَّل</strong></span> <br>form 2<br>to wash</i>",
+        "id": 441
     },
     {
         "verb": "جَلى",
@@ -22147,7 +22589,8 @@
                 "Past": "جَلو"
             }
         ],
-        "text": "<strong>جَلى</strong></span> <br>form 1<br>to wash</i>"
+        "text": "<strong>جَلى</strong></span> <br>form 1<br>to wash</i>",
+        "id": 442
     },
     {
         "verb": "نَشَّف",
@@ -22197,7 +22640,8 @@
                 "Past": "نَشَو"
             }
         ],
-        "text": "<strong>نَشَّف</strong></span> <br>form 1<br>to dry</i>"
+        "text": "<strong>نَشَّف</strong></span> <br>form 1<br>to dry</i>",
+        "id": 443
     },
     {
         "verb": "نَشَّف",
@@ -22247,7 +22691,8 @@
                 "Past": "نَشَّفو"
             }
         ],
-        "text": "<strong>نَشَّف</strong></span> <br>form 2<br>to dry</i>"
+        "text": "<strong>نَشَّف</strong></span> <br>form 2<br>to dry</i>",
+        "id": 444
     },
     {
         "verb": "نَظَّم",
@@ -22297,7 +22742,8 @@
                 "Past": "نَظَّمو"
             }
         ],
-        "text": "<strong>نَظَّم</strong></span> <br>form 2<br>to organize</i>"
+        "text": "<strong>نَظَّم</strong></span> <br>form 2<br>to organize</i>",
+        "id": 445
     },
     {
         "verb": "ضَبّ",
@@ -22347,7 +22793,8 @@
                 "Past": "ضَبّو"
             }
         ],
-        "text": "<strong>ضَبّ</strong></span> <br>form 1<br>to organize</i>"
+        "text": "<strong>ضَبّ</strong></span> <br>form 1<br>to organize</i>",
+        "id": 446
     },
     {
         "verb": "رَتَّب",
@@ -22397,7 +22844,8 @@
                 "Past": "رَتَّبو"
             }
         ],
-        "text": "<strong>رَتَّب</strong></span> <br>form 2<br>to arrange</i>"
+        "text": "<strong>رَتَّب</strong></span> <br>form 2<br>to arrange</i>",
+        "id": 447
     },
     {
         "verb": "رَبَط",
@@ -22447,7 +22895,8 @@
                 "Past": "رَبَطو"
             }
         ],
-        "text": "<strong>رَبَط</strong></span> <br>form 1<br>to tie</i>"
+        "text": "<strong>رَبَط</strong></span> <br>form 1<br>to tie</i>",
+        "id": 448
     },
     {
         "verb": "ارتَبَط",
@@ -22497,7 +22946,8 @@
                 "Past": "ارتَبَطو"
             }
         ],
-        "text": "<strong>ارتَبَط</strong></span> <br>form 8<br>to be related</i>"
+        "text": "<strong>ارتَبَط</strong></span> <br>form 8<br>to be related</i>",
+        "id": 449
     },
     {
         "verb": "قَفَّل",
@@ -22547,7 +22997,8 @@
                 "Past": "قَفَّلو"
             }
         ],
-        "text": "<strong>قَفَّل</strong></span> <br>form 2<br>to lock</i>"
+        "text": "<strong>قَفَّل</strong></span> <br>form 2<br>to lock</i>",
+        "id": 450
     },
     {
         "verb": "مِرِض",
@@ -22597,7 +23048,8 @@
                 "Past": "مِرضو"
             }
         ],
-        "text": "<strong>مِرِض</strong></span> <br>form 1<br>to get sick</i>"
+        "text": "<strong>مِرِض</strong></span> <br>form 1<br>to get sick</i>",
+        "id": 451
     },
     {
         "verb": "تنَفَّس",
@@ -22647,7 +23099,8 @@
                 "Past": "تنَفَّسو"
             }
         ],
-        "text": "<strong>تنَفَّس</strong></span> <br>form 5<br>to breathe</i>"
+        "text": "<strong>تنَفَّس</strong></span> <br>form 5<br>to breathe</i>",
+        "id": 452
     },
     {
         "verb": "غَرَق",
@@ -22697,7 +23150,8 @@
                 "Past": "غَرَقو"
             }
         ],
-        "text": "<strong>غَرَق</strong></span> <br>form 1<br>to drown</i>"
+        "text": "<strong>غَرَق</strong></span> <br>form 1<br>to drown</i>",
+        "id": 453
     },
     {
         "verb": "دَخَّن",
@@ -22747,7 +23201,8 @@
                 "Past": "دَخَّنو"
             }
         ],
-        "text": "<strong>دَخَّن</strong></span> <br>form 2<br>to smoke</i>"
+        "text": "<strong>دَخَّن</strong></span> <br>form 2<br>to smoke</i>",
+        "id": 454
     },
     {
         "verb": "شَيَّش",
@@ -22797,7 +23252,8 @@
                 "Past": "شَيَّشو"
             }
         ],
-        "text": "<strong>شَيَّش</strong></span> <br>form 2<br>to smoke shisha</i>"
+        "text": "<strong>شَيَّش</strong></span> <br>form 2<br>to smoke shisha</i>",
+        "id": 455
     },
     {
         "verb": "قَحّ",
@@ -22847,7 +23303,8 @@
                 "Past": "قَحّو"
             }
         ],
-        "text": "<strong>قَحّ</strong></span> <br>form 1<br>to cough</i>"
+        "text": "<strong>قَحّ</strong></span> <br>form 1<br>to cough</i>",
+        "id": 456
     },
     {
         "verb": "عَطَس",
@@ -22897,7 +23354,8 @@
                 "Past": "عَطَسو"
             }
         ],
-        "text": "<strong>عَطَس</strong></span> <br>form 1<br>to sneeze</i>"
+        "text": "<strong>عَطَس</strong></span> <br>form 1<br>to sneeze</i>",
+        "id": 457
     },
     {
         "verb": "وِجِع",
@@ -22947,7 +23405,8 @@
                 "Past": "وِجعو"
             }
         ],
-        "text": "<strong>وِجِع</strong></span> <br>form 1<br>to hurt</i>"
+        "text": "<strong>وِجِع</strong></span> <br>form 1<br>to hurt</i>",
+        "id": 458
     },
     {
         "verb": "جَرَح",
@@ -22997,7 +23456,8 @@
                 "Past": "جَرَحو"
             }
         ],
-        "text": "<strong>جَرَح</strong></span> <br>form 1<br>to wound</i>"
+        "text": "<strong>جَرَح</strong></span> <br>form 1<br>to wound</i>",
+        "id": 459
     },
     {
         "verb": "التَهَب",
@@ -23047,7 +23507,8 @@
                 "Past": "التَهَبو"
             }
         ],
-        "text": "<strong>التَهَب</strong></span> <br>form 8<br>to inflame</i>"
+        "text": "<strong>التَهَب</strong></span> <br>form 8<br>to inflame</i>",
+        "id": 460
     },
     {
         "verb": "نَفَخ",
@@ -23097,7 +23558,8 @@
                 "Past": "نَفَخو"
             }
         ],
-        "text": "<strong>نَفَخ</strong></span> <br>form 1<br>to inflate</i>"
+        "text": "<strong>نَفَخ</strong></span> <br>form 1<br>to inflate</i>",
+        "id": 461
     },
     {
         "verb": "انتَفَخ",
@@ -23147,7 +23609,8 @@
                 "Past": "انتَفَخو"
             }
         ],
-        "text": "<strong>انتَفَخ</strong></span> <br>form 8<br>to swell</i>"
+        "text": "<strong>انتَفَخ</strong></span> <br>form 8<br>to swell</i>",
+        "id": 462
     },
     {
         "verb": "بَتَر",
@@ -23197,7 +23660,8 @@
                 "Past": "بَتَرو"
             }
         ],
-        "text": "<strong>بَتَر</strong></span> <br>form 1<br>to amputate</i>"
+        "text": "<strong>بَتَر</strong></span> <br>form 1<br>to amputate</i>",
+        "id": 463
     },
     {
         "verb": "عَقَّم",
@@ -23247,7 +23711,8 @@
                 "Past": "عَقَّمو"
             }
         ],
-        "text": "<strong>عَقَّم</strong></span> <br>form 2<br>to sterilize</i>"
+        "text": "<strong>عَقَّم</strong></span> <br>form 2<br>to sterilize</i>",
+        "id": 464
     },
     {
         "verb": "لَوَّث",
@@ -23297,7 +23762,8 @@
                 "Past": "لَوَّثو"
             }
         ],
-        "text": "<strong>لَوَّث</strong></span> <br>form 2<br>to contaminate</i>"
+        "text": "<strong>لَوَّث</strong></span> <br>form 2<br>to contaminate</i>",
+        "id": 465
     },
     {
         "verb": "طاب",
@@ -23347,7 +23813,8 @@
                 "Past": "طابو"
             }
         ],
-        "text": "<strong>طاب</strong></span> <br>form 1<br>to heal</i>"
+        "text": "<strong>طاب</strong></span> <br>form 1<br>to heal</i>",
+        "id": 466
     },
     {
         "verb": "عَضّ",
@@ -23397,7 +23864,8 @@
                 "Past": "عَضّو"
             }
         ],
-        "text": "<strong>عَضّ</strong></span> <br>form 1<br>to bite</i>"
+        "text": "<strong>عَضّ</strong></span> <br>form 1<br>to bite</i>",
+        "id": 467
     },
     {
         "verb": "مَضَغ",
@@ -23447,7 +23915,8 @@
                 "Past": "مَضَغو"
             }
         ],
-        "text": "<strong>مَضَغ</strong></span> <br>form 1<br>to chew</i>"
+        "text": "<strong>مَضَغ</strong></span> <br>form 1<br>to chew</i>",
+        "id": 468
     },
     {
         "verb": "داق",
@@ -23497,7 +23966,8 @@
                 "Past": "داقو"
             }
         ],
-        "text": "<strong>داق</strong></span> <br>form 1<br>to taste</i>"
+        "text": "<strong>داق</strong></span> <br>form 1<br>to taste</i>",
+        "id": 469
     },
     {
         "verb": "شِرِب",
@@ -23547,7 +24017,8 @@
                 "Past": "شِربو"
             }
         ],
-        "text": "<strong>شِرِب</strong></span> <br>form 1<br>to drink</i>"
+        "text": "<strong>شِرِب</strong></span> <br>form 1<br>to drink</i>",
+        "id": 470
     },
     {
         "verb": "طَبَخ",
@@ -23597,7 +24068,8 @@
                 "Past": "طَبَخو"
             }
         ],
-        "text": "<strong>طَبَخ</strong></span> <br>form 1<br>to cook</i>"
+        "text": "<strong>طَبَخ</strong></span> <br>form 1<br>to cook</i>",
+        "id": 471
     },
     {
         "verb": "جاع",
@@ -23647,7 +24119,8 @@
                 "Past": "جاعو"
             }
         ],
-        "text": "<strong>جاع</strong></span> <br>form 1<br>to get hungry</i>"
+        "text": "<strong>جاع</strong></span> <br>form 1<br>to get hungry</i>",
+        "id": 472
     },
     {
         "verb": "شَهّى",
@@ -23697,7 +24170,8 @@
                 "Past": "شَهّو"
             }
         ],
-        "text": "<strong>شَهّى</strong></span> <br>form 2<br>to appetize</i>"
+        "text": "<strong>شَهّى</strong></span> <br>form 2<br>to appetize</i>",
+        "id": 473
     },
     {
         "verb": "فَطَر",
@@ -23747,7 +24221,8 @@
                 "Past": "فَطَرو"
             }
         ],
-        "text": "<strong>فَطَر</strong></span> <br>form 1<br>to eat breakfast</i>"
+        "text": "<strong>فَطَر</strong></span> <br>form 1<br>to eat breakfast</i>",
+        "id": 474
     },
     {
         "verb": "نَصَح",
@@ -23797,7 +24272,8 @@
                 "Past": "نَصَحو"
             }
         ],
-        "text": "<strong>نَصَح</strong></span> <br>form 1<br>to advise</i>"
+        "text": "<strong>نَصَح</strong></span> <br>form 1<br>to advise</i>",
+        "id": 475
     },
     {
         "verb": "نِصِح",
@@ -23847,7 +24323,8 @@
                 "Past": "نِصحو"
             }
         ],
-        "text": "<strong>نِصِح</strong></span> <br>form 1<br>to gain weight</i>"
+        "text": "<strong>نِصِح</strong></span> <br>form 1<br>to gain weight</i>",
+        "id": 476
     },
     {
         "verb": "سِمِن",
@@ -23897,7 +24374,8 @@
                 "Past": "سِمنو"
             }
         ],
-        "text": "<strong>سِمِن</strong></span> <br>form 1<br>to gain weight</i>"
+        "text": "<strong>سِمِن</strong></span> <br>form 1<br>to gain weight</i>",
+        "id": 477
     },
     {
         "verb": "ضِعِف",
@@ -23947,7 +24425,8 @@
                 "Past": "ضِعفو"
             }
         ],
-        "text": "<strong>ضِعِف</strong></span> <br>form 1<br>to lose weight</i>"
+        "text": "<strong>ضِعِف</strong></span> <br>form 1<br>to lose weight</i>",
+        "id": 478
     },
     {
         "verb": "ادمَن",
@@ -23997,7 +24476,8 @@
                 "Past": "ادمَنو"
             }
         ],
-        "text": "<strong>ادمَن</strong></span> <br>form 4<br>to get addicted</i>"
+        "text": "<strong>ادمَن</strong></span> <br>form 4<br>to get addicted</i>",
+        "id": 479
     },
     {
         "verb": "شَمّ",
@@ -24047,7 +24527,8 @@
                 "Past": "شَمّو"
             }
         ],
-        "text": "<strong>شَمّ</strong></span> <br>form 1<br>to smell</i>"
+        "text": "<strong>شَمّ</strong></span> <br>form 1<br>to smell</i>",
+        "id": 480
     },
     {
         "verb": "فَصَّص",
@@ -24097,7 +24578,8 @@
                 "Past": "فَصَّصو"
             }
         ],
-        "text": "<strong>فَصَّص</strong></span> <br>form 2<br>to fart</i>"
+        "text": "<strong>فَصَّص</strong></span> <br>form 2<br>to fart</i>",
+        "id": 481
     },
     {
         "verb": "خِري",
@@ -24147,7 +24629,8 @@
                 "Past": "خِرو"
             }
         ],
-        "text": "<strong>خِري</strong></span> <br>form 1<br>to defecate</i>"
+        "text": "<strong>خِري</strong></span> <br>form 1<br>to defecate</i>",
+        "id": 482
     },
     {
         "verb": "باس",
@@ -24197,7 +24680,8 @@
                 "Past": "باسو"
             }
         ],
-        "text": "<strong>باس</strong></span> <br>form 1<br>to kiss</i>"
+        "text": "<strong>باس</strong></span> <br>form 1<br>to kiss</i>",
+        "id": 483
     },
     {
         "verb": "عَبَط",
@@ -24247,7 +24731,8 @@
                 "Past": "عَبَطو"
             }
         ],
-        "text": "<strong>عَبَط</strong></span> <br>form 1<br>to hug</i>"
+        "text": "<strong>عَبَط</strong></span> <br>form 1<br>to hug</i>",
+        "id": 484
     },
     {
         "verb": "لَحَس",
@@ -24297,7 +24782,8 @@
                 "Past": "لَحَسو"
             }
         ],
-        "text": "<strong>لَحَس</strong></span> <br>form 1<br>to lick</i>"
+        "text": "<strong>لَحَس</strong></span> <br>form 1<br>to lick</i>",
+        "id": 485
     },
     {
         "verb": "مَصّ",
@@ -24347,7 +24833,8 @@
                 "Past": "مَصّو"
             }
         ],
-        "text": "<strong>مَصّ</strong></span> <br>form 1<br>to suck</i>"
+        "text": "<strong>مَصّ</strong></span> <br>form 1<br>to suck</i>",
+        "id": 486
     },
     {
         "verb": "ناك",
@@ -24397,7 +24884,8 @@
                 "Past": "ناكو"
             }
         ],
-        "text": "<strong>ناك</strong></span> <br>form 1<br>to fuck</i>"
+        "text": "<strong>ناك</strong></span> <br>form 1<br>to fuck</i>",
+        "id": 487
     },
     {
         "verb": "مَرَج",
@@ -24447,7 +24935,8 @@
                 "Past": "مَرَجو"
             }
         ],
-        "text": "<strong>مَرَج</strong></span> <br>form 1<br>to masturbate</i>"
+        "text": "<strong>مَرَج</strong></span> <br>form 1<br>to masturbate</i>",
+        "id": 488
     },
     {
         "verb": "حَسّ",
@@ -24497,7 +24986,8 @@
                 "Past": "حَسّو"
             }
         ],
-        "text": "<strong>حَسّ</strong></span> <br>form 1<br>to feel</i>"
+        "text": "<strong>حَسّ</strong></span> <br>form 1<br>to feel</i>",
+        "id": 489
     },
     {
         "verb": "كِرِه",
@@ -24547,7 +25037,8 @@
                 "Past": "كِرهو"
             }
         ],
-        "text": "<strong>كِرِه</strong></span> <br>form 1<br>to hate</i>"
+        "text": "<strong>كِرِه</strong></span> <br>form 1<br>to hate</i>",
+        "id": 490
     },
     {
         "verb": "حَبّ",
@@ -24597,7 +25088,8 @@
                 "Past": "حَبّو"
             }
         ],
-        "text": "<strong>حَبّ</strong></span> <br>form 1<br>to love</i>"
+        "text": "<strong>حَبّ</strong></span> <br>form 1<br>to love</i>",
+        "id": 491
     },
     {
         "verb": "جَنَّن",
@@ -24647,7 +25139,8 @@
                 "Past": "جَنَّنو"
             }
         ],
-        "text": "<strong>جَنَّن</strong></span> <br>form 2<br>to like</i>"
+        "text": "<strong>جَنَّن</strong></span> <br>form 2<br>to like</i>",
+        "id": 492
     },
     {
         "verb": "فَضَّل",
@@ -24697,7 +25190,8 @@
                 "Past": "فَضَّلو"
             }
         ],
-        "text": "<strong>فَضَّل</strong></span> <br>form 2<br>to prefer</i>"
+        "text": "<strong>فَضَّل</strong></span> <br>form 2<br>to prefer</i>",
+        "id": 493
     },
     {
         "verb": "استَمتَع",
@@ -24747,7 +25241,8 @@
                 "Past": "استَمتَعو"
             }
         ],
-        "text": "<strong>استَمتَع</strong></span> <br>form 10<br>to enjoy</i>"
+        "text": "<strong>استَمتَع</strong></span> <br>form 10<br>to enjoy</i>",
+        "id": 494
     },
     {
         "verb": "ابتَسَم",
@@ -24797,7 +25292,8 @@
                 "Past": "ابتَسَمو"
             }
         ],
-        "text": "<strong>ابتَسَم</strong></span> <br>form 8<br>to smile</i>"
+        "text": "<strong>ابتَسَم</strong></span> <br>form 8<br>to smile</i>",
+        "id": 495
     },
     {
         "verb": "سَلّى",
@@ -24847,7 +25343,8 @@
                 "Past": "سَلّو"
             }
         ],
-        "text": "<strong>سَلّى</strong></span> <br>form 2<br>to entertain</i>"
+        "text": "<strong>سَلّى</strong></span> <br>form 2<br>to entertain</i>",
+        "id": 496
     },
     {
         "verb": "تسَلّى",
@@ -24897,7 +25394,8 @@
                 "Past": "تسَلّو"
             }
         ],
-        "text": "<strong>تسَلّى</strong></span> <br>form 5<br>to have fun</i>"
+        "text": "<strong>تسَلّى</strong></span> <br>form 5<br>to have fun</i>",
+        "id": 497
     },
     {
         "verb": "فِضي",
@@ -24947,7 +25445,8 @@
                 "Past": "فِضو"
             }
         ],
-        "text": "<strong>فِضي</strong></span> <br>form 1<br>to be free</i>"
+        "text": "<strong>فِضي</strong></span> <br>form 1<br>to be free</i>",
+        "id": 498
     },
     {
         "verb": "قَضى",
@@ -24997,7 +25496,8 @@
                 "Past": "قَضو"
             }
         ],
-        "text": "<strong>قَضى</strong></span> <br>form 1<br>to spend time</i>"
+        "text": "<strong>قَضى</strong></span> <br>form 1<br>to spend time</i>",
+        "id": 499
     },
     {
         "verb": "قاضى",
@@ -25047,7 +25547,8 @@
                 "Past": "قاضو"
             }
         ],
-        "text": "<strong>قاضى</strong></span> <br>form 3<br>to sue</i>"
+        "text": "<strong>قاضى</strong></span> <br>form 3<br>to sue</i>",
+        "id": 500
     },
     {
         "verb": "احتَفَل",
@@ -25097,7 +25598,8 @@
                 "Past": "احتَفَلو"
             }
         ],
-        "text": "<strong>احتَفَل</strong></span> <br>form 8<br>to celebrate</i>"
+        "text": "<strong>احتَفَل</strong></span> <br>form 8<br>to celebrate</i>",
+        "id": 501
     },
     {
         "verb": "ضِحِك",
@@ -25147,7 +25649,8 @@
                 "Past": "ضِحكو"
             }
         ],
-        "text": "<strong>ضِحِك</strong></span> <br>form 1<br>to laugh</i>"
+        "text": "<strong>ضِحِك</strong></span> <br>form 1<br>to laugh</i>",
+        "id": 502
     },
     {
         "verb": "ضَحَّك",
@@ -25197,7 +25700,8 @@
                 "Past": "ضَحَّكو"
             }
         ],
-        "text": "<strong>ضَحَّك</strong></span> <br>form 2<br>to be funny</i>"
+        "text": "<strong>ضَحَّك</strong></span> <br>form 2<br>to be funny</i>",
+        "id": 503
     },
     {
         "verb": "بَكى",
@@ -25247,7 +25751,8 @@
                 "Past": "بَكو"
             }
         ],
-        "text": "<strong>بَكى</strong></span> <br>form 1<br>to cry</i>"
+        "text": "<strong>بَكى</strong></span> <br>form 1<br>to cry</i>",
+        "id": 504
     },
     {
         "verb": "عَيَّط",
@@ -25297,7 +25802,8 @@
                 "Past": "عَيَّطو"
             }
         ],
-        "text": "<strong>عَيَّط</strong></span> <br>form 2<br>to cry</i>"
+        "text": "<strong>عَيَّط</strong></span> <br>form 2<br>to cry</i>",
+        "id": 505
     },
     {
         "verb": "لِعِب",
@@ -25347,7 +25853,8 @@
                 "Past": "لِعبو"
             }
         ],
-        "text": "<strong>لِعِب</strong></span> <br>form 1<br>to play</i>"
+        "text": "<strong>لِعِب</strong></span> <br>form 1<br>to play</i>",
+        "id": 506
     },
     {
         "verb": "تلاعَب",
@@ -25397,7 +25904,8 @@
                 "Past": "تلاعَبو"
             }
         ],
-        "text": "<strong>تلاعَب</strong></span> <br>form 6<br>to trick</i>"
+        "text": "<strong>تلاعَب</strong></span> <br>form 6<br>to trick</i>",
+        "id": 507
     },
     {
         "verb": "رَقَص",
@@ -25447,7 +25955,8 @@
                 "Past": "رَقَصو"
             }
         ],
-        "text": "<strong>رَقَص</strong></span> <br>form 1<br>to dance</i>"
+        "text": "<strong>رَقَص</strong></span> <br>form 1<br>to dance</i>",
+        "id": 508
     },
     {
         "verb": "غَنّى",
@@ -25497,7 +26006,8 @@
                 "Past": "غَنّو"
             }
         ],
-        "text": "<strong>غَنّى</strong></span> <br>form 2<br>to sing</i>"
+        "text": "<strong>غَنّى</strong></span> <br>form 2<br>to sing</i>",
+        "id": 509
     },
     {
         "verb": "زَقَّف",
@@ -25547,7 +26057,8 @@
                 "Past": "زَقَّفو"
             }
         ],
-        "text": "<strong>زَقَّف</strong></span> <br>form 2<br>to clap</i>"
+        "text": "<strong>زَقَّف</strong></span> <br>form 2<br>to clap</i>",
+        "id": 510
     },
     {
         "verb": "اشتاق",
@@ -25597,7 +26108,8 @@
                 "Past": "اشتاقو"
             }
         ],
-        "text": "<strong>اشتاق</strong></span> <br>form 8<br>to miss</i>"
+        "text": "<strong>اشتاق</strong></span> <br>form 8<br>to miss</i>",
+        "id": 511
     },
     {
         "verb": "نَرفَز",
@@ -25647,7 +26159,8 @@
                 "Past": "نَرفَزو"
             }
         ],
-        "text": "<strong>نَرفَز</strong></span> <br>form 12<br>to agitate</i>"
+        "text": "<strong>نَرفَز</strong></span> <br>form 12<br>to agitate</i>",
+        "id": 512
     },
     {
         "verb": "احرَج",
@@ -25697,7 +26210,8 @@
                 "Past": "احرَجو"
             }
         ],
-        "text": "<strong>احرَج</strong></span> <br>form 4<br>to embarrass</i>"
+        "text": "<strong>احرَج</strong></span> <br>form 4<br>to embarrass</i>",
+        "id": 513
     },
     {
         "verb": "خَجَّل",
@@ -25747,7 +26261,8 @@
                 "Past": "خَجَّلو"
             }
         ],
-        "text": "<strong>خَجَّل</strong></span> <br>form 2<br>to embarrass</i>"
+        "text": "<strong>خَجَّل</strong></span> <br>form 2<br>to embarrass</i>",
+        "id": 514
     },
     {
         "verb": "استَحى",
@@ -25797,7 +26312,8 @@
                 "Past": "استَحو"
             }
         ],
-        "text": "<strong>استَحى</strong></span> <br>form 8<br>to be shy</i>"
+        "text": "<strong>استَحى</strong></span> <br>form 8<br>to be shy</i>",
+        "id": 515
     },
     {
         "verb": "نَقَّز",
@@ -25847,7 +26363,8 @@
                 "Past": "نَقَّزو"
             }
         ],
-        "text": "<strong>نَقَّز</strong></span> <br>form 2<br>to startle</i>"
+        "text": "<strong>نَقَّز</strong></span> <br>form 2<br>to startle</i>",
+        "id": 516
     },
     {
         "verb": "نَقَّز",
@@ -25897,7 +26414,8 @@
                 "Past": "نَقََو"
             }
         ],
-        "text": "<strong>نَقَّز</strong></span> <br>form 1<br>to startle</i>"
+        "text": "<strong>نَقَّز</strong></span> <br>form 1<br>to startle</i>",
+        "id": 517
     },
     {
         "verb": "خَوَّف",
@@ -25947,7 +26465,8 @@
                 "Past": "خَوو"
             }
         ],
-        "text": "<strong>خَوَّف</strong></span> <br>form 1<br>to fear</i>"
+        "text": "<strong>خَوَّف</strong></span> <br>form 1<br>to fear</i>",
+        "id": 518
     },
     {
         "verb": "خَوَّف",
@@ -25997,7 +26516,8 @@
                 "Past": "خَوَّفو"
             }
         ],
-        "text": "<strong>خَوَّف</strong></span> <br>form 2<br>to frighten</i>"
+        "text": "<strong>خَوَّف</strong></span> <br>form 2<br>to frighten</i>",
+        "id": 519
     },
     {
         "verb": "داخ",
@@ -26047,7 +26567,8 @@
                 "Past": "داخو"
             }
         ],
-        "text": "<strong>داخ</strong></span> <br>form 1<br>to get dizzy</i>"
+        "text": "<strong>داخ</strong></span> <br>form 1<br>to get dizzy</i>",
+        "id": 520
     },
     {
         "verb": "خِسِر",
@@ -26097,7 +26618,8 @@
                 "Past": "خِسرو"
             }
         ],
-        "text": "<strong>خِسِر</strong></span> <br>form 1<br>to lose</i>"
+        "text": "<strong>خِسِر</strong></span> <br>form 1<br>to lose</i>",
+        "id": 521
     },
     {
         "verb": "كِسِب",
@@ -26147,7 +26669,8 @@
                 "Past": "كِسبو"
             }
         ],
-        "text": "<strong>كِسِب</strong></span> <br>form 1<br>to gain</i>"
+        "text": "<strong>كِسِب</strong></span> <br>form 1<br>to gain</i>",
+        "id": 522
     },
     {
         "verb": "رِبِح",
@@ -26197,7 +26720,8 @@
                 "Past": "رِبحو"
             }
         ],
-        "text": "<strong>رِبِح</strong></span> <br>form 1<br>to win</i>"
+        "text": "<strong>رِبِح</strong></span> <br>form 1<br>to win</i>",
+        "id": 523
     },
     {
         "verb": "فاز",
@@ -26247,7 +26771,8 @@
                 "Past": "فازو"
             }
         ],
-        "text": "<strong>فاز</strong></span> <br>form 1<br>to win</i>"
+        "text": "<strong>فاز</strong></span> <br>form 1<br>to win</i>",
+        "id": 524
     },
     {
         "verb": "انتَصَر",
@@ -26297,7 +26822,8 @@
                 "Past": "انتَصَرو"
             }
         ],
-        "text": "<strong>انتَصَر</strong></span> <br>form 8<br>to be victorious</i>"
+        "text": "<strong>انتَصَر</strong></span> <br>form 8<br>to be victorious</i>",
+        "id": 525
     },
     {
         "verb": "غَلَّب",
@@ -26347,7 +26873,8 @@
                 "Past": "غَلَّبو"
             }
         ],
-        "text": "<strong>غَلَّب</strong></span> <br>form 2<br>to bother</i>"
+        "text": "<strong>غَلَّب</strong></span> <br>form 2<br>to bother</i>",
+        "id": 526
     },
     {
         "verb": "ضايَق",
@@ -26397,7 +26924,8 @@
                 "Past": "ضايَقو"
             }
         ],
-        "text": "<strong>ضايَق</strong></span> <br>form 3<br>to annoy</i>"
+        "text": "<strong>ضايَق</strong></span> <br>form 3<br>to annoy</i>",
+        "id": 527
     },
     {
         "verb": "قِلِق",
@@ -26447,7 +26975,8 @@
                 "Past": "قِلقو"
             }
         ],
-        "text": "<strong>قِلِق</strong></span> <br>form 1<br>to worry</i>"
+        "text": "<strong>قِلِق</strong></span> <br>form 1<br>to worry</i>",
+        "id": 528
     },
     {
         "verb": "قَرَّف",
@@ -26497,7 +27026,8 @@
                 "Past": "قَرَو"
             }
         ],
-        "text": "<strong>قَرَّف</strong></span> <br>form 1<br>to disgust</i>"
+        "text": "<strong>قَرَّف</strong></span> <br>form 1<br>to disgust</i>",
+        "id": 529
     },
     {
         "verb": "قَرَّف",
@@ -26547,7 +27077,8 @@
                 "Past": "قَرَّفو"
             }
         ],
-        "text": "<strong>قَرَّف</strong></span> <br>form 2<br>to disgust</i>"
+        "text": "<strong>قَرَّف</strong></span> <br>form 2<br>to disgust</i>",
+        "id": 530
     },
     {
         "verb": "زَعَّل",
@@ -26597,7 +27128,8 @@
                 "Past": "زَعَو"
             }
         ],
-        "text": "<strong>زَعَّل</strong></span> <br>form 1<br>to upset</i>"
+        "text": "<strong>زَعَّل</strong></span> <br>form 1<br>to upset</i>",
+        "id": 531
     },
     {
         "verb": "زَعَّل",
@@ -26647,7 +27179,8 @@
                 "Past": "زَعَّلو"
             }
         ],
-        "text": "<strong>زَعَّل</strong></span> <br>form 2<br>to upset</i>"
+        "text": "<strong>زَعَّل</strong></span> <br>form 2<br>to upset</i>",
+        "id": 532
     },
     {
         "verb": "زَهَّق",
@@ -26697,7 +27230,8 @@
                 "Past": "زَهَو"
             }
         ],
-        "text": "<strong>زَهَّق</strong></span> <br>form 1<br>to bore</i>"
+        "text": "<strong>زَهَّق</strong></span> <br>form 1<br>to bore</i>",
+        "id": 533
     },
     {
         "verb": "زَهَّق",
@@ -26747,7 +27281,8 @@
                 "Past": "زَهَّقو"
             }
         ],
-        "text": "<strong>زَهَّق</strong></span> <br>form 2<br>to bore</i>"
+        "text": "<strong>زَهَّق</strong></span> <br>form 2<br>to bore</i>",
+        "id": 534
     },
     {
         "verb": "تَعَّب",
@@ -26797,7 +27332,8 @@
                 "Past": "تَعَو"
             }
         ],
-        "text": "<strong>تَعَّب</strong></span> <br>form 1<br>to tire</i>"
+        "text": "<strong>تَعَّب</strong></span> <br>form 1<br>to tire</i>",
+        "id": 535
     },
     {
         "verb": "تَعَّب",
@@ -26847,7 +27383,8 @@
                 "Past": "تَعَّبو"
             }
         ],
-        "text": "<strong>تَعَّب</strong></span> <br>form 2<br>to tire</i>"
+        "text": "<strong>تَعَّب</strong></span> <br>form 2<br>to tire</i>",
+        "id": 536
     },
     {
         "verb": "عِرِق",
@@ -26897,7 +27434,8 @@
                 "Past": "عِرقو"
             }
         ],
-        "text": "<strong>عِرِق</strong></span> <br>form 1<br>to sweat</i>"
+        "text": "<strong>عِرِق</strong></span> <br>form 1<br>to sweat</i>",
+        "id": 537
     },
     {
         "verb": "حَزَّن",
@@ -26947,7 +27485,8 @@
                 "Past": "حَزَو"
             }
         ],
-        "text": "<strong>حَزَّن</strong></span> <br>form 1<br>to sadden</i>"
+        "text": "<strong>حَزَّن</strong></span> <br>form 1<br>to sadden</i>",
+        "id": 538
     },
     {
         "verb": "حَزَّن",
@@ -26997,7 +27536,8 @@
                 "Past": "حَزَّنو"
             }
         ],
-        "text": "<strong>حَزَّن</strong></span> <br>form 2<br>to sadden</i>"
+        "text": "<strong>حَزَّن</strong></span> <br>form 2<br>to sadden</i>",
+        "id": 539
     },
     {
         "verb": "تنَمَّر",
@@ -27047,7 +27587,8 @@
                 "Past": "تنَمَّرو"
             }
         ],
-        "text": "<strong>تنَمَّر</strong></span> <br>form 5<br>to bully</i>"
+        "text": "<strong>تنَمَّر</strong></span> <br>form 5<br>to bully</i>",
+        "id": 540
     },
     {
         "verb": "زانَخ",
@@ -27097,7 +27638,8 @@
                 "Past": "زانَخو"
             }
         ],
-        "text": "<strong>زانَخ</strong></span> <br>form 3<br>to bully</i>"
+        "text": "<strong>زانَخ</strong></span> <br>form 3<br>to bully</i>",
+        "id": 541
     },
     {
         "verb": "حَكَم",
@@ -27147,7 +27689,8 @@
                 "Past": "حَكَمو"
             }
         ],
-        "text": "<strong>حَكَم</strong></span> <br>form 1<br>to judge</i>"
+        "text": "<strong>حَكَم</strong></span> <br>form 1<br>to judge</i>",
+        "id": 542
     },
     {
         "verb": "تحَكَّم",
@@ -27197,7 +27740,8 @@
                 "Past": "تحَكَّمو"
             }
         ],
-        "text": "<strong>تحَكَّم</strong></span> <br>form 5<br>to control</i>"
+        "text": "<strong>تحَكَّم</strong></span> <br>form 5<br>to control</i>",
+        "id": 543
     },
     {
         "verb": "صَوَّت",
@@ -27247,7 +27791,8 @@
                 "Past": "صَوَّتو"
             }
         ],
-        "text": "<strong>صَوَّت</strong></span> <br>form 2<br>to vote</i>"
+        "text": "<strong>صَوَّت</strong></span> <br>form 2<br>to vote</i>",
+        "id": 544
     },
     {
         "verb": "رَشَّح",
@@ -27297,7 +27842,8 @@
                 "Past": "رَشَّحو"
             }
         ],
-        "text": "<strong>رَشَّح</strong></span> <br>form 2<br>to nominate</i>"
+        "text": "<strong>رَشَّح</strong></span> <br>form 2<br>to nominate</i>",
+        "id": 545
     },
     {
         "verb": "انتَخَب",
@@ -27347,7 +27893,8 @@
                 "Past": "انتَخَبو"
             }
         ],
-        "text": "<strong>انتَخَب</strong></span> <br>form 8<br>to elect</i>"
+        "text": "<strong>انتَخَب</strong></span> <br>form 8<br>to elect</i>",
+        "id": 546
     },
     {
         "verb": "حَلّ",
@@ -27397,7 +27944,8 @@
                 "Past": "حَلّو"
             }
         ],
-        "text": "<strong>حَلّ</strong></span> <br>form 1<br>to solve</i>"
+        "text": "<strong>حَلّ</strong></span> <br>form 1<br>to solve</i>",
+        "id": 547
     },
     {
         "verb": "حَلَّل",
@@ -27447,7 +27995,8 @@
                 "Past": "حَلَّلو"
             }
         ],
-        "text": "<strong>حَلَّل</strong></span> <br>form 2<br>to analyze</i>"
+        "text": "<strong>حَلَّل</strong></span> <br>form 2<br>to analyze</i>",
+        "id": 548
     },
     {
         "verb": "احتَلّ",
@@ -27497,7 +28046,8 @@
                 "Past": "احتَلّو"
             }
         ],
-        "text": "<strong>احتَلّ</strong></span> <br>form 8<br>to occupy</i>"
+        "text": "<strong>احتَلّ</strong></span> <br>form 8<br>to occupy</i>",
+        "id": 549
     },
     {
         "verb": "بَنى",
@@ -27547,7 +28097,8 @@
                 "Past": "بَنو"
             }
         ],
-        "text": "<strong>بَنى</strong></span> <br>form 1<br>to build</i>"
+        "text": "<strong>بَنى</strong></span> <br>form 1<br>to build</i>",
+        "id": 550
     },
     {
         "verb": "عَمَّر",
@@ -27597,7 +28148,8 @@
                 "Past": "عَمَّرو"
             }
         ],
-        "text": "<strong>عَمَّر</strong></span> <br>form 2<br>to build</i>"
+        "text": "<strong>عَمَّر</strong></span> <br>form 2<br>to build</i>",
+        "id": 551
     },
     {
         "verb": "استَعمَر",
@@ -27647,7 +28199,8 @@
                 "Past": "استَعمَرو"
             }
         ],
-        "text": "<strong>استَعمَر</strong></span> <br>form 10<br>to colonize</i>"
+        "text": "<strong>استَعمَر</strong></span> <br>form 10<br>to colonize</i>",
+        "id": 552
     },
     {
         "verb": "استَوطَن",
@@ -27697,7 +28250,8 @@
                 "Past": "استَوطَنو"
             }
         ],
-        "text": "<strong>استَوطَن</strong></span> <br>form 10<br>to settle</i>"
+        "text": "<strong>استَوطَن</strong></span> <br>form 10<br>to settle</i>",
+        "id": 553
     },
     {
         "verb": "طَبَّع",
@@ -27747,7 +28301,8 @@
                 "Past": "طَبَّعو"
             }
         ],
-        "text": "<strong>طَبَّع</strong></span> <br>form 2<br>to normalize</i>"
+        "text": "<strong>طَبَّع</strong></span> <br>form 2<br>to normalize</i>",
+        "id": 554
     },
     {
         "verb": "اعتَقَل",
@@ -27797,7 +28352,8 @@
                 "Past": "اعتَقَلو"
             }
         ],
-        "text": "<strong>اعتَقَل</strong></span> <br>form 8<br>to arrest</i>"
+        "text": "<strong>اعتَقَل</strong></span> <br>form 8<br>to arrest</i>",
+        "id": 555
     },
     {
         "verb": "ابتَزّ",
@@ -27847,7 +28403,8 @@
                 "Past": "ابتَزّو"
             }
         ],
-        "text": "<strong>ابتَزّ</strong></span> <br>form 8<br>to blackmail</i>"
+        "text": "<strong>ابتَزّ</strong></span> <br>form 8<br>to blackmail</i>",
+        "id": 556
     },
     {
         "verb": "اغتال",
@@ -27897,7 +28454,8 @@
                 "Past": "اغتالو"
             }
         ],
-        "text": "<strong>اغتال</strong></span> <br>form 8<br>to assassinate</i>"
+        "text": "<strong>اغتال</strong></span> <br>form 8<br>to assassinate</i>",
+        "id": 557
     },
     {
         "verb": "قَتَل",
@@ -27947,7 +28505,8 @@
                 "Past": "قَتَلو"
             }
         ],
-        "text": "<strong>قَتَل</strong></span> <br>form 1<br>to kill</i>"
+        "text": "<strong>قَتَل</strong></span> <br>form 1<br>to kill</i>",
+        "id": 558
     },
     {
         "verb": "تقاتَل",
@@ -27997,7 +28556,8 @@
                 "Past": "تقاتَلو"
             }
         ],
-        "text": "<strong>تقاتَل</strong></span> <br>form 6<br>to fight</i>"
+        "text": "<strong>تقاتَل</strong></span> <br>form 6<br>to fight</i>",
+        "id": 559
     },
     {
         "verb": "تخانَق",
@@ -28047,7 +28607,8 @@
                 "Past": "تخانَقو"
             }
         ],
-        "text": "<strong>تخانَق</strong></span> <br>form 6<br>to fight</i>"
+        "text": "<strong>تخانَق</strong></span> <br>form 6<br>to fight</i>",
+        "id": 560
     },
     {
         "verb": "هَوَّش",
@@ -28097,7 +28658,8 @@
                 "Past": "هَوَّشو"
             }
         ],
-        "text": "<strong>هَوَّش</strong></span> <br>form 2<br>to fight</i>"
+        "text": "<strong>هَوَّش</strong></span> <br>form 2<br>to fight</i>",
+        "id": 561
     },
     {
         "verb": "تحارَب",
@@ -28147,7 +28709,8 @@
                 "Past": "تحارَبو"
             }
         ],
-        "text": "<strong>تحارَب</strong></span> <br>form 6<br>to fight</i>"
+        "text": "<strong>تحارَب</strong></span> <br>form 6<br>to fight</i>",
+        "id": 562
     },
     {
         "verb": "طَخّ",
@@ -28197,7 +28760,8 @@
                 "Past": "طَخّو"
             }
         ],
-        "text": "<strong>طَخّ</strong></span> <br>form 1<br>to shoot</i>"
+        "text": "<strong>طَخّ</strong></span> <br>form 1<br>to shoot</i>",
+        "id": 563
     },
     {
         "verb": "عَذَّب",
@@ -28247,7 +28811,8 @@
                 "Past": "عَذَّبو"
             }
         ],
-        "text": "<strong>عَذَّب</strong></span> <br>form 2<br>to torture</i>"
+        "text": "<strong>عَذَّب</strong></span> <br>form 2<br>to torture</i>",
+        "id": 564
     },
     {
         "verb": "ظَلَم",
@@ -28297,7 +28862,8 @@
                 "Past": "ظَلَمو"
             }
         ],
-        "text": "<strong>ظَلَم</strong></span> <br>form 1<br>to oppress</i>"
+        "text": "<strong>ظَلَم</strong></span> <br>form 1<br>to oppress</i>",
+        "id": 565
     },
     {
         "verb": "ثار",
@@ -28347,7 +28913,8 @@
                 "Past": "ثارو"
             }
         ],
-        "text": "<strong>ثار</strong></span> <br>form 1<br>to rebel</i>"
+        "text": "<strong>ثار</strong></span> <br>form 1<br>to rebel</i>",
+        "id": 566
     },
     {
         "verb": "تمَرَّد",
@@ -28397,7 +28964,8 @@
                 "Past": "تمَرَّدو"
             }
         ],
-        "text": "<strong>تمَرَّد</strong></span> <br>form 5<br>to revolt</i>"
+        "text": "<strong>تمَرَّد</strong></span> <br>form 5<br>to revolt</i>",
+        "id": 567
     },
     {
         "verb": "احتَجّ",
@@ -28447,7 +29015,8 @@
                 "Past": "احتَجّو"
             }
         ],
-        "text": "<strong>احتَجّ</strong></span> <br>form 8<br>to protest</i>"
+        "text": "<strong>احتَجّ</strong></span> <br>form 8<br>to protest</i>",
+        "id": 568
     },
     {
         "verb": "حَرَّر",
@@ -28497,7 +29066,8 @@
                 "Past": "حَرَّرو"
             }
         ],
-        "text": "<strong>حَرَّر</strong></span> <br>form 2<br>to liberate</i>"
+        "text": "<strong>حَرَّر</strong></span> <br>form 2<br>to liberate</i>",
+        "id": 569
     },
     {
         "verb": "استَقَلّ",
@@ -28547,7 +29117,8 @@
                 "Past": "استَقَلّو"
             }
         ],
-        "text": "<strong>استَقَلّ</strong></span> <br>form 10<br>to gain indep.</i>"
+        "text": "<strong>استَقَلّ</strong></span> <br>form 10<br>to gain indep.</i>",
+        "id": 570
     },
     {
         "verb": "اختَرَع",
@@ -28597,7 +29168,8 @@
                 "Past": "اختَرَعو"
             }
         ],
-        "text": "<strong>اختَرَع</strong></span> <br>form 8<br>to invent</i>"
+        "text": "<strong>اختَرَع</strong></span> <br>form 8<br>to invent</i>",
+        "id": 571
     },
     {
         "verb": "زَرَع",
@@ -28647,7 +29219,8 @@
                 "Past": "زَرَعو"
             }
         ],
-        "text": "<strong>زَرَع</strong></span> <br>form 1<br>to plant</i>"
+        "text": "<strong>زَرَع</strong></span> <br>form 1<br>to plant</i>",
+        "id": 572
     },
     {
         "verb": "اشمَس",
@@ -28697,7 +29270,8 @@
                 "Past": "اشمَسو"
             }
         ],
-        "text": "<strong>اشمَس</strong></span> <br>form 4<br>to be sunny</i>"
+        "text": "<strong>اشمَس</strong></span> <br>form 4<br>to be sunny</i>",
+        "id": 573
     },
     {
         "verb": "شَمَّس",
@@ -28747,7 +29321,8 @@
                 "Past": "شَمَّسو"
             }
         ],
-        "text": "<strong>شَمَّس</strong></span> <br>form 2<br>to be sunny</i>"
+        "text": "<strong>شَمَّس</strong></span> <br>form 2<br>to be sunny</i>",
+        "id": 574
     },
     {
         "verb": "تشَمَّس",
@@ -28797,7 +29372,8 @@
                 "Past": "تشَمَّسو"
             }
         ],
-        "text": "<strong>تشَمَّس</strong></span> <br>form 5<br>to get sun</i>"
+        "text": "<strong>تشَمَّس</strong></span> <br>form 5<br>to get sun</i>",
+        "id": 575
     },
     {
         "verb": "شَتَّت",
@@ -28847,7 +29423,8 @@
                 "Past": "شَتّو"
             }
         ],
-        "text": "<strong>شَتَّت</strong></span> <br>form 2<br>to rain</i>"
+        "text": "<strong>شَتَّت</strong></span> <br>form 2<br>to rain</i>",
+        "id": 576
     },
     {
         "verb": "اشتَت",
@@ -28897,7 +29474,8 @@
                 "Past": "اشتو"
             }
         ],
-        "text": "<strong>اشتَت</strong></span> <br>form 4<br>to rain</i>"
+        "text": "<strong>اشتَت</strong></span> <br>form 4<br>to rain</i>",
+        "id": 577
     },
     {
         "verb": "اتلَجَت",
@@ -28947,7 +29525,8 @@
                 "Past": "اتلَجو"
             }
         ],
-        "text": "<strong>اتلَجَت</strong></span> <br>form 4<br>to snow</i>"
+        "text": "<strong>اتلَجَت</strong></span> <br>form 4<br>to snow</i>",
+        "id": 578
     },
     {
         "verb": "تَلَّج",
@@ -28997,7 +29576,8 @@
                 "Past": "تَلَّجو"
             }
         ],
-        "text": "<strong>تَلَّج</strong></span> <br>form 2<br>to freeze</i>"
+        "text": "<strong>تَلَّج</strong></span> <br>form 2<br>to freeze</i>",
+        "id": 579
     },
     {
         "verb": "جَمَّد",
@@ -29047,7 +29627,8 @@
                 "Past": "جَمَّدو"
             }
         ],
-        "text": "<strong>جَمَّد</strong></span> <br>form 2<br>to freeze</i>"
+        "text": "<strong>جَمَّد</strong></span> <br>form 2<br>to freeze</i>",
+        "id": 580
     },
     {
         "verb": "بَرَّد",
@@ -29097,7 +29678,8 @@
                 "Past": "بَرََو"
             }
         ],
-        "text": "<strong>بَرَّد</strong></span> <br>form 1<br>to cool down</i>"
+        "text": "<strong>بَرَّد</strong></span> <br>form 1<br>to cool down</i>",
+        "id": 581
     },
     {
         "verb": "بَرَّد",
@@ -29147,7 +29729,8 @@
                 "Past": "بَرَّدو"
             }
         ],
-        "text": "<strong>بَرَّد</strong></span> <br>form 2<br>to cool down</i>"
+        "text": "<strong>بَرَّد</strong></span> <br>form 2<br>to cool down</i>",
+        "id": 582
     },
     {
         "verb": "سَخَّن",
@@ -29197,7 +29780,8 @@
                 "Past": "سَخََو"
             }
         ],
-        "text": "<strong>سَخَّن</strong></span> <br>form 1<br>to heat up</i>"
+        "text": "<strong>سَخَّن</strong></span> <br>form 1<br>to heat up</i>",
+        "id": 583
     },
     {
         "verb": "سَخَّن",
@@ -29247,7 +29831,8 @@
                 "Past": "سَخَّنو"
             }
         ],
-        "text": "<strong>سَخَّن</strong></span> <br>form 2<br>to heat up</i>"
+        "text": "<strong>سَخَّن</strong></span> <br>form 2<br>to heat up</i>",
+        "id": 584
     },
     {
         "verb": "شَوَّب",
@@ -29297,7 +29882,8 @@
                 "Past": "شَوَّبو"
             }
         ],
-        "text": "<strong>شَوَّب</strong></span> <br>form 2<br>to give out heat</i>"
+        "text": "<strong>شَوَّب</strong></span> <br>form 2<br>to give out heat</i>",
+        "id": 585
     },
     {
         "verb": "غَلّى",
@@ -29347,7 +29933,8 @@
                 "Past": "غَلو"
             }
         ],
-        "text": "<strong>غَلّى</strong></span> <br>form 1<br>to boil</i>"
+        "text": "<strong>غَلّى</strong></span> <br>form 1<br>to boil</i>",
+        "id": 586
     },
     {
         "verb": "غَلّى",
@@ -29397,7 +29984,8 @@
                 "Past": "غَلّو"
             }
         ],
-        "text": "<strong>غَلّى</strong></span> <br>form 2<br>to boil</i>"
+        "text": "<strong>غَلّى</strong></span> <br>form 2<br>to boil</i>",
+        "id": 587
     },
     {
         "verb": "داب",
@@ -29447,7 +30035,8 @@
                 "Past": "دابو"
             }
         ],
-        "text": "<strong>داب</strong></span> <br>form 1<br>to melt</i>"
+        "text": "<strong>داب</strong></span> <br>form 1<br>to melt</i>",
+        "id": 588
     },
     {
         "verb": "وَلَّع",
@@ -29497,7 +30086,8 @@
                 "Past": "وَلَّعو"
             }
         ],
-        "text": "<strong>وَلَّع</strong></span> <br>form 2<br>to light on fire</i>"
+        "text": "<strong>وَلَّع</strong></span> <br>form 2<br>to light on fire</i>",
+        "id": 589
     },
     {
         "verb": "تبَخَّر",
@@ -29547,7 +30137,8 @@
                 "Past": "تبَخَّرو"
             }
         ],
-        "text": "<strong>تبَخَّر</strong></span> <br>form 5<br>to evaporate</i>"
+        "text": "<strong>تبَخَّر</strong></span> <br>form 5<br>to evaporate</i>",
+        "id": 590
     },
     {
         "verb": "راح يُسكُن",
@@ -29597,7 +30188,8 @@
                 "Past": "راحو"
             }
         ],
-        "text": "<strong>راح يُسكُن</strong></span> <br>form 1<br>to move</i>"
+        "text": "<strong>راح يُسكُن</strong></span> <br>form 1<br>to move</i>",
+        "id": 591
     },
     {
         "verb": "نَقَل الحَكي",
@@ -29647,7 +30239,8 @@
                 "Past": "نَقَلو"
             }
         ],
-        "text": "<strong>نَقَل الحَكي</strong></span> <br>form 1<br>to gossip</i>"
+        "text": "<strong>نَقَل الحَكي</strong></span> <br>form 1<br>to gossip</i>",
+        "id": 592
     },
     {
         "verb": "دار باله",
@@ -29697,7 +30290,8 @@
                 "Past": "دارو"
             }
         ],
-        "text": "<strong>دار باله</strong></span> <br>form 1<br>to be careful</i>"
+        "text": "<strong>دار باله</strong></span> <br>form 1<br>to be careful</i>",
+        "id": 593
     },
     {
         "verb": "خفَّف وَزنه",
@@ -29747,6 +30341,7 @@
                 "Past": "خفَّف و"
             }
         ],
-        "text": "<strong>خفَّف وَزنه</strong></span> <br>form 2<br>to lose weight</i>"
+        "text": "<strong>خفَّف وَزنه</strong></span> <br>form 2<br>to lose weight</i>",
+        "id": 594
     }
 ]

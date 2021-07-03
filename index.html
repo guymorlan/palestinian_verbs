@@ -12,7 +12,26 @@
 
 
 <body>
+<style>
+.row {
+  display: flex;
+  margin-left:-5px;
+  margin-right:-5px;
+}
 
+.column {
+  flex: 90%;
+  padding: 5px;
+}
+
+
+.select2-container {
+
+font-size: 200%;
+}
+
+
+</style>
 
 <center>
 <select class="js-example-basic-single" name="verb" style="width: 1000px; height: 150px; font-size: 100em">
@@ -21,13 +40,30 @@
 
 <br>
 <br>
-<div class="info" name="verb-info"></div>
+<div class="info" name="verb-info" style="font-size: 200%"></div>
 
 <center>
-<h1>Primary conjugations</h1>
- <div id="main-table"></div>
+<h1>Conjugations</h1>
+<div class="row">
+<div class="column">
+ <div id="en-main-table"></div></div>
+ <div class = "column">
+ <div id="en-other-table"></div></div>
+ </div>
+
+ </ br>
+ 
+ <h1>בתעתיק מילולי</h1>
+ <div class="row">
+ <div class="column">
+ <div id="he-main-table"></div></div>
+ <div class="column">
+ <div id="he-other-table"></div></div>
+ </div>
+ 
  
  </ br>
+
 
  </center>
 

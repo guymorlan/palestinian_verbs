@@ -13,17 +13,23 @@
 
 <body>
 <style>
-.row {
-  display: flex;
-  margin-left:1px;
-  margin-right:1px;
+* {
+  box-sizing: border-box;
 }
 
+/* Create a two-column layout */
 .column {
-  flex: 100%;
-  padding: 1px;
+  float: left;
+  width: 50%;
+  padding: 5px;
 }
 
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
 .select2-container {
 
